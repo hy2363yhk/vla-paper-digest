@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "paper_id": "d0f525dba7d3425e36316127424e67fe2c2fdb0d",
+    "pushed_on": "2026-04-29",
+    "bucket": "top_ranked",
+    "title": "Real-Time Execution of Action Chunking Flow Policies"
+  },
+  {
+    "paper_id": "d1e75e3df37ed2b2cfea1a28bbbf30c505095b55",
+    "pushed_on": "2026-04-29",
+    "bucket": "top_ranked",
+    "title": "Learning Native Continuation for Action Chunking Flow Policies"
+  },
+  {
+    "paper_id": "openreview:UkR2zO5uww",
+    "pushed_on": "2026-04-29",
+    "bucket": "top_ranked",
+    "title": "Real-Time Execution of Action Chunking Flow Policies"
+  },
+  {
+    "paper_id": "80d29b985f148d700ef8781bdf3894dade8dc80a",
+    "pushed_on": "2026-04-29",
+    "bucket": "top_ranked",
+    "title": "EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning"
+  },
+  {
+    "paper_id": "3e22f52d5ee4e486bac02cef93be81b7a40b9abb",
+    "pushed_on": "2026-04-29",
+    "bucket": "top_ranked",
+    "title": "Learning Compositional Behaviors from Demonstration and Language"
+  },
+  {
+    "paper_id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+    "pushed_on": "2026-04-29",
+    "bucket": "classic",
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"
+  }
+]
