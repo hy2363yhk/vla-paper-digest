@@ -36,6 +36,8 @@ from src.models import Paper
 from src.utils import now_utc
 
 ARXIV_API = "https://export.arxiv.org/api/query"
+# urlencode ``safe=`` must not live inside an f-string ``{...}`` (backslashes illegal there).
+_ARXIV_URLENC_SAFE = ':()" '
 
 # arXiv asks us to pace our requests. 3s between calls is their recommended
 # interval; we sometimes relax this to 1s when they return cached responses.
@@ -46,7 +48,7 @@ _ARXIV_PACE_SECONDS = 3.0
 
 def _get_feed(params: dict, *, pace: float = _ARXIV_PACE_SECONDS) -> feedparser.FeedParserDict | None:
     """Fire one arXiv API call, return parsed feed or ``None`` on network error."""
-    url = f"{ARXIV_API}?{urlencode(params, safe=':()\" ')}"
+    url = f"{ARXIV_API}?{urlencode(params, safe=_ARXIV_URLENC_SAFE)}"
     logger.debug(f"[arXiv] GET {url}")
     try:
         with httpx.Client(

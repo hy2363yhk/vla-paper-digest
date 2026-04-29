@@ -310,14 +310,40 @@
     "arxiv_id": "2503.03660"
   },
   {
-    "title": "BESO: Behavior Generation with Latent Actions",
-    "year": 2024,
-    "category": "Behavior generation"
+    "title": "Goal-Conditioned Imitation Learning using Score-based Diffusion Policies",
+    "year": 2023,
+    "category": "Behavior generation",
+    "paper_id": "1334a47e8f4e4ffd04ff534329d76a5e5cc16f46",
+    "abstract": "We propose a new policy representation based on score-based diffusion models (SDMs). We apply our new policy representation in the domain of Goal-Conditioned Imitation Learning (GCIL) to learn general-purpose goal-specified policies from large uncurated datasets without rewards. Our new goal-conditioned policy architecture \"BEhavior generation with ScOre-based Diffusion Policies\" (BESO) leverages a generative, score-based diffusion model as its policy. BESO decouples the learning of the score model from the inference sampling process, and, hence allows for fast sampling strategies to generate goal-specified behavior in just 3 denoising steps, compared to 30+ steps of other diffusion based policies.",
+    "authors": [
+      "Moritz Reuss",
+      "M. Li",
+      "Xiaogang Jia",
+      "Rudolf Lioutikov"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2023,
+    "arxiv_id": "2304.02532"
   },
   {
-    "title": "RoboVLMs: A Unified Framework for Vision-Language Foundation Models-Based Robot Manipulation",
+    "title": "What matters in building vision-language-action models for generalist robots",
     "year": 2024,
-    "category": "VLA foundation"
+    "category": "VLA foundation",
+    "paper_id": "7d638461965faa79cfd28d5f0a6fbb12fca41c9f",
+    "abstract": "To utilize foundation vision-language models (VLMs) for robotic tasks and motion planning, the community has proposed different methods for injecting action components into VLMs and building the vision-language-action models (VLAs). Here we disclose the key factors that significantly influence the performance of VLA on robot manipulation problems and focus on answering three essential design choices: which backbone to select, how to formulate the VLA architectures and when to add cross-embodiment data. The obtained results explain why we prefer VLA and develop a new family of VLAs, RoboVLMs, which require very few manual designs and achieve state-of-the-art performance in three simulation tasks and real-world experiments. Through over 8 VLM backbones, 4 policy architectures and 600+ designed experiments, this work provides a detailed guidebook for the future design of VLAs.",
+    "authors": [
+      "Xinghang Li",
+      "Peiyan Li",
+      "Long Qian",
+      "Minghuan Liu",
+      "Dong Wang",
+      "Jirong Liu",
+      "Bingyi Kang",
+      "Xiao Ma"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "year_resolved": 2024,
+    "arxiv_id": "2412.14058"
   },
   {
     "title": "Surfer: Progressive Reasoning with World Models for Robotic Manipulation",
@@ -359,9 +385,24 @@
     "arxiv_id": "2401.00025"
   },
   {
-    "title": "TRI-M: Token-Level Trajectory Imitation for Manipulation",
+    "title": "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos",
     "year": 2024,
-    "category": "Trajectory representation"
+    "category": "Trajectory representation",
+    "paper_id": "94fb3041f7fa85d889950c5f98848795a2b90cd6",
+    "abstract": "Recent developments in Large Language Models pre-trained on extensive corpora have shown significant success in various natural language processing tasks with minimal fine-tuning. This success offers new promise for robotics, which has long been constrained by the high cost of action-labeled data. Inspired by how humans learn new skills through observing dynamic environments, we propose that effective robotic learning should emphasize motion-related knowledge, which is closely tied to low-level actions and is hardware-agnostic. Moto converts video content into latent Motion Token sequences via a Latent Motion Tokenizer, learning a bridging \"language\" of motion from videos in an unsupervised manner. After pre-training, Moto-GPT can produce semantically interpretable motion tokens, predict plausible motion trajectories, and transfers learned motion priors to real robot actions through co-fine-tuning, demonstrating superior robustness and efficiency on manipulation benchmarks.",
+    "authors": [
+      "Yi Chen",
+      "Yuying Ge",
+      "Weiliang Tang",
+      "Yizhuo Li",
+      "Yixiao Ge",
+      "Mingyu Ding",
+      "Ying Shan",
+      "Xihui Liu"
+    ],
+    "venue": "arXiv.org",
+    "year_resolved": 2024,
+    "arxiv_id": "2412.04445"
   },
   {
     "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning",
@@ -380,9 +421,20 @@
     "arxiv_id": "2307.01849"
   },
   {
-    "title": "HPT: Heterogeneous Pre-trained Transformers for Robot Learning",
+    "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers",
     "year": 2024,
-    "category": "Pre-training"
+    "category": "Pre-training",
+    "paper_id": "35700b2794a8c221aff817cd1d7d01a36539df28",
+    "abstract": "One of the roadblocks for training generalist robotic models today is heterogeneity. Previous robot learning methods often collect data to train with one specific embodiment for one task, which is expensive and prone to overfitting. We propose Heterogeneous Pre-trained Transformers (HPT), which pre-train a large, shareable trunk of a policy neural network to learn a task and embodiment agnostic shared representation. This general architecture aligns proprioception and vision inputs from distinct embodiments to a short sequence of tokens, then maps them to control different robots for different tasks. Across 52 datasets including real-world multi-embodiment robotic data, simulation, deployed robots, and human videos, HPTs outperform several baselines and enhance fine-tuned policy performance by over 20% on unseen tasks in multiple simulator benchmarks and real-world settings.",
+    "authors": [
+      "Lirui Wang",
+      "Xinlei Chen",
+      "Jialiang Zhao",
+      "Kaiming He"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year_resolved": 2024,
+    "arxiv_id": "2409.20537"
   },
   {
     "title": "Learning Universal Policies via Text-Guided Video Generation",
