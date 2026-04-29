@@ -1,0 +1,373 @@
+# Curated lab / lab-PI anchors for the paper-discovery step.
+# Adapted from paper_pulse/config.yaml, trimmed to the VLA + LLM-foundation
+# subset most relevant to the user's PhD direction, and extended with
+# VLA-specific academic labs (IRIS/BAIR/RAIL/Physical Intelligence/NVIDIA GEAR).
+#
+# Schema per lab:
+#   arxiv_au       - collective / author names used when they sign arXiv submissions
+#   title_keywords - brand names to match in title (e.g. "Kimi", "π0")
+#   watchlist_ids  - hard-coded arXiv IDs we want to force-pull (metadata has no org hint)
+#   weight         - lab-boost multiplier (1.0 default; see src/scoring.py)
+#   tier           - 1 (tier-1 flagship) | 2 (tier-2) — display-only tag
+
+labs:
+
+  # ── VLA / Robotics industry labs (HIGHEST priority) ─────────────────
+  physical_intelligence:
+    label: "Physical Intelligence"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Physical Intelligence"
+      - "Karol Hausman"
+      - "Chelsea Finn"
+      - "Sergey Levine"
+      - "Quan Vuong"
+      - "Kevin Black"
+      - "Michael Equi"
+      - "Szymon Jakubczak"
+      - "Danny Driess"
+    title_keywords: ["π0", "pi0", "pi-0.5", "RT-X"]
+    watchlist_ids: []
+
+  nvidia_gear:
+    label: "NVIDIA GEAR"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Jim Fan"
+      - "Linxi Fan"
+      - "Yuke Zhu"
+      - "Yunfan Jiang"
+      - "De-An Huang"
+    title_keywords: ["GR00T", "Eureka", "Voyager"]
+    watchlist_ids: []
+
+  nvidia_research:
+    label: "NVIDIA Research"
+    tier: 1
+    weight: 0.9
+    arxiv_au:
+      - "Mohammad Shoeybi"
+      - "Bryan Catanzaro"
+      - "Wei Ping"
+      - "Zhiding Yu"
+      - "Ming-Yu Liu"
+    title_keywords: []
+    watchlist_ids: []
+
+  google_deepmind_robotics:
+    label: "Google DeepMind Robotics"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Ted Xiao"
+      - "Keerthana Gopalakrishnan"
+      - "Brian Ichter"
+      - "Fei Xia"
+      - "Karol Hausman"
+      - "Pannag Sanketi"
+      - "Danny Driess"
+    title_keywords: ["RT-1", "RT-2", "RT-Trajectory", "SARA-RT", "AutoRT", "Gemini Robotics"]
+    watchlist_ids: []
+
+  google_deepmind:
+    label: "Google DeepMind"
+    tier: 1
+    weight: 0.8
+    arxiv_au:
+      - "Gemini Team"
+      - "Petko Georgiev"
+      - "Ryan Burnell"
+      - "Roy Frostig"
+    title_keywords: ["Gemini", "Gemma"]
+    watchlist_ids: []
+
+  meta_fair_robotics:
+    label: "Meta FAIR Robotics"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Akshara Rai"
+      - "Abhinav Gupta"
+      - "Roberto Calandra"
+      - "Franziska Meier"
+      - "Andrew Szot"
+    title_keywords: ["CortexBench", "Habitat"]
+    watchlist_ids: []
+
+  # ── VLA / Robotics academic labs ────────────────────────────────────
+  stanford_iris:
+    label: "Stanford IRIS / SAIL"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Fei-Fei Li"
+      - "Li Fei-Fei"
+      - "Jiajun Wu"
+      - "C. Karen Liu"
+      - "Shuran Song"
+      - "Chelsea Finn"
+      - "Dorsa Sadigh"
+      - "Ruohan Zhang"
+    title_keywords: ["BEHAVIOR", "ALOHA", "Mobile ALOHA"]
+    watchlist_ids: []
+
+  berkeley_bair_rail:
+    label: "UC Berkeley BAIR / RAIL"
+    tier: 1
+    weight: 1.0
+    arxiv_au:
+      - "Pieter Abbeel"
+      - "Sergey Levine"
+      - "Trevor Darrell"
+      - "Jitendra Malik"
+      - "Koushil Sreenath"
+      - "Fangchen Liu"
+    title_keywords: ["OpenVLA", "Octo"]
+    watchlist_ids: []
+
+  cmu_robotics:
+    label: "CMU Robotics Institute"
+    tier: 2
+    weight: 0.8
+    arxiv_au:
+      - "Deepak Pathak"
+      - "Shubham Tulsiani"
+      - "Abhinav Gupta"
+      - "Ruslan Salakhutdinov"
+    title_keywords: []
+    watchlist_ids: []
+
+  mit_csail:
+    label: "MIT CSAIL"
+    tier: 2
+    weight: 0.8
+    arxiv_au:
+      - "Pulkit Agrawal"
+      - "Leslie Pack Kaelbling"
+      - "Tomás Lozano-Pérez"
+      - "Phillip Isola"
+      - "Russ Tedrake"
+    title_keywords: []
+    watchlist_ids: []
+
+  tsinghua_robotics:
+    label: "Tsinghua"
+    tier: 2
+    weight: 0.8
+    arxiv_au:
+      - "Huazhe Xu"
+      - "Yang Gao"
+      - "Jun Zhu"
+      - "Hang Su"
+    title_keywords: ["RDT"]
+    watchlist_ids: []
+
+  shanghai_ai_lab:
+    label: "Shanghai AI Lab"
+    tier: 2
+    weight: 0.8
+    arxiv_au:
+      - "Dahua Lin"
+      - "Jiaqi Wang"
+      - "Hongyang Li"
+      - "Yu Qiao"
+    title_keywords: ["InternVL", "InternLM", "InternVideo"]
+    watchlist_ids: []
+
+  # ── LLM foundation labs (user explicitly cares about) ──────────────
+  openai:
+    label: "OpenAI"
+    tier: 1
+    weight: 0.9
+    arxiv_au:
+      - "OpenAI"
+      - "Josh Achiam"
+      - "Sandhini Agarwal"
+    title_keywords: ["GPT-4", "GPT-5"]
+    watchlist_ids: []
+
+  anthropic:
+    label: "Anthropic"
+    tier: 1
+    weight: 0.9
+    arxiv_au:
+      - "Yuntao Bai"
+      - "Amanda Askell"
+      - "Deep Ganguli"
+    title_keywords: ["Claude"]
+    watchlist_ids: []
+
+  deepseek:
+    label: "DeepSeek"
+    tier: 1
+    weight: 0.9
+    arxiv_au:
+      - "DeepSeek-AI"
+      - "Damai Dai"
+      - "Zhihong Shao"
+      - "Bingxuan Wang"
+      - "Chong Ruan"
+    title_keywords: ["DeepSeek"]
+    # Papers where metadata has no org hint — force-pull by ID
+    watchlist_ids: []
+
+  meta_ai:
+    label: "Meta AI / FAIR"
+    tier: 1
+    weight: 0.85
+    arxiv_au:
+      - "Aaron Grattafiori"
+      - "Abhimanyu Dubey"
+      - "Guillaume Lample"
+    title_keywords: ["LLaMA", "Llama", "Llava"]
+    watchlist_ids: []
+
+  qwen:
+    label: "Qwen (Alibaba)"
+    tier: 2
+    weight: 0.75
+    arxiv_au:
+      - "Binyuan Hui"
+      - "Dayiheng Liu"
+      - "Baosong Yang"
+    title_keywords: ["Qwen"]
+    watchlist_ids: []
+
+  bytedance_seed:
+    label: "ByteDance Seed"
+    tier: 2
+    weight: 0.75
+    arxiv_au:
+      - "ByteDance Seed"
+      - "Bytedance Seed"
+    title_keywords: ["Doubao", "Seed1"]
+    watchlist_ids: []
+
+  moonshot:
+    label: "Moonshot / Kimi"
+    tier: 2
+    weight: 0.75
+    arxiv_au:
+      - "Kimi Team"
+    title_keywords: ["Kimi"]
+    watchlist_ids: []
+
+  zhipu:
+    label: "Zhipu / GLM"
+    tier: 2
+    weight: 0.7
+    arxiv_au:
+      - "GLM-5-Team"
+      - "Aohan Zeng"
+      - "Jie Tang"
+    title_keywords: ["GLM"]
+    watchlist_ids: []
+
+  mistral:
+    label: "Mistral"
+    tier: 2
+    weight: 0.7
+    arxiv_au:
+      - "Arthur Mensch"
+      - "Timothée Lacroix"
+    title_keywords: ["Mistral"]
+    watchlist_ids: []
+
+  microsoft:
+    label: "Microsoft Research"
+    tier: 2
+    weight: 0.7
+    arxiv_au:
+      - "Ahmed Awadallah"
+      - "Marah Abdin"
+    title_keywords: []
+    watchlist_ids: []
+
+
+# ── affiliation fallback (all-field arXiv search) ─────────────────────
+# Used when author metadata doesn't include an org name but the abstract
+# or comments mention the affiliation.
+affiliation_terms:
+  - "DeepSeek"
+  - "NVIDIA Research"
+  - "NVIDIA"
+  - "Google DeepMind"
+  - "DeepMind"
+  - "Google Research"
+  - "Meta AI"
+  - "FAIR"
+  - "Microsoft Research"
+  - "OpenAI"
+  - "Anthropic"
+  - "Physical Intelligence"
+  - "Apple MLR"
+  - "Shanghai AI Laboratory"
+  - "Shanghai AI Lab"
+  - "Tsinghua University"
+  - "Peking University"
+  - "Stanford University"
+  - "UC Berkeley"
+  - "Carnegie Mellon"
+  - "Massachusetts Institute of Technology"
+  - "MIT CSAIL"
+  - "ETH Zurich"
+  - "University of Washington"
+  - "Princeton University"
+
+
+# ── arXiv category coverage (expanded from just cs.RO) ────────────────
+# cs.RO catches classic robotics; cs.LG / cs.CV / cs.AI catch NVIDIA / DeepSeek
+# / Meta foundation-model papers that never get cross-listed to cs.RO.
+arxiv_categories:
+  - cs.RO
+  - cs.LG
+  - cs.AI
+  - cs.CV
+  - cs.CL
+
+
+# ── Per-run limits ─────────────────────────────────────────────────────
+arxiv_max_results_per_query: 300        # was 200, now 300 per branch
+arxiv_lookback_days: 90
+arxiv_institution_lookback_days: 30     # lab-targeted searches stay tighter
+arxiv_watchlist_lookback_days: 365
+
+
+# ── Notable researchers (highlight-only, not an extra search) ─────────
+# Papers authored by these people get an additional display "notable author" tag
+# and a small +0.5 boost via src/scoring.py. Keep it focused; too many names
+# dilutes the signal.
+notable_authors:
+  - "Yann LeCun"
+  - "Geoffrey Hinton"
+  - "Yoshua Bengio"
+  - "Andrej Karpathy"
+  - "Fei-Fei Li"
+  - "Li Fei-Fei"
+  - "Pieter Abbeel"
+  - "Sergey Levine"
+  - "Chelsea Finn"
+  - "Jim Fan"
+  - "Ted Xiao"
+  - "Shuran Song"
+  - "Jiajun Wu"
+  - "Dorsa Sadigh"
+  - "Huazhe Xu"
+  - "Jitendra Malik"
+  - "Percy Liang"
+  - "Russ Tedrake"
+  - "Pulkit Agrawal"
+  - "Jun Zhu"
+
+
+# ── Lab boost ──────────────────────────────────────────────────────────
+# Rule: if any of a paper's authors appear in a lab's ``arxiv_au`` list,
+# or the paper's title matches a lab's ``title_keywords``, we add
+# ``lab_boost_base * lab.weight`` to the composite score.
+# Default 2.0 means tier-1 lab (weight=1.0) gets +2.0 / 10.0 composite boost
+# — enough to lift a mid-score arXiv preprint above generic high-cite papers,
+# but not enough to dominate when relevance is near zero.
+lab_boost_base: 2.0
+notable_author_boost: 0.5

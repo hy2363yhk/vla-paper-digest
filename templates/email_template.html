@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VLA Paper Digest · {{ date_str }}</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+         background: #f7f7f9; color: #222; margin: 0; padding: 24px 0; }
+  .wrap { max-width: 720px; margin: 0 auto; background: #fff; border: 1px solid #e3e3e8;
+          border-radius: 8px; overflow: hidden; }
+  .hd { padding: 22px 28px 16px; border-bottom: 1px solid #eee; }
+  .hd h1 { margin: 0 0 4px; font-size: 19px; font-weight: 600; letter-spacing: .2px; }
+  .hd .sub { font-size: 13px; color: #666; }
+  .card { padding: 22px 28px; border-bottom: 1px solid #f0f0f3; }
+  .card:last-child { border-bottom: 0; }
+  .tag { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 11px;
+         font-weight: 600; letter-spacing: .3px; margin-right: 6px; }
+  .tag-top_ranked { background: #fdecec; color: #c62828; }
+  .tag-latest_hot { background: #fdecec; color: #c62828; }
+  .tag-top_cited  { background: #e8f4fd; color: #1565c0; }
+  .tag-classic    { background: #f1ecfd; color: #5e35b1; }
+  .pill { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 12px;
+          font-weight: 600; margin-right: 6px; margin-top: 4px; line-height: 1.5; }
+  .pill-venue { background: #eef6ee; color: #2e7d32; border: 1px solid #cfe5d0; }
+  .pill-lab   { background: #fff4e5; color: #bf6a00; border: 1px solid #ffd79a; }
+  .pill-lab-tracked { background: #fde4e4; color: #b71c1c; border: 1px solid #f6b4b4; }
+  .pill-notable { background: #e8eefc; color: #1a237e; border: 1px solid #b8c6ef; }
+  .pill-arxiv { background: #eef0f6; color: #4a5578; border: 1px solid #d5d9e6; }
+  .badges { margin: 8px 0 4px; }
+  .title { font-size: 16px; font-weight: 600; margin: 10px 0 6px; line-height: 1.45; }
+  .title a { color: #111; text-decoration: none; border-bottom: 1px solid transparent; }
+  .title a:hover { border-bottom-color: #111; }
+  .meta { font-size: 12px; color: #777; margin-bottom: 10px; }
+  .meta .dot { margin: 0 6px; color: #bbb; }
+  .scores { font-size: 12px; color: #555; background: #fafafa; padding: 6px 10px; border-radius: 4px;
+            display: inline-block; margin-bottom: 12px; font-family: Menlo, Consolas, monospace; }
+  .fields { font-size: 13.5px; line-height: 1.65; color: #333; }
+  .fields .row { margin: 4px 0; }
+  .fields .k { color: #666; min-width: 72px; display: inline-block; font-weight: 600; }
+  .smooth-row { background: #fff8e1; padding: 8px 12px; border-left: 3px solid #ffb300;
+                margin: 10px 0; border-radius: 2px; font-size: 13px; }
+  .abs-block { margin-top: 12px; }
+  .abs-title { font-size: 12px; color: #666; font-weight: 600; margin-bottom: 4px; }
+  .abs { padding: 10px 12px; background: #fafafa; border-radius: 4px;
+         font-size: 12.5px; line-height: 1.6; color: #444;
+         border: 1px solid #eee; }
+  .failed { color: #a33; font-size: 13px; font-style: italic; }
+  .ft { padding: 14px 28px; font-size: 11px; color: #999; text-align: center;
+        border-top: 1px solid #eee; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hd">
+    <h1>VLA Paper Digest · 每日论文推送</h1>
+    <div class="sub">{{ date_cn }} · 今日 {{ papers|length }} 篇（综合高分 + 经典轮播）</div>
+  </div>
+
+  {% for sp in papers %}
+  <div class="card">
+    <span class="tag tag-{{ sp.bucket }}">{{ sp.bucket_label_cn }}</span>
+    <div class="title">
+      <a href="{{ sp.paper.best_url }}" target="_blank">{{ sp.paper.title }}</a>
+    </div>
+    <div class="badges">
+      {% if sp.paper.venue %}
+        {% if 'arxiv' in sp.paper.venue|lower %}
+          <span class="pill pill-arxiv">📄 {{ sp.paper.venue }}{% if sp.paper.year %} {{ sp.paper.year }}{% endif %}</span>
+        {% else %}
+          <span class="pill pill-venue">🏛 {{ sp.paper.venue }}{% if sp.paper.year %} {{ sp.paper.year }}{% endif %}</span>
+        {% endif %}
+      {% elif sp.paper.year %}
+        <span class="pill pill-arxiv">📄 {{ sp.paper.year }}</span>
+      {% endif %}
+      {% if sp.lab_label %}
+        <span class="pill pill-lab-tracked">🏢 {{ sp.lab_label }}</span>
+      {% elif sp.paper.primary_affiliation %}
+        <span class="pill pill-lab">🔬 {{ sp.paper.primary_affiliation }}</span>
+      {% endif %}
+      {% if sp.notable_author_matches %}
+        <span class="pill pill-notable">⭐ {{ sp.notable_author_matches|join(', ') }}</span>
+      {% endif %}
+    </div>
+    <div class="meta">
+      {% if sp.paper.authors %}
+        {{ sp.paper.authors[:3]|join(', ') }}{% if sp.paper.authors|length > 3 %} 等{% endif %}
+        <span class="dot">·</span>
+      {% endif %}
+      引用 {{ sp.paper.citation_count }}（有影响力 {{ sp.paper.influential_citation_count }}）
+    </div>
+    <div class="scores">
+      综合 {{ '%.2f'|format(sp.scores.composite) }} ·
+      相关 {{ '%.2f'|format(sp.scores.relevance) }} ·
+      venue {{ '%.1f'|format(sp.scores.venue) }} ·
+      新鲜 {{ '%.1f'|format(sp.scores.freshness) }} ·
+      速度 {{ '%.2f'|format(sp.scores.velocity) }}{% if sp.scores.lab_boost > 0 %} · lab +{{ '%.1f'|format(sp.scores.lab_boost) }}{% endif %}{% if sp.scores.notable_author_boost > 0 %} · ⭐ +{{ '%.1f'|format(sp.scores.notable_author_boost) }}{% endif %}
+    </div>
+
+    {% if sp.summary and not sp.summary.failed and sp.summary.direction %}
+    <div class="fields">
+      <div class="row"><span class="k">方向</span>{{ sp.summary.direction|sanitise }}</div>
+      <div class="row"><span class="k">核心问题</span>{{ sp.summary.core_problem|sanitise }}</div>
+      <div class="row"><span class="k">核心方法</span>{{ sp.summary.key_method|sanitise }}</div>
+      <div class="row"><span class="k">主要结论</span>{{ sp.summary.conclusion|sanitise }}</div>
+      <div class="row"><span class="k">局限</span>{{ sp.summary.limitation|sanitise }}</div>
+    </div>
+    <div class="smooth-row">
+      <b>↪ 与 smoothness 的关联：</b>{{ sp.summary.relevance_to_smoothness|sanitise }}
+    </div>
+    {% elif sp.summary and sp.summary.failed %}
+    <div class="failed">⚠ 摘要生成失败（{{ sp.summary.error or '未知错误' }}），以下展示原 abstract。</div>
+    {% endif %}
+
+    {% if sp.paper.abstract %}
+    <div class="abs-block">
+      <div class="abs-title">原文摘要</div>
+      <div class="abs">{{ sp.paper.abstract|sanitise }}</div>
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  <div class="ft">由 vla-paper-digest 自动生成 · 数据源：Semantic Scholar / OpenReview / arXiv</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,407 @@
+[
+  {
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "year": 2023,
+    "category": "VLA foundation",
+    "paper_id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+    "abstract": "We study how vision-language models trained on Internet-scale data can be incorporated directly into end-to-end robotic control to boost generalization and enable emergent semantic reasoning. Our goal is to enable a single end-to-end trained model to both learn to map robot observations to actions and enjoy the benefits of large-scale pretraining on language and vision-language data from the web. To this end, we propose to co-fine-tune state-of-the-art vision-language models on both robotic trajectory data and Internet-scale vision-language tasks, such as visual question answering. In contrast to other approaches, we propose a simple, general recipe to achieve this goal: in order to fit both natural language responses and robotic actions into the same format, we express the actions as text tokens and incorporate them directly into the training set of the model in the same way as natural language tokens. We refer to such category of models as vision-language-action models (VLA) and instantiate an example of such a model, which we call RT-2. Our extensive evaluation (6k evaluation trials) shows that our approach leads to performant robotic policies and enables RT-2 to obtain a range of emergent capabilities from Internet-scale training. This includes significantly improved generalization to novel objects, the ability to interpret commands not present in the robot training data (such as placing an object onto a particular number or icon), and the ability to perform rudimentary reasoning in response to user commands (such as picking up the smallest or largest object, or the one closest to another object). We further show that incorporating chain of thought reasoning allows RT-2 to perform multi-stage semantic reasoning, for example figuring out which object to pick up for use as an improvised hammer (a rock), or which type of drink is best suited for someone who is tired (an energy drink).",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal",
+      "Yevgen Chebotar",
+      "K. Choromanski",
+      "Tianli Ding",
+      "Danny Driess",
+      "Kumar Avinava Dubey"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year_resolved": 2023,
+    "arxiv_id": "2307.15818"
+  },
+  {
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "year": 2024,
+    "category": "VLA foundation",
+    "paper_id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+    "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on a diverse collection of 970k real-world robot demonstrations. OpenVLA builds on a Llama 2 language model combined with a visual encoder that fuses pretrained features from DINOv2 and SigLIP. As a product of the added data diversity and new model components, OpenVLA demonstrates strong results for generalist manipulation, outperforming closed models such as RT-2-X (55B) by 16.5% in absolute task success rate across 29 tasks and multiple robot embodiments, with 7x fewer parameters. We further show that we can effectively fine-tune OpenVLA for new settings, with especially strong generalization results in multi-task environments involving multiple objects and strong language grounding abilities, and outperform expressive from-scratch imitation learning methods such as Diffusion Policy by 20.4%. We also explore compute efficiency; as a separate contribution, we show that OpenVLA can be fine-tuned on consumer GPUs via modern low-rank adaptation methods and served efficiently via quantization without a hit to downstream success rate. Finally, we release model checkpoints, fine-tuning notebooks, and our PyTorch codebase with built-in support for training VLAs at scale on Open X-Embodiment datasets.",
+    "authors": [
+      "Moo Jin Kim",
+      "Karl Pertsch",
+      "Siddharth Karamcheti",
+      "Ted Xiao",
+      "A. Balakrishna",
+      "Suraj Nair",
+      "Rafael Rafailov",
+      "E. Foster"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year_resolved": 2024,
+    "arxiv_id": "2406.09246"
+  },
+  {
+    "title": "π0: A Vision-Language-Action Flow Model for General Robot Control",
+    "year": 2024,
+    "category": "VLA foundation",
+    "paper_id": "7e7e59d2e247d99954081080ddd5aae93d10b9e0",
+    "abstract": "Robot learning holds tremendous promise to unlock the full potential of flexible, general, and dexterous robot systems, as well as to address some of the deepest questions in artificial intelligence. However, bringing robot learning to the level of generality required for effective real-world systems faces major obstacles in terms of data, generalization, and robustness. In this paper, we discuss how generalist robot policies (i.e., robot foundation models) can address these challenges, and how we can design effective generalist robot policies for complex and highly dexterous tasks. We propose a novel flow matching architecture built on top of a pre-trained vision-language model (VLM) to inherit Internet-scale semantic knowledge. We then discuss how this model can be trained on a large and diverse dataset from multiple dexterous robot platforms, including single-arm robots, dual-arm robots, and mobile manipulators. We evaluate our model in terms of its ability to perform tasks in zero shot after pre-training, follow language instructions from people and from a high-level VLM policy, and its ability to acquire new skills via fine-tuning. Our results cover a wide variety of tasks, such as laundry folding, table cleaning, and assembling boxes.",
+    "authors": [
+      "Kevin Black",
+      "Noah Brown",
+      "Danny Driess",
+      "Adnan Esmail",
+      "Michael Equi",
+      "Chelsea Finn",
+      "Niccolo Fusai",
+      "Lachy Groom"
+    ],
+    "venue": "arXiv.org",
+    "year_resolved": 2024,
+    "arxiv_id": "2410.24164"
+  },
+  {
+    "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation",
+    "year": 2024,
+    "category": "VLA foundation",
+    "paper_id": "41ba8127b73abd32051a89764cb976095b1dee94",
+    "abstract": "Bimanual manipulation is essential in robotics, yet developing foundation models is extremely challenging due to the inherent complexity of coordinating two robot arms (leading to multi-modal action distributions) and the scarcity of training data. In this paper, we present the Robotics Diffusion Transformer (RDT), a pioneering diffusion foundation model for bimanual manipulation. RDT builds on diffusion models to effectively represent multi-modality, with innovative designs of a scalable Transformer to deal with the heterogeneity of multi-modal inputs and to capture the nonlinearity and high frequency of robotic data. To address data scarcity, we further introduce a Physically Interpretable Unified Action Space, which can unify the action representations of various robots while preserving the physical meanings of original actions, facilitating learning transferrable physical knowledge. With these designs, we managed to pre-train RDT on the largest collection of multi-robot datasets to date and scaled it up to 1.2B parameters, which is the largest diffusion-based foundation model for robotic manipulation. We finally fine-tuned RDT on a self-created multi-task bimanual dataset with over 6K+ episodes to refine its manipulation capabilities. Experiments on real robots demonstrate that RDT significantly outperforms existing methods. It exhibits zero-shot generalization to unseen objects and scenes, understands and follows language instructions, learns new skills with just 1~5 demonstrations, and effectively handles complex, dexterous tasks. We refer to https://rdt-robotics.github.io/rdt-robotics/ for the code and videos.",
+    "authors": [
+      "Songming Liu",
+      "Lingxuan Wu",
+      "Bangguo Li",
+      "Hengkai Tan",
+      "Huayu Chen",
+      "Zhengyi Wang",
+      "Ke Xu",
+      "Hang Su"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year_resolved": 2024,
+    "arxiv_id": "2410.07864"
+  },
+  {
+    "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation",
+    "year": 2024,
+    "category": "VLA foundation",
+    "paper_id": "54caf5927a6d656bb84d2a16e16fa2b0c5d6f522",
+    "abstract": "The advancement of large Vision-Language-Action (VLA) models has significantly improved robotic manipulation in terms of language-guided task execution and generalization to unseen scenarios. While existing VLAs adapted from pretrained large Vision-Language-Models (VLM) have demonstrated promising generalizability, their task performance is still unsatisfactory as indicated by the low tasks success rates in different environments. In this paper, we present a new advanced VLA architecture derived from VLM. Unlike previous works that directly repurpose VLM for action prediction by simple action quantization, we propose a omponentized VLA architecture that has a specialized action module conditioned on VLM output. We systematically study the design of the action module and demonstrates the strong performance enhancement with diffusion action transformers for action sequence modeling, as well as their favorable scaling behaviors. We also conduct comprehensive experiments and ablation studies to evaluate the efficacy of our models with varied designs. The evaluation on 5 robot embodiments in simulation and real work shows that our model not only significantly surpasses existing VLAs in task performance and but also exhibits remarkable adaptation to new robots and generalization to unseen objects and backgrounds. It exceeds the average success rates of OpenVLA which has similar model size (7B) with ours by over 35% in simulated evaluation and 55% in real robot experiments. It also outperforms the large RT-2-X model (55B) by 18% absolute success rates in simulation. Code and models can be found on our project page (https://cogact.github.io/).",
+    "authors": [
+      "Qixiu Li",
+      "Yaobo Liang",
+      "Zeyu Wang",
+      "Lin Luo",
+      "Xi Chen",
+      "M. Liao",
+      "Fangyun Wei",
+      "Yu Deng"
+    ],
+    "venue": "arXiv.org",
+    "year_resolved": 2024,
+    "arxiv_id": "2411.19650"
+  },
+  {
+    "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+    "year": 2023,
+    "category": "Action chunking",
+    "notes": "ACT paper",
+    "paper_id": "91eb20f923ea3b0246868902aef4e9bea572b800",
+    "abstract": "Fine manipulation tasks, such as threading cable ties or slotting a battery, are notoriously difficult for robots because they require precision, careful coordination of contact forces, and closed-loop visual feedback. Performing these tasks typically requires high-end robots, accurate sensors, or careful calibration, which can be expensive and difficult to set up. Can learning enable low-cost and imprecise hardware to perform these fine manipulation tasks? We present a low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface. Imitation learning, however, presents its own challenges, particularly in high-precision domains: errors in the policy can compound over time, and human demonstrations can be non-stationary. To address these challenges, we develop a simple yet novel algorithm, Action Chunking with Transformers (ACT), which learns a generative model over action sequences. ACT allows the robot to learn 6 difficult tasks in the real world, such as opening a translucent condiment cup and slotting a battery with 80-90% success, with only 10 minutes worth of demonstrations. Project website: https://tonyzhaozh.github.io/aloha/",
+    "authors": [
+      "Tony Zhao",
+      "Vikash Kumar",
+      "S. Levine",
+      "Chelsea Finn"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2023,
+    "arxiv_id": "2304.13705"
+  },
+  {
+    "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+    "year": 2023,
+    "category": "Diffusion policy",
+    "paper_id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+    "abstract": "This paper introduces Diffusion Policy, a new way of generating robot behavior by representing a robot’s visuomotor policy as a conditional denoising diffusion process. We benchmark Diffusion Policy across 15 different tasks from 4 different robot manipulation benchmarks and find that it consistently outperforms existing state-of-the-art robot learning methods with an average improvement of 46.9%. Diffusion Policy learns the gradient of the action-distribution score function and iteratively optimizes with respect to this gradient field during inference via a series of stochastic Langevin dynamics steps. We find that the diffusion formulation yields powerful advantages when used for robot policies, including gracefully handling multimodal action distributions, being suitable for high-dimensional action spaces, and exhibiting impressive training stability. To fully unlock the potential of diffusion models for visuomotor policy learning on physical robots, this paper presents a set of key technical contributions including the incorporation of receding horizon control, visual conditioning, and the time-series diffusion transformer. We hope this work will help motivate a new generation of policy learning techniques that are able to leverage the powerful generative modeling capabilities of diffusion models. Code, data, and training details are available (diffusion-policy.cs.columbia.edu).",
+    "authors": [
+      "Cheng Chi",
+      "S. Feng",
+      "Yilun Du",
+      "Zhenjia Xu",
+      "Eric Cousineau",
+      "B. Burchfiel",
+      "Shuran Song"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2023,
+    "arxiv_id": "2303.04137"
+  },
+  {
+    "title": "3D Diffusion Policy",
+    "year": 2024,
+    "category": "Diffusion policy",
+    "paper_id": "8bb32652e0a935b6ba1f54bd3d39cad80db09908",
+    "abstract": "Imitation learning provides an efficient way to teach robots dexterous skills; however, learning complex skills robustly and generalizablely usually consumes large amounts of human demonstrations. To tackle this challenging problem, we present 3D Diffusion Policy (DP3), a novel visual imitation learning approach that incorporates the power of 3D visual representations into diffusion policies, a class of conditional action generative models. The core design of DP3 is the utilization of a compact 3D visual representation, extracted from sparse point clouds with an efficient point encoder. In our experiments involving 72 simulation tasks, DP3 successfully handles most tasks with just 10 demonstrations and surpasses baselines with a 24.2% relative improvement. In 4 real robot tasks, DP3 demonstrates precise control with a high success rate of 85%, given only 40 demonstrations of each task, and shows excellent generalization abilities in diverse aspects, including space, viewpoint, appearance, and instance. Interestingly, in real robot experiments, DP3 rarely violates safety requirements, in contrast to baseline methods which frequently do, necessitating human intervention. Our extensive evaluation highlights the critical importance of 3D representations in real-world robot learning. Videos, code, and data are available on https://3d-diffusion-policy.github.io .",
+    "authors": [
+      "Yanjie Ze",
+      "Gu Zhang",
+      "Kangning Zhang",
+      "Chenyuan Hu",
+      "Muhan Wang",
+      "Huazhe Xu"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2024,
+    "arxiv_id": "2403.03954"
+  },
+  {
+    "title": "Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation",
+    "year": 2024,
+    "category": "Diffusion policy",
+    "paper_id": "289906e335e367d363bc2e99d1c04037da7afbf2",
+    "abstract": "Many robotic systems, such as mobile manipulators or quadrotors, cannot be equipped with high-end GPUs due to space, weight, and power constraints. These constraints prevent these systems from leveraging recent developments in visuomotor policy architectures that require high-end GPUs to achieve fast policy inference. In this paper, we propose Consistency Policy, a faster and similarly powerful alternative to Diffusion Policy for learning visuomotor robot control. By virtue of its fast inference speed, Consistency Policy can enable low latency decision making in resource-constrained robotic setups. A Consistency Policy is distilled from a pretrained Diffusion Policy by enforcing self-consistency along the Diffusion Policy's learned trajectories. We compare Consistency Policy with Diffusion Policy and other related speed-up methods across 6 simulation tasks as well as three real-world tasks where we demonstrate inference on a laptop GPU. For all these tasks, Consistency Policy speeds up inference by an order of magnitude compared to the fastest alternative method and maintains competitive success rates. We also show that the Conistency Policy training procedure is robust to the pretrained Diffusion Policy's quality, a useful result that helps practioners avoid extensive testing of the pretrained model. Key design decisions that enabled this performance are the choice of consistency objective, reduced initial sample variance, and the choice of preset chaining steps.",
+    "authors": [
+      "Aaditya Prasad",
+      "Kevin Lin",
+      "Jimmy Wu",
+      "Linqi Zhou",
+      "Jeannette Bohg"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2024,
+    "arxiv_id": "2405.07503"
+  },
+  {
+    "title": "Flow Matching for Generative Modeling",
+    "year": 2023,
+    "category": "Flow matching foundation",
+    "paper_id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+    "abstract": "We introduce a new paradigm for generative modeling built on Continuous Normalizing Flows (CNFs), allowing us to train CNFs at unprecedented scale. Specifically, we present the notion of Flow Matching (FM), a simulation-free approach for training CNFs based on regressing vector fields of fixed conditional probability paths. Flow Matching is compatible with a general family of Gaussian probability paths for transforming between noise and data samples -- which subsumes existing diffusion paths as specific instances. Interestingly, we find that employing FM with diffusion paths results in a more robust and stable alternative for training diffusion models. Furthermore, Flow Matching opens the door to training CNFs with other, non-diffusion probability paths. An instance of particular interest is using Optimal Transport (OT) displacement interpolation to define the conditional probability paths. These paths are more efficient than diffusion paths, provide faster training and sampling, and result in better generalization. Training CNFs using Flow Matching on ImageNet leads to consistently better performance than alternative diffusion-based methods in terms of both likelihood and sample quality, and allows fast and reliable sample generation using off-the-shelf numerical ODE solvers.",
+    "authors": [
+      "Y. Lipman",
+      "Ricky T. Q. Chen",
+      "Heli Ben-Hamu",
+      "Maximilian Nickel",
+      "Matt Le"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year_resolved": 2022,
+    "arxiv_id": "2210.02747"
+  },
+  {
+    "title": "Implicit Behavioral Cloning",
+    "year": 2021,
+    "category": "Imitation learning",
+    "paper_id": "5c74b1021aebd0575c339ce4dfd47e183009a9c5",
+    "abstract": "We find that across a wide range of robot policy learning scenarios, treating supervised policy learning with an implicit model generally performs better, on average, than commonly used explicit models. We present extensive experiments on this finding, and we provide both intuitive insight and theoretical arguments distinguishing the properties of implicit models compared to their explicit counterparts, particularly with respect to approximating complex, potentially discontinuous and multi-valued (set-valued) functions. On robotic policy learning tasks we show that implicit behavioral cloning policies with energy-based models (EBM) often outperform common explicit (Mean Square Error, or Mixture Density) behavioral cloning policies, including on tasks with high-dimensional action spaces and visual image inputs. We find these policies provide competitive results or outperform state-of-the-art offline reinforcement learning methods on the challenging human-expert tasks from the D4RL benchmark suite, despite using no reward information. In the real world, robots with implicit policies can learn complex and remarkably subtle behaviors on contact-rich tasks from human demonstrations, including tasks with high combinatorial complexity and tasks requiring 1mm precision.",
+    "authors": [
+      "Peter R. Florence",
+      "Corey Lynch",
+      "Andy Zeng",
+      "Oscar Ramirez",
+      "Ayzaan Wahid",
+      "Laura Downs",
+      "Adrian S. Wong",
+      "Johnny Lee"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year_resolved": 2021,
+    "arxiv_id": "2109.00137"
+  },
+  {
+    "title": "ALOHA Unleashed: A Simple Recipe for Robot Dexterity",
+    "year": 2024,
+    "category": "Bimanual manipulation",
+    "paper_id": "c40a6438a8f2841c57ab091b041aca180f03d1e9",
+    "abstract": "Recent work has shown promising results for learning end-to-end robot policies using imitation learning. In this work we address the question of how far can we push imitation learning for challenging dexterous manipulation tasks. We show that a simple recipe of large scale data collection on the ALOHA 2 platform, combined with expressive models such as Diffusion Policies, can be effective in learning challenging bimanual manipulation tasks involving deformable objects and complex contact rich dynamics. We demonstrate our recipe on 5 challenging real-world and 3 simulated tasks and demonstrate improved performance over state-of-the-art baselines. The project website and videos can be found at aloha-unleashed.github.io.",
+    "authors": [
+      "Tony Z. Zhao",
+      "Jonathan Tompson",
+      "Danny Driess",
+      "Pete Florence",
+      "Kamyar Ghasemipour",
+      "Chelsea Finn",
+      "Ayzaan Wahid"
+    ],
+    "venue": "Conference on Robot Learning",
+    "year_resolved": 2024,
+    "arxiv_id": "2410.13126"
+  },
+  {
+    "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+    "year": 2024,
+    "category": "Mobile manipulation",
+    "paper_id": "fc3819a50705fc3cf90ab92f2a206b858fef3b19",
+    "abstract": "Imitation learning from human demonstrations has shown impressive performance in robotics. However, most results focus on table-top manipulation, lacking the mobility and dexterity necessary for generally useful tasks. In this work, we develop a system for imitating mobile manipulation tasks that are bimanual and require whole-body control. We first present Mobile ALOHA, a low-cost and whole-body teleoperation system for data collection. It augments the ALOHA system with a mobile base, and a whole-body teleoperation interface. Using data collected with Mobile ALOHA, we then perform supervised behavior cloning and find that co-training with existing static ALOHA datasets boosts performance on mobile manipulation tasks. With 50 demonstrations for each task, co-training can increase success rates by up to 90%, allowing Mobile ALOHA to autonomously complete complex mobile manipulation tasks such as sauteing and serving a piece of shrimp, opening a two-door wall cabinet to store heavy cooking pots, calling and entering an elevator, and lightly rinsing a used pan using a kitchen faucet. Project website: https://mobile-aloha.github.io",
+    "authors": [
+      "Zipeng Fu",
+      "Tony Zhao",
+      "Chelsea Finn"
+    ],
+    "venue": "arXiv.org",
+    "year_resolved": 2024,
+    "arxiv_id": "2401.02117"
+  },
+  {
+    "title": "Octo: An Open-Source Generalist Robot Policy",
+    "year": 2024,
+    "category": "Generalist policy",
+    "paper_id": "1d2753d74025e7a71594506623be81f18b073adb",
+    "abstract": "Large policies pretrained on diverse robot datasets have the potential to transform robotic learning: instead of training new policies from scratch, such generalist robot policies may be finetuned with only a little in-domain data, yet generalize broadly. However, to be widely applicable across a range of robotic learning scenarios, environments, and tasks, such policies need to handle diverse sensors and action spaces, accommodate a variety of commonly used robotic platforms, and finetune readily and efficiently to new domains. In this work, we aim to lay the groundwork for developing open-source, widely applicable, generalist policies for robotic manipulation. As a first step, we introduce Octo, a large transformer-based policy trained on 800k trajectories from the Open X-Embodiment dataset, the largest robot manipulation dataset to date. It can be instructed via language commands or goal images and can be effectively finetuned to robot setups with new sensory inputs and action spaces within a few hours on standard consumer GPUs. In experiments across 9 robotic platforms, we demonstrate that Octo serves as a versatile policy initialization that can be effectively finetuned to new observation and action spaces. We also perform detailed ablations of design decisions for the Octo model, from architecture to training data, to guide future research on building generalist robot models.",
+    "authors": [
+      "O. Team",
+      "Dibya Ghosh",
+      "H. Walke",
+      "Karl Pertsch",
+      "Kevin Black",
+      "Oier Mees",
+      "S. Dasari",
+      "Joey Hejna"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2024,
+    "arxiv_id": "2405.12213"
+  },
+  {
+    "title": "RoboFlamingo: Vision-Language Foundation Models as Effective Robot Imitators",
+    "year": 2024,
+    "category": "VLA foundation",
+    "paper_id": "857efca0d4cbece97da4b904de1d506c2af25f9c",
+    "abstract": "Recent progress in vision language foundation models has shown their ability to understand multimodal data and resolve complicated vision language tasks, including robotics manipulation. We seek a straightforward way of making use of existing vision-language models (VLMs) with simple fine-tuning on robotics data. To this end, we derive a simple and novel vision-language manipulation framework, dubbed RoboFlamingo, built upon the open-source VLMs, OpenFlamingo. Unlike prior works, RoboFlamingo utilizes pre-trained VLMs for single-step vision-language comprehension, models sequential history information with an explicit policy head, and is slightly fine-tuned by imitation learning only on language-conditioned manipulation datasets. Such a decomposition provides RoboFlamingo the flexibility for open-loop control and deployment on low-performance platforms. By exceeding the state-of-the-art performance with a large margin on the tested benchmark, we show RoboFlamingo can be an effective and competitive alternative to adapt VLMs to robot control. Our extensive experimental results also reveal several interesting conclusions regarding the behavior of different pre-trained VLMs on manipulation tasks. We believe RoboFlamingo has the potential to be a cost-effective and easy-to-use solution for robotics manipulation, empowering everyone with the ability to fine-tune their own robotics policy.",
+    "authors": [
+      "Xinghang Li",
+      "Minghuan Liu",
+      "Hanbo Zhang",
+      "Cunjun Yu",
+      "Jie Xu",
+      "Hongtao Wu",
+      "Chi-Hou Cheang",
+      "Ya Jing"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year_resolved": 2023,
+    "arxiv_id": "2311.01378"
+  },
+  {
+    "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+    "year": 2023,
+    "category": "Dataset & Generalist",
+    "paper_id": "189201d365ff90a64c4fba3285a6274e32e442bd",
+    "abstract": "",
+    "authors": [],
+    "venue": "",
+    "year_resolved": null,
+    "arxiv_id": null
+  },
+  {
+    "title": "Chunking the Critic: A Transformer-Based Soft Actor-Critic with N-Step Returns",
+    "year": 2025,
+    "category": "Action chunking",
+    "paper_id": "574ec4679c9efdaac629b8fd7f01ee07d78b741d",
+    "abstract": "We introduce a sequence-conditioned critic for Soft Actor--Critic (SAC) that models trajectory context with a lightweight Transformer and trains on aggregated $N$-step targets. Unlike prior approaches that (i) score state--action pairs in isolation or (ii) rely on actor-side action chunking to handle long horizons, our method strengthens the critic itself by conditioning on short trajectory segments and integrating multi-step returns -- without importance sampling (IS). The resulting sequence-aware value estimates capture the critical temporal structure for extended-horizon and sparse-reward problems. On local-motion benchmarks, we further show that freezing critic parameters for several steps makes our update compatible with CrossQ's core idea, enabling stable training \\emph{without} a target network. Despite its simplicity -- a 2-layer Transformer with 128-256 hidden units and a maximum update-to-data ratio (UTD) of $1$ -- the approach consistently outperforms standard SAC and strong off-policy baselines, with particularly large gains on long-trajectory control. These results highlight the value of sequence modeling and $N$-step bootstrapping on the critic side for long-horizon reinforcement learning.",
+    "authors": [
+      "Dong Tian",
+      "Ge Li",
+      "Hongyi Zhou",
+      "Onur Celik",
+      "Gerhard Neumann"
+    ],
+    "venue": "arXiv.org",
+    "year_resolved": 2025,
+    "arxiv_id": "2503.03660"
+  },
+  {
+    "title": "BESO: Behavior Generation with Latent Actions",
+    "year": 2024,
+    "category": "Behavior generation"
+  },
+  {
+    "title": "RoboVLMs: A Unified Framework for Vision-Language Foundation Models-Based Robot Manipulation",
+    "year": 2024,
+    "category": "VLA foundation"
+  },
+  {
+    "title": "Surfer: Progressive Reasoning with World Models for Robotic Manipulation",
+    "year": 2024,
+    "category": "Reasoning + action",
+    "paper_id": "b9d45e2075eb1546adb156617785552c76bbf98b",
+    "abstract": "Considering how to make the model accurately understand and follow natural language instructions and perform actions consistent with world knowledge is a key challenge in robot manipulation. This mainly includes human fuzzy instruction reasoning and the following of physical knowledge. Therefore, the embodied intelligence agent must have the ability to model world knowledge from training data. However, most existing vision and language robot manipulation methods mainly operate in less realistic simulator and language settings and lack explicit modeling of world knowledge. To bridge this gap, we introduce a novel and simple robot manipulation framework, called Surfer. It is based on the world model, treats robot manipulation as a state transfer of the visual scene, and decouples it into two parts: action and scene. Then, the generalization ability of the model on new instructions and new scenes is enhanced by explicit modeling of the action and scene prediction in multi-modal information. In addition to the framework, we also built a robot manipulation simulator that supports full physics execution based on the MuJoCo physics engine. It can automatically generate demonstration training data and test data, effectively reducing labor costs. To conduct a comprehensive and systematic evaluation of the robot manipulation model in terms of language understanding and physical execution, we also created a robotic manipulation benchmark with progressive reasoning tasks, called SeaWave. It contains 4 levels of progressive reasoning tasks and can provide a standardized testing platform for embedded AI agents in multi-modal environments. On average, Surfer achieved a success rate of 54.74% on the defined four levels of manipulation tasks, exceeding the best baseline performance of 47.64%.",
+    "authors": [
+      "Pengzhen Ren",
+      "Kaiwen Zhang",
+      "Hetao Zheng",
+      "Zixuan Li",
+      "Yuhang Wen",
+      "Fengda Zhu",
+      "Mas Ma",
+      "Xiaodan Liang"
+    ],
+    "venue": "",
+    "year_resolved": 2023,
+    "arxiv_id": "2306.11335"
+  },
+  {
+    "title": "Any-point Trajectory Modeling for Policy Learning",
+    "year": 2024,
+    "category": "Trajectory representation",
+    "paper_id": "6a504c1a94139791854bc9a68ee1d3ebb925e642",
+    "abstract": "Learning from demonstration is a powerful method for teaching robots new skills, and having more demonstration data often improves policy learning. However, the high cost of collecting demonstration data is a significant bottleneck. Videos, as a rich data source, contain knowledge of behaviors, physics, and semantics, but extracting control-specific information from them is challenging due to the lack of action labels. In this work, we introduce a novel framework, Any-point Trajectory Modeling (ATM), that utilizes video demonstrations by pre-training a trajectory model to predict future trajectories of arbitrary points within a video frame. Once trained, these trajectories provide detailed control guidance, enabling the learning of robust visuomotor policies with minimal action-labeled data. Across over 130 language-conditioned tasks we evaluated in both simulation and the real world, ATM outperforms strong video pre-training baselines by 80% on average. Furthermore, we show effective transfer learning of manipulation skills from human videos and videos from a different robot morphology. Visualizations and code are available at: \\url{https://xingyu-lin.github.io/atm}.",
+    "authors": [
+      "Chuan Wen",
+      "Xingyu Lin",
+      "John So",
+      "Kai Chen",
+      "Q. Dou",
+      "Yang Gao",
+      "Pieter Abbeel"
+    ],
+    "venue": "Robotics: Science and Systems",
+    "year_resolved": 2023,
+    "arxiv_id": "2401.00025"
+  },
+  {
+    "title": "TRI-M: Token-Level Trajectory Imitation for Manipulation",
+    "year": 2024,
+    "category": "Trajectory representation"
+  },
+  {
+    "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning",
+    "year": 2024,
+    "category": "Diffusion policy",
+    "paper_id": "fae53cfc54eed4f2b602cce39d5519782e948d03",
+    "abstract": "Diffusion models have been adopted for behavioral cloning in a sequence modeling fashion, benefiting from their exceptional capabilities in modeling complex data distributions. The standard diffusion-based policy iteratively denoises action sequences from random noise conditioned on the input states and the model is typically trained with a singular diffusion loss. This paper explores the potential enhancements in such models when the denoising process is informed by a better visual representation. We study the scenario where the model is jointly optimized using the standard diffusion loss alongside an auxiliary objective based on self-supervised learning. After experimenting with various objectives, we introduce Crossway Diffusion, a simple yet effective way to enhance diffusion-based visuomotor policy learning via a state decoder and an auxiliary reconstruction objective. During training, the state decoder reconstructs raw image pixels and other states from the intermediate representations of the model. Experiments demonstrate the effectiveness of our method in various simulated and real-world tasks, confirming its consistent advantages over the standard diffusion-based policy and other baselines.",
+    "authors": [
+      "Xiang Li",
+      "Varun Belagali",
+      "Jinghuan Shang",
+      "M. Ryoo"
+    ],
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "year_resolved": 2023,
+    "arxiv_id": "2307.01849"
+  },
+  {
+    "title": "HPT: Heterogeneous Pre-trained Transformers for Robot Learning",
+    "year": 2024,
+    "category": "Pre-training"
+  },
+  {
+    "title": "Learning Universal Policies via Text-Guided Video Generation",
+    "year": 2023,
+    "category": "Video-based policy",
+    "paper_id": "da2fe6cd385194b0274d04d04ee72e8caf3854d4",
+    "abstract": "A goal of artificial intelligence is to construct an agent that can solve a wide variety of tasks. Recent progress in text-guided image synthesis has yielded models with an impressive ability to generate complex novel images, exhibiting combinatorial generalization across domains. Motivated by this success, we investigate whether such tools can be used to construct more general-purpose agents. Specifically, we cast the sequential decision making problem as a text-conditioned video generation problem, where, given a text-encoded specification of a desired goal, a planner synthesizes a set of future frames depicting its planned actions in the future, after which control actions are extracted from the generated video. By leveraging text as the underlying goal specification, we are able to naturally and combinatorially generalize to novel goals. The proposed policy-as-video formulation can further represent environments with different state and action spaces in a unified space of images, which, for example, enables learning and generalization across a variety of robot manipulation tasks. Finally, by leveraging pretrained language embeddings and widely available videos from the internet, the approach enables knowledge transfer through predicting highly realistic video plans for real robots.",
+    "authors": [
+      "Yilun Du",
+      "Mengjiao Yang",
+      "Bo Dai",
+      "H. Dai",
+      "Ofir Nachum",
+      "J. Tenenbaum",
+      "D. Schuurmans",
+      "P. Abbeel"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year_resolved": 2023,
+    "arxiv_id": "2302.00111"
+  }
+]
