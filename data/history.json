@@ -34,5 +34,41 @@
     "pushed_on": "2026-04-29",
     "bucket": "classic",
     "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control"
+  },
+  {
+    "paper_id": "de3dfd3075597c5f46d423d2c7f1bb95b456d0f8",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning"
+  },
+  {
+    "paper_id": "eafd15421ffb38deb1e5e3a54cf9ba2c07082cea",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Reinforcement Learning with Action Chunking"
+  },
+  {
+    "paper_id": "a9af6b77ad5353dffee147eba0226a99451c67fc",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning"
+  },
+  {
+    "paper_id": "248df7390c7bbd88251f1a37a9eadc80fa667ad1",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Training-Time Action Conditioning for Efficient Real-Time Chunking"
+  },
+  {
+    "paper_id": "1e41434841c880821300a9e24e29109ca6689de4",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks"
+  },
+  {
+    "paper_id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+    "pushed_on": "2026-04-30",
+    "bucket": "classic",
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model"
   }
 ]
