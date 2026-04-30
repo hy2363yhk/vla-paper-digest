@@ -70,5 +70,41 @@
     "pushed_on": "2026-04-30",
     "bucket": "classic",
     "title": "OpenVLA: An Open-Source Vision-Language-Action Model"
+  },
+  {
+    "paper_id": "b0ac4f62f55bcf0427008e18f1b4b5bf7ee43df2",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Dreamitate: Real-World Visuomotor Policy Learning via Video Generation"
+  },
+  {
+    "paper_id": "a2fbc4fe97377674be4b735157c31554e0d5d639",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs"
+  },
+  {
+    "paper_id": "5088b84507462bf725bb4898623d1dead4c6a206",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success"
+  },
+  {
+    "paper_id": "84a351dcc0323aed7fac5755303eb5614fac5f46",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation"
+  },
+  {
+    "paper_id": "7a7b63b1a9bb8055fa9acda769a6a9cf885b5c3f",
+    "pushed_on": "2026-04-30",
+    "bucket": "top_ranked",
+    "title": "Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation"
+  },
+  {
+    "paper_id": "7e7e59d2e247d99954081080ddd5aae93d10b9e0",
+    "pushed_on": "2026-04-30",
+    "bucket": "classic",
+    "title": "π0: A Vision-Language-Action Flow Model for General Robot Control"
   }
 ]
