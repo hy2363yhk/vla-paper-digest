@@ -106,5 +106,41 @@
     "pushed_on": "2026-04-30",
     "bucket": "classic",
     "title": "π0: A Vision-Language-Action Flow Model for General Robot Control"
+  },
+  {
+    "paper_id": "56b545002ebb897de167a2de1603f06ab8f6bb0a",
+    "pushed_on": "2026-05-01",
+    "bucket": "top_ranked",
+    "title": "Robotic Control via Embodied Chain-of-Thought Reasoning"
+  },
+  {
+    "paper_id": "05e61e2a23889323b5397232024467ee5980acde",
+    "pushed_on": "2026-05-01",
+    "bucket": "top_ranked",
+    "title": "HumanPlus: Humanoid Shadowing and Imitation from Humans"
+  },
+  {
+    "paper_id": "d6d9bef0641c898115043b57f21eedd7465855b1",
+    "pushed_on": "2026-05-01",
+    "bucket": "top_ranked",
+    "title": "FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning"
+  },
+  {
+    "paper_id": "05f6269c5471b31f49599a3865441bbbafdfdb1e",
+    "pushed_on": "2026-05-01",
+    "bucket": "top_ranked",
+    "title": "RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches"
+  },
+  {
+    "paper_id": "6a51686adfb418b6e1a7c84954f821729fc65ce2",
+    "pushed_on": "2026-05-01",
+    "bucket": "top_ranked",
+    "title": "Efficient Data Collection for Robotic Manipulation via Compositional Generalization"
+  },
+  {
+    "paper_id": "41ba8127b73abd32051a89764cb976095b1dee94",
+    "pushed_on": "2026-05-01",
+    "bucket": "classic",
+    "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation"
   }
 ]
