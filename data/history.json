@@ -142,5 +142,41 @@
     "pushed_on": "2026-05-01",
     "bucket": "classic",
     "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation"
+  },
+  {
+    "paper_id": "2bbc0b48052f1f3f52cbd46ece378baa61fa711b",
+    "pushed_on": "2026-05-02",
+    "bucket": "top_ranked",
+    "title": "RT-H: Action Hierarchies Using Language"
+  },
+  {
+    "paper_id": "19d3099bf0fbe63372df304c35f2ebe2ff1af357",
+    "pushed_on": "2026-05-02",
+    "bucket": "top_ranked",
+    "title": "Explore until Confident: Efficient Exploration for Embodied Question Answering"
+  },
+  {
+    "paper_id": "ca524f499028275f21776ea4b1fd41fd2ff7844b",
+    "pushed_on": "2026-05-02",
+    "bucket": "top_ranked",
+    "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos"
+  },
+  {
+    "paper_id": "e31e872833bc47079855bd902194397d6f3e1a80",
+    "pushed_on": "2026-05-02",
+    "bucket": "top_ranked",
+    "title": "Offline Imitation Learning Through Graph Search and Retrieval"
+  },
+  {
+    "paper_id": "2302faac0a41449bfa92f1edbf041ea83ae872be",
+    "pushed_on": "2026-05-02",
+    "bucket": "top_ranked",
+    "title": "So You Think You Can Scale Up Autonomous Robot Data Collection?"
+  },
+  {
+    "paper_id": "54caf5927a6d656bb84d2a16e16fa2b0c5d6f522",
+    "pushed_on": "2026-05-02",
+    "bucket": "classic",
+    "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation"
   }
 ]
