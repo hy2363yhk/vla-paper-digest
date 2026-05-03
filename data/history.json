@@ -178,5 +178,41 @@
     "pushed_on": "2026-05-02",
     "bucket": "classic",
     "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation"
+  },
+  {
+    "paper_id": "a346357f344d9193a3beca47cbf69736bfb91b2e",
+    "pushed_on": "2026-05-03",
+    "bucket": "top_ranked",
+    "title": "Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting"
+  },
+  {
+    "paper_id": "3267c7120cb67167d0fd3d65faac0ac6e5a24abd",
+    "pushed_on": "2026-05-03",
+    "bucket": "top_ranked",
+    "title": "Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding"
+  },
+  {
+    "paper_id": "cf492a1779cbf2784e0be6847ae6bd491a0f8cda",
+    "pushed_on": "2026-05-03",
+    "bucket": "top_ranked",
+    "title": "ARCap: Collecting High-Quality Human Demonstrations for Robot Learning with Augmented Reality Feedback"
+  },
+  {
+    "paper_id": "c3e868ba9ed775c9c0721b6b4054cd3ecce0bbeb",
+    "pushed_on": "2026-05-03",
+    "bucket": "top_ranked",
+    "title": "How to Train Your Robots? The Impact of Demonstration Modality on Imitation Learning"
+  },
+  {
+    "paper_id": "1ecaf7575f9d16d7d0e2b58073363b49ff6b8808",
+    "pushed_on": "2026-05-03",
+    "bucket": "top_ranked",
+    "title": "Hand-Object Interaction Pretraining from Videos"
+  },
+  {
+    "paper_id": "91eb20f923ea3b0246868902aef4e9bea572b800",
+    "pushed_on": "2026-05-03",
+    "bucket": "classic",
+    "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware"
   }
 ]
