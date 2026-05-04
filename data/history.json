@@ -214,5 +214,41 @@
     "pushed_on": "2026-05-03",
     "bucket": "classic",
     "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware"
+  },
+  {
+    "paper_id": "ca1523a186a915555850ad51165358fb7bf9c6b8",
+    "pushed_on": "2026-05-04",
+    "bucket": "top_ranked",
+    "title": "GET-Zero: Graph Embodiment Transformer for Zero-Shot Embodiment Generalization"
+  },
+  {
+    "paper_id": "559583b7cf7ca50416e2a776dc3ae3c5fb6ba700",
+    "pushed_on": "2026-05-04",
+    "bucket": "top_ranked",
+    "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation"
+  },
+  {
+    "paper_id": "9fbade2b7936b805f808825c46aebd604883fca9",
+    "pushed_on": "2026-05-04",
+    "bucket": "top_ranked",
+    "title": "Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation"
+  },
+  {
+    "paper_id": "752fd78d0598ca1eb028263f5c7172a5d02206a1",
+    "pushed_on": "2026-05-04",
+    "bucket": "top_ranked",
+    "title": "Large Video Planner Enables Generalizable Robot Control"
+  },
+  {
+    "paper_id": "202cc3fcea588cee37ffabcb0b5e145567109a66",
+    "pushed_on": "2026-05-04",
+    "bucket": "top_ranked",
+    "title": "Evaluating Real-World Robot Manipulation Policies in Simulation"
+  },
+  {
+    "paper_id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+    "pushed_on": "2026-05-04",
+    "bucket": "classic",
+    "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion"
   }
 ]
