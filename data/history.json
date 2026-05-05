@@ -250,5 +250,41 @@
     "pushed_on": "2026-05-04",
     "bucket": "classic",
     "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion"
+  },
+  {
+    "paper_id": "fa62498c13bb8f5e325ab5e5663f96187ffb4633",
+    "pushed_on": "2026-05-05",
+    "bucket": "top_ranked",
+    "title": "ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data"
+  },
+  {
+    "paper_id": "f7388e4ed4e4a62ba4b77cec9d7ee117eddc7cc1",
+    "pushed_on": "2026-05-05",
+    "bucket": "top_ranked",
+    "title": "Flow as the Cross-Domain Manipulation Interface"
+  },
+  {
+    "paper_id": "5f146b8945fac10b1ed6c06f60c3541d8bf5449f",
+    "pushed_on": "2026-05-05",
+    "bucket": "top_ranked",
+    "title": "UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers"
+  },
+  {
+    "paper_id": "5cde475c3b572cf81d9b14c4fd1163c1c2c19568",
+    "pushed_on": "2026-05-05",
+    "bucket": "top_ranked",
+    "title": "Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance"
+  },
+  {
+    "paper_id": "0a1ec333b79aa449ff9d2c2ce0913c625729e972",
+    "pushed_on": "2026-05-05",
+    "bucket": "top_ranked",
+    "title": "TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction"
+  },
+  {
+    "paper_id": "8bb32652e0a935b6ba1f54bd3d39cad80db09908",
+    "pushed_on": "2026-05-05",
+    "bucket": "classic",
+    "title": "3D Diffusion Policy"
   }
 ]
