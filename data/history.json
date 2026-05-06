@@ -286,5 +286,41 @@
     "pushed_on": "2026-05-05",
     "bucket": "classic",
     "title": "3D Diffusion Policy"
+  },
+  {
+    "paper_id": "0fbc8d481441cecb71b0674a193441be3e42dcfb",
+    "pushed_on": "2026-05-06",
+    "bucket": "top_ranked",
+    "title": "Scalable Offline Model-Based RL with Action Chunks"
+  },
+  {
+    "paper_id": "49ccd30c63eedc35ba3c460a0042eff8fc5d5e92",
+    "pushed_on": "2026-05-06",
+    "bucket": "top_ranked",
+    "title": "LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos"
+  },
+  {
+    "paper_id": "0992b7976a3fb87d784959725772565fa56141f8",
+    "pushed_on": "2026-05-06",
+    "bucket": "top_ranked",
+    "title": "Policy Adaptation via Language Optimization: Decomposing Tasks for Few-Shot Imitation"
+  },
+  {
+    "paper_id": "c866254bfe950f0921b5cf8acda01fde4f2c667f",
+    "pushed_on": "2026-05-06",
+    "bucket": "top_ranked",
+    "title": "View-Invariant Policy Learning via Zero-Shot Novel View Synthesis"
+  },
+  {
+    "paper_id": "e59ebc95be2dfeaa4d80f3dde59c5d12b34f7e4f",
+    "pushed_on": "2026-05-06",
+    "bucket": "top_ranked",
+    "title": "FLAIR: Feeding via Long-horizon AcquIsition of Realistic dishes"
+  },
+  {
+    "paper_id": "289906e335e367d363bc2e99d1c04037da7afbf2",
+    "pushed_on": "2026-05-06",
+    "bucket": "classic",
+    "title": "Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation"
   }
 ]
