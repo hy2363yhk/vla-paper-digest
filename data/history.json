@@ -322,5 +322,41 @@
     "pushed_on": "2026-05-06",
     "bucket": "classic",
     "title": "Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation"
+  },
+  {
+    "paper_id": "d27f3c5724acff3248005761e0808de13dd70b5e",
+    "pushed_on": "2026-05-07",
+    "bucket": "top_ranked",
+    "title": "Lessons from Learning to Spin \"Pens\""
+  },
+  {
+    "paper_id": "867640d2e4b200fc36c2dfda88495f36810fec14",
+    "pushed_on": "2026-05-07",
+    "bucket": "top_ranked",
+    "title": "RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing"
+  },
+  {
+    "paper_id": "480dd850710a752583d389da5c4ae9300df30c7b",
+    "pushed_on": "2026-05-07",
+    "bucket": "top_ranked",
+    "title": "SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation"
+  },
+  {
+    "paper_id": "b1507b9aa76cd2edca983e5e2eb55f482469b799",
+    "pushed_on": "2026-05-07",
+    "bucket": "top_ranked",
+    "title": "Composable Part-Based Manipulation"
+  },
+  {
+    "paper_id": "0697fae79c13d22afb089781ba3d2f9b795d34b1",
+    "pushed_on": "2026-05-07",
+    "bucket": "top_ranked",
+    "title": "Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning"
+  },
+  {
+    "paper_id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+    "pushed_on": "2026-05-07",
+    "bucket": "classic",
+    "title": "Flow Matching for Generative Modeling"
   }
 ]
