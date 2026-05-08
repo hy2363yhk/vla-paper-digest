@@ -358,5 +358,41 @@
     "pushed_on": "2026-05-07",
     "bucket": "classic",
     "title": "Flow Matching for Generative Modeling"
+  },
+  {
+    "paper_id": "openreview:jiWXDvw1Lf",
+    "pushed_on": "2026-05-08",
+    "bucket": "top_ranked",
+    "title": "Action Chunking and Data Augmentation Yield Exponential Improvements in Behavior Cloning for Continuous Spaces"
+  },
+  {
+    "paper_id": "8918ed27489ab267be3ee75573540dce4476b981",
+    "pushed_on": "2026-05-08",
+    "bucket": "top_ranked",
+    "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation using Low-Cost Whole-Body Teleoperation"
+  },
+  {
+    "paper_id": "f9f0d8dc0a90ae60ec1893814ca8b6ec0f69d31b",
+    "pushed_on": "2026-05-08",
+    "bucket": "top_ranked",
+    "title": "Twisting Lids Off with Two Hands"
+  },
+  {
+    "paper_id": "400abf91d03681d27dfbe6263928e6d55664d914",
+    "pushed_on": "2026-05-08",
+    "bucket": "top_ranked",
+    "title": "Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation"
+  },
+  {
+    "paper_id": "openreview:XUks1Y96NR",
+    "pushed_on": "2026-05-08",
+    "bucket": "top_ranked",
+    "title": "Reinforcement Learning with Action Chunking"
+  },
+  {
+    "paper_id": "5c74b1021aebd0575c339ce4dfd47e183009a9c5",
+    "pushed_on": "2026-05-08",
+    "bucket": "classic",
+    "title": "Implicit Behavioral Cloning"
   }
 ]
