@@ -394,5 +394,41 @@
     "pushed_on": "2026-05-08",
     "bucket": "classic",
     "title": "Implicit Behavioral Cloning"
+  },
+  {
+    "paper_id": "6b76d7064f52d27f35e62e71ca6f561da19f7c00",
+    "pushed_on": "2026-05-09",
+    "bucket": "top_ranked",
+    "title": "Decoupled Q-Chunking"
+  },
+  {
+    "paper_id": "f213d0cb84b6afca9a4d5722081ba3052e7e89bc",
+    "pushed_on": "2026-05-09",
+    "bucket": "top_ranked",
+    "title": "Yell At Your Robot: Improving On-the-Fly from Language Corrections"
+  },
+  {
+    "paper_id": "75850000ac9e056ce604c1bcd7631a3ae73d0458",
+    "pushed_on": "2026-05-09",
+    "bucket": "top_ranked",
+    "title": "HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation"
+  },
+  {
+    "paper_id": "73479aec8e447a921303d2ab3f546d34cee5610f",
+    "pushed_on": "2026-05-09",
+    "bucket": "top_ranked",
+    "title": "Differentiable Robot Rendering"
+  },
+  {
+    "paper_id": "bf9d1e28bb8b5fafcd02b5d88998a6fed66f78f8",
+    "pushed_on": "2026-05-09",
+    "bucket": "top_ranked",
+    "title": "Multi-Task Interactive Robot Fleet Learning with Visual World Models"
+  },
+  {
+    "paper_id": "c40a6438a8f2841c57ab091b041aca180f03d1e9",
+    "pushed_on": "2026-05-09",
+    "bucket": "classic",
+    "title": "ALOHA Unleashed: A Simple Recipe for Robot Dexterity"
   }
 ]
