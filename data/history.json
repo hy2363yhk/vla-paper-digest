@@ -430,5 +430,41 @@
     "pushed_on": "2026-05-09",
     "bucket": "classic",
     "title": "ALOHA Unleashed: A Simple Recipe for Robot Dexterity"
+  },
+  {
+    "paper_id": "739ccefc1d3d3bf3f0bf28c83e8146741fa3096b",
+    "pushed_on": "2026-05-10",
+    "bucket": "top_ranked",
+    "title": "Body Transformer: Leveraging Robot Embodiment for Policy Learning"
+  },
+  {
+    "paper_id": "6046a88b476874895ecc2b0bdab682d0e235c0c9",
+    "pushed_on": "2026-05-10",
+    "bucket": "top_ranked",
+    "title": "Automated Creation of Digital Cousins for Robust Policy Learning"
+  },
+  {
+    "paper_id": "91a6ea33890fb96f6a82d20551b4bd71e807b7e4",
+    "pushed_on": "2026-05-10",
+    "bucket": "top_ranked",
+    "title": "Autonomous Improvement of Instruction Following Skills via Foundation Models"
+  },
+  {
+    "paper_id": "26c526ac5edfa3e20a50f3479490ff29c8e0d754",
+    "pushed_on": "2026-05-10",
+    "bucket": "top_ranked",
+    "title": "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "ee5070fe52fd17da9a89d3f342fb07cc9ae51afe",
+    "pushed_on": "2026-05-10",
+    "bucket": "top_ranked",
+    "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset"
+  },
+  {
+    "paper_id": "fc3819a50705fc3cf90ab92f2a206b858fef3b19",
+    "pushed_on": "2026-05-10",
+    "bucket": "classic",
+    "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation"
   }
 ]
