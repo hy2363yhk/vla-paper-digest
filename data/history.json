@@ -466,5 +466,41 @@
     "pushed_on": "2026-05-10",
     "bucket": "classic",
     "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation"
+  },
+  {
+    "paper_id": "4e0c7732e8e68a1285359e41ab3dc1d02c408865",
+    "pushed_on": "2026-05-11",
+    "bucket": "top_ranked",
+    "title": "MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting"
+  },
+  {
+    "paper_id": "badf8adcf2b6a6780a308881de75f148a4cacea0",
+    "pushed_on": "2026-05-11",
+    "bucket": "top_ranked",
+    "title": "World Action Models are Zero-shot Policies"
+  },
+  {
+    "paper_id": "b8e34568d1b631b37449085da7f825ad78c0949a",
+    "pushed_on": "2026-05-11",
+    "bucket": "top_ranked",
+    "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "319e005858f32a7b1eddb05a62b1652ca8ea4611",
+    "pushed_on": "2026-05-11",
+    "bucket": "top_ranked",
+    "title": "π*0.6: a VLA That Learns From Experience"
+  },
+  {
+    "paper_id": "94b095cda9e45457f0fb04decdd605ace00b0abd",
+    "pushed_on": "2026-05-11",
+    "bucket": "top_ranked",
+    "title": "RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation"
+  },
+  {
+    "paper_id": "1d2753d74025e7a71594506623be81f18b073adb",
+    "pushed_on": "2026-05-11",
+    "bucket": "classic",
+    "title": "Octo: An Open-Source Generalist Robot Policy"
   }
 ]
