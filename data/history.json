@@ -502,5 +502,41 @@
     "pushed_on": "2026-05-11",
     "bucket": "classic",
     "title": "Octo: An Open-Source Generalist Robot Policy"
+  },
+  {
+    "paper_id": "c9f926f18886a1e4107f91125aac209a4565bfa0",
+    "pushed_on": "2026-05-12",
+    "bucket": "top_ranked",
+    "title": "Motus: A Unified Latent Action World Model"
+  },
+  {
+    "paper_id": "34d52d34e06122e30c207a8e38d4d911e6a2f012",
+    "pushed_on": "2026-05-12",
+    "bucket": "top_ranked",
+    "title": "Learning to Learn Faster from Human Feedback with Language Model Predictive Control"
+  },
+  {
+    "paper_id": "a64e32661c67b0501c4aef7aadc5e9cf99c9329f",
+    "pushed_on": "2026-05-12",
+    "bucket": "top_ranked",
+    "title": "ICRT: In-Context Imitation Learning via Next-Token Prediction"
+  },
+  {
+    "paper_id": "faf0841c3a78729ee15d469e002843b7901c00a7",
+    "pushed_on": "2026-05-12",
+    "bucket": "top_ranked",
+    "title": "A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation"
+  },
+  {
+    "paper_id": "6d32eb3a43594c723e1435dcbdad9cf4a5c78a61",
+    "pushed_on": "2026-05-12",
+    "bucket": "top_ranked",
+    "title": "Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning"
+  },
+  {
+    "paper_id": "857efca0d4cbece97da4b904de1d506c2af25f9c",
+    "pushed_on": "2026-05-12",
+    "bucket": "classic",
+    "title": "RoboFlamingo: Vision-Language Foundation Models as Effective Robot Imitators"
   }
 ]
