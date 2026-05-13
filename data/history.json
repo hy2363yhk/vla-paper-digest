@@ -538,5 +538,41 @@
     "pushed_on": "2026-05-12",
     "bucket": "classic",
     "title": "RoboFlamingo: Vision-Language Foundation Models as Effective Robot Imitators"
+  },
+  {
+    "paper_id": "dd56b2317223060ce5f1d743d99ffe4f2f073c0b",
+    "pushed_on": "2026-05-13",
+    "bucket": "top_ranked",
+    "title": "Learning In-Hand Translation Using Tactile Skin with Shear and Normal Force Sensing"
+  },
+  {
+    "paper_id": "18f6691def4672a5ecea02464b9649b7a103cf61",
+    "pushed_on": "2026-05-13",
+    "bucket": "top_ranked",
+    "title": "MOTO: Offline Pre-training to Online Fine-tuning for Model-based Robot Learning"
+  },
+  {
+    "paper_id": "58ba0813023472994bc337be0ba7e6aa5caae3d6",
+    "pushed_on": "2026-05-13",
+    "bucket": "top_ranked",
+    "title": "OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation"
+  },
+  {
+    "paper_id": "03bf2ac9be967451ca140d8650285828e3cd574c",
+    "pushed_on": "2026-05-13",
+    "bucket": "top_ranked",
+    "title": "CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "8a4498bdc31ca56803db14c72a562542b79b2bc0",
+    "pushed_on": "2026-05-13",
+    "bucket": "top_ranked",
+    "title": "How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies"
+  },
+  {
+    "paper_id": "189201d365ff90a64c4fba3285a6274e32e442bd",
+    "pushed_on": "2026-05-13",
+    "bucket": "classic",
+    "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
   }
 ]
