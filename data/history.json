@@ -574,5 +574,41 @@
     "pushed_on": "2026-05-13",
     "bucket": "classic",
     "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
+  },
+  {
+    "paper_id": "59d2d7092051a8ca8bd7aba1db75db9631e36aa5",
+    "pushed_on": "2026-05-14",
+    "bucket": "top_ranked",
+    "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation"
+  },
+  {
+    "paper_id": "161233bf4495056099bb5c7165d50908967486db",
+    "pushed_on": "2026-05-14",
+    "bucket": "top_ranked",
+    "title": "The Ingredients for Robotic Diffusion Transformers"
+  },
+  {
+    "paper_id": "256d0ee85480fbece495fa5b67501b7c9eb3ef57",
+    "pushed_on": "2026-05-14",
+    "bucket": "top_ranked",
+    "title": "MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery"
+  },
+  {
+    "paper_id": "50fe40b35d376d000a70a25ab2f9b6e6b6b336d6",
+    "pushed_on": "2026-05-14",
+    "bucket": "top_ranked",
+    "title": "DrEureka: Language Model Guided Sim-To-Real Transfer"
+  },
+  {
+    "paper_id": "63f85690ba9df051e168a157339ee500ac4c30f3",
+    "pushed_on": "2026-05-14",
+    "bucket": "top_ranked",
+    "title": "Rank2Reward: Learning Shaped Reward Functions from Passive Video"
+  },
+  {
+    "paper_id": "574ec4679c9efdaac629b8fd7f01ee07d78b741d",
+    "pushed_on": "2026-05-14",
+    "bucket": "classic",
+    "title": "Chunking the Critic: A Transformer-Based Soft Actor-Critic with N-Step Returns"
   }
 ]
