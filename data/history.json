@@ -646,5 +646,41 @@
     "pushed_on": "2026-05-15",
     "bucket": "classic",
     "title": "Goal-Conditioned Imitation Learning using Score-based Diffusion Policies"
+  },
+  {
+    "paper_id": "4f0acfbef71769acaa2faced3faa7c6d2af1a0d3",
+    "pushed_on": "2026-05-16",
+    "bucket": "top_ranked",
+    "title": "InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning"
+  },
+  {
+    "paper_id": "f8a3331421b98c7d4065ecf55c4013e6306359f2",
+    "pushed_on": "2026-05-16",
+    "bucket": "top_ranked",
+    "title": "Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better"
+  },
+  {
+    "paper_id": "51b4a73d753dac4be63d07b3d933da8f9418e483",
+    "pushed_on": "2026-05-16",
+    "bucket": "top_ranked",
+    "title": "${\\pi}_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities"
+  },
+  {
+    "paper_id": "85ba08c7fbc43032704a25ee00f07363dacf27da",
+    "pushed_on": "2026-05-16",
+    "bucket": "top_ranked",
+    "title": "Steering Your Diffusion Policy with Latent Space Reinforcement Learning"
+  },
+  {
+    "paper_id": "cc2ce2d9843c937ff6336b110e4066002dc77332",
+    "pushed_on": "2026-05-16",
+    "bucket": "top_ranked",
+    "title": "GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs"
+  },
+  {
+    "paper_id": "7d638461965faa79cfd28d5f0a6fbb12fca41c9f",
+    "pushed_on": "2026-05-16",
+    "bucket": "classic",
+    "title": "What matters in building vision-language-action models for generalist robots"
   }
 ]
