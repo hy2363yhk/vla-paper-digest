@@ -682,5 +682,41 @@
     "pushed_on": "2026-05-16",
     "bucket": "classic",
     "title": "What matters in building vision-language-action models for generalist robots"
+  },
+  {
+    "paper_id": "cb756ff5513facdd3f1a3798e6d1bfe846d69b59",
+    "pushed_on": "2026-05-18",
+    "bucket": "top_ranked",
+    "title": "Towards Tight Convex Relaxations for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "ec98b763c19d063664f43b95a8296aed5a074cc0",
+    "pushed_on": "2026-05-18",
+    "bucket": "top_ranked",
+    "title": "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images"
+  },
+  {
+    "paper_id": "0e54e5375e17061114ed11fcf23f4054ad9f55d9",
+    "pushed_on": "2026-05-18",
+    "bucket": "top_ranked",
+    "title": "Action Chunking and Exploratory Data Collection Yield Exponential Improvements in Behavior Cloning for Continuous Control"
+  },
+  {
+    "paper_id": "7631955f7d8a6b9f3ab1973a8dfd8504d9e6782b",
+    "pushed_on": "2026-05-18",
+    "bucket": "top_ranked",
+    "title": "Evaluating Gemini Robotics Policies in a Veo World Simulator"
+  },
+  {
+    "paper_id": "97b2a5e51c679a42ed874f7abf247712cd9f8622",
+    "pushed_on": "2026-05-18",
+    "bucket": "top_ranked",
+    "title": "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration"
+  },
+  {
+    "paper_id": "b9d45e2075eb1546adb156617785552c76bbf98b",
+    "pushed_on": "2026-05-18",
+    "bucket": "classic",
+    "title": "Surfer: Progressive Reasoning with World Models for Robotic Manipulation"
   }
 ]
