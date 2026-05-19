@@ -718,5 +718,41 @@
     "pushed_on": "2026-05-18",
     "bucket": "classic",
     "title": "Surfer: Progressive Reasoning with World Models for Robotic Manipulation"
+  },
+  {
+    "paper_id": "63db36cb69c60f417b45051019b2c263738b3bcd",
+    "pushed_on": "2026-05-19",
+    "bucket": "top_ranked",
+    "title": "TactileAloha: Learning Bimanual Manipulation With Tactile Sensing"
+  },
+  {
+    "paper_id": "7e2cad1c2f774ab108d35b317c237d9311bed830",
+    "pushed_on": "2026-05-19",
+    "bucket": "top_ranked",
+    "title": "Commonsense Reasoning for Legged Robot Adaptation with Vision-Language Models"
+  },
+  {
+    "paper_id": "810145dcc8ecd7d056d4c103c049f80e2668e9b8",
+    "pushed_on": "2026-05-19",
+    "bucket": "top_ranked",
+    "title": "LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning"
+  },
+  {
+    "paper_id": "6225ef54b2440fe05314c1e800b2628b0d2b7e82",
+    "pushed_on": "2026-05-19",
+    "bucket": "top_ranked",
+    "title": "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning"
+  },
+  {
+    "paper_id": "c7ad1fc4f602f1213619ebf80d582ef5fe408267",
+    "pushed_on": "2026-05-19",
+    "bucket": "top_ranked",
+    "title": "Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions"
+  },
+  {
+    "paper_id": "6a504c1a94139791854bc9a68ee1d3ebb925e642",
+    "pushed_on": "2026-05-19",
+    "bucket": "classic",
+    "title": "Any-point Trajectory Modeling for Policy Learning"
   }
 ]
