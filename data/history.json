@@ -754,5 +754,41 @@
     "pushed_on": "2026-05-19",
     "bucket": "classic",
     "title": "Any-point Trajectory Modeling for Policy Learning"
+  },
+  {
+    "paper_id": "1e2a82ef5e0325a26ca0344c4f8c256c52fae7ec",
+    "pushed_on": "2026-05-20",
+    "bucket": "top_ranked",
+    "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization"
+  },
+  {
+    "paper_id": "3462a6063dbf86ffd82c567b21879fb7080363ab",
+    "pushed_on": "2026-05-20",
+    "bucket": "top_ranked",
+    "title": "RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots"
+  },
+  {
+    "paper_id": "867a8fa903ed4789395c1cb3b233254ad60eec4c",
+    "pushed_on": "2026-05-20",
+    "bucket": "top_ranked",
+    "title": "Octopi: Object Property Reasoning with Large Tactile-Language Models"
+  },
+  {
+    "paper_id": "e1f213f89df082e360fca9ed9518383ef6a90db0",
+    "pushed_on": "2026-05-20",
+    "bucket": "top_ranked",
+    "title": "Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers"
+  },
+  {
+    "paper_id": "arxiv:2605.09989",
+    "pushed_on": "2026-05-20",
+    "bucket": "top_ranked",
+    "title": "StereoPolicy: Improving Robotic Manipulation Policies via Stereo Perception"
+  },
+  {
+    "paper_id": "94fb3041f7fa85d889950c5f98848795a2b90cd6",
+    "pushed_on": "2026-05-20",
+    "bucket": "classic",
+    "title": "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos"
   }
 ]
