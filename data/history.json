@@ -790,5 +790,41 @@
     "pushed_on": "2026-05-20",
     "bucket": "classic",
     "title": "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos"
+  },
+  {
+    "paper_id": "ddfe191f758ed8d74ceaf769392af5c5c9546e52",
+    "pushed_on": "2026-05-21",
+    "bucket": "top_ranked",
+    "title": "World Model for Robot Learning: A Comprehensive Survey"
+  },
+  {
+    "paper_id": "openreview:aqGNdZQL9l",
+    "pushed_on": "2026-05-21",
+    "bucket": "top_ranked",
+    "title": "Decoupled Q-Chunking"
+  },
+  {
+    "paper_id": "openreview:FkeURAdA0h",
+    "pushed_on": "2026-05-21",
+    "bucket": "top_ranked",
+    "title": "Self-Predictive Representations for Combinatorial Generalization in Behavioral Cloning"
+  },
+  {
+    "paper_id": "openreview:IZHk6BXBST",
+    "pushed_on": "2026-05-21",
+    "bucket": "top_ranked",
+    "title": "Rodrigues Network for Learning Robot Actions"
+  },
+  {
+    "paper_id": "openreview:WXGb9unEHo",
+    "pushed_on": "2026-05-21",
+    "bucket": "top_ranked",
+    "title": "Scalable Offline Model-Based RL with Action Chunks"
+  },
+  {
+    "paper_id": "fae53cfc54eed4f2b602cce39d5519782e948d03",
+    "pushed_on": "2026-05-21",
+    "bucket": "classic",
+    "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning"
   }
 ]
