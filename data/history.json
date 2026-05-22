@@ -826,5 +826,41 @@
     "pushed_on": "2026-05-21",
     "bucket": "classic",
     "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning"
+  },
+  {
+    "paper_id": "openreview:rBFDvZu6pb",
+    "pushed_on": "2026-05-22",
+    "bucket": "top_ranked",
+    "title": "Cambrian-S: Towards Spatial Supersensing in Video"
+  },
+  {
+    "paper_id": "fc4d4a25aac973b516c0bf890e36660fe228e79a",
+    "pushed_on": "2026-05-22",
+    "bucket": "top_ranked",
+    "title": "SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning"
+  },
+  {
+    "paper_id": "openreview:bGPDviEtZ1",
+    "pushed_on": "2026-05-22",
+    "bucket": "top_ranked",
+    "title": "MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2605.00080",
+    "pushed_on": "2026-05-22",
+    "bucket": "top_ranked",
+    "title": "World Model for Robot Learning: A Comprehensive Survey"
+  },
+  {
+    "paper_id": "a2a1bc27eefe31b90ecc868675a1ceec7c3d2652",
+    "pushed_on": "2026-05-22",
+    "bucket": "top_ranked",
+    "title": "KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation Without Robot Data"
+  },
+  {
+    "paper_id": "35700b2794a8c221aff817cd1d7d01a36539df28",
+    "pushed_on": "2026-05-22",
+    "bucket": "classic",
+    "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers"
   }
 ]
