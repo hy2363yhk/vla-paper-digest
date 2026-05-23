@@ -862,5 +862,41 @@
     "pushed_on": "2026-05-22",
     "bucket": "classic",
     "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers"
+  },
+  {
+    "paper_id": "openreview:wPEIStHxYH",
+    "pushed_on": "2026-05-23",
+    "bucket": "top_ranked",
+    "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning"
+  },
+  {
+    "paper_id": "f6da39ef0dfc0df48c64ee96943a37d07cea1990",
+    "pushed_on": "2026-05-23",
+    "bucket": "top_ranked",
+    "title": "Galaxea Open-World Dataset and G0 Dual-System VLA Model"
+  },
+  {
+    "paper_id": "openreview:1dH4ARGdwD",
+    "pushed_on": "2026-05-23",
+    "bucket": "top_ranked",
+    "title": "Scaling up Memory for Robotic Control via Experience Retrieval"
+  },
+  {
+    "paper_id": "openreview:Ig6goVdtjb",
+    "pushed_on": "2026-05-23",
+    "bucket": "top_ranked",
+    "title": "ROSETTA: Constructing Code-Based Reward from Unconstrained Language Preference"
+  },
+  {
+    "paper_id": "openreview:aemqAxScl9",
+    "pushed_on": "2026-05-23",
+    "bucket": "top_ranked",
+    "title": "SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation"
+  },
+  {
+    "paper_id": "da2fe6cd385194b0274d04d04ee72e8caf3854d4",
+    "pushed_on": "2026-05-23",
+    "bucket": "classic",
+    "title": "Learning Universal Policies via Text-Guided Video Generation"
   }
 ]
