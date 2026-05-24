@@ -898,5 +898,35 @@
     "pushed_on": "2026-05-23",
     "bucket": "classic",
     "title": "Learning Universal Policies via Text-Guided Video Generation"
+  },
+  {
+    "paper_id": "openreview:748bHL2BAv",
+    "pushed_on": "2026-05-24",
+    "bucket": "top_ranked",
+    "title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation"
+  },
+  {
+    "paper_id": "0c9c3e2fdb62dc3a2c93f4818b1402cf785a8302",
+    "pushed_on": "2026-05-24",
+    "bucket": "top_ranked",
+    "title": "Local Policies Enable Zero-Shot Long-Horizon Manipulation"
+  },
+  {
+    "paper_id": "602abd99958e7842643f67caf2eaea89b30a0f58",
+    "pushed_on": "2026-05-24",
+    "bucket": "top_ranked",
+    "title": "Catch It! Learning to Catch in Flight with Mobile Dexterous Hands"
+  },
+  {
+    "paper_id": "f25644ff6832c951554f4c3de53f02e392456691",
+    "pushed_on": "2026-05-24",
+    "bucket": "top_ranked",
+    "title": "InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation"
+  },
+  {
+    "paper_id": "e9c03c3a3da64703583673c0f189e0a2b3b4c196",
+    "pushed_on": "2026-05-24",
+    "bucket": "top_ranked",
+    "title": "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models"
   }
 ]
