@@ -928,5 +928,35 @@
     "pushed_on": "2026-05-24",
     "bucket": "top_ranked",
     "title": "Adaptive Action Chunking at Inference-time for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "d21b87eab592c2f33a55ff6c86c41e77b2a2937e",
+    "pushed_on": "2026-05-25",
+    "bucket": "top_ranked",
+    "title": "Learning Long-Context Diffusion Policies via Past-Token Prediction"
+  },
+  {
+    "paper_id": "858d7e1a17e86ae5024cbb04a4e1ade0e4e8f4ed",
+    "pushed_on": "2026-05-25",
+    "bucket": "top_ranked",
+    "title": "Leveraging Locality to Boost Sample Efficiency in Robotic Manipulation"
+  },
+  {
+    "paper_id": "a05dbe5558a08003cc4c5418dd84844abd128a3e",
+    "pushed_on": "2026-05-25",
+    "bucket": "top_ranked",
+    "title": "Bimanual Dexterity for Complex Tasks"
+  },
+  {
+    "paper_id": "67e621e2869b3ace4cff7e94c08d903304d3f70c",
+    "pushed_on": "2026-05-25",
+    "bucket": "top_ranked",
+    "title": "Continuously Improving Mobile Manipulation with Autonomous Real-World RL"
+  },
+  {
+    "paper_id": "0e36566c0b687d72976bb45222400cc7457f47ae",
+    "pushed_on": "2026-05-25",
+    "bucket": "top_ranked",
+    "title": "Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion"
   }
 ]
