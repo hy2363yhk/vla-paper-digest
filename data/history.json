@@ -958,5 +958,35 @@
     "pushed_on": "2026-05-25",
     "bucket": "top_ranked",
     "title": "Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion"
+  },
+  {
+    "paper_id": "19e96723c98eb4dd58e65e40bb6b9bfb985a4218",
+    "pushed_on": "2026-05-26",
+    "bucket": "top_ranked",
+    "title": "Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail"
+  },
+  {
+    "paper_id": "86642b3c6af6230614255ce95f33ed7324ec276d",
+    "pushed_on": "2026-05-26",
+    "bucket": "top_ranked",
+    "title": "HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation"
+  },
+  {
+    "paper_id": "d4442fe208bbcc58d99d1336106132109d2ddc60",
+    "pushed_on": "2026-05-26",
+    "bucket": "top_ranked",
+    "title": "Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling"
+  },
+  {
+    "paper_id": "openreview:qZmn2hkuzw",
+    "pushed_on": "2026-05-26",
+    "bucket": "top_ranked",
+    "title": "Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling"
+  },
+  {
+    "paper_id": "openreview:8DHSyMFLbB",
+    "pushed_on": "2026-05-26",
+    "bucket": "top_ranked",
+    "title": "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids"
   }
 ]
