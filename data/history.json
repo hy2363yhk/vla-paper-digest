@@ -988,5 +988,35 @@
     "pushed_on": "2026-05-26",
     "bucket": "top_ranked",
     "title": "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids"
+  },
+  {
+    "paper_id": "14c584af2fda0b9b5851b1e8573c4e2dd2c8fd0b",
+    "pushed_on": "2026-05-27",
+    "bucket": "top_ranked",
+    "title": "Self-Improving Vision-Language-Action Models with Data Generation via Residual RL"
+  },
+  {
+    "paper_id": "dded8108062c06cc6285d04b9a663991f33ed408",
+    "pushed_on": "2026-05-27",
+    "bucket": "top_ranked",
+    "title": "Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving"
+  },
+  {
+    "paper_id": "f68430defe1e2b5c17a5f44e77db070fc9343255",
+    "pushed_on": "2026-05-27",
+    "bucket": "top_ranked",
+    "title": "Multi-Transmotion: Pre-trained Model for Human Motion Prediction"
+  },
+  {
+    "paper_id": "ec4bdd8a5055bebc7fdaafa596a749b26b20c983",
+    "pushed_on": "2026-05-27",
+    "bucket": "top_ranked",
+    "title": "HRP: Human Affordances for Robotic Pre-Training"
+  },
+  {
+    "paper_id": "d381f274bcf3b869e5bcff48e4ef3d471c1d0a0e",
+    "pushed_on": "2026-05-27",
+    "bucket": "top_ranked",
+    "title": "Learning Manipulation by Predicting Interaction"
   }
 ]
