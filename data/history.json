@@ -1018,5 +1018,35 @@
     "pushed_on": "2026-05-27",
     "bucket": "top_ranked",
     "title": "Learning Manipulation by Predicting Interaction"
+  },
+  {
+    "paper_id": "a2ee5d7b65d8c181a594429dbafe28320f09efbb",
+    "pushed_on": "2026-05-28",
+    "bucket": "top_ranked",
+    "title": "Behav: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes"
+  },
+  {
+    "paper_id": "a294546084fda4e0f12f307caed4f9c58f051632",
+    "pushed_on": "2026-05-28",
+    "bucket": "top_ranked",
+    "title": "RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots"
+  },
+  {
+    "paper_id": "openreview:aFjSjkB6CV",
+    "pushed_on": "2026-05-28",
+    "bucket": "top_ranked",
+    "title": "EXPO: Stable Reinforcement Learning with Expressive Policies"
+  },
+  {
+    "paper_id": "openreview:usw1NVkczu",
+    "pushed_on": "2026-05-28",
+    "bucket": "top_ranked",
+    "title": "What Matters for Batch Online Reinforcement Learning in Robotics?"
+  },
+  {
+    "paper_id": "openreview:uWJwQ5SZoM",
+    "pushed_on": "2026-05-28",
+    "bucket": "top_ranked",
+    "title": "Robust Fine-tuning of Vision-Language-Action Robot Policies via Parameter Merging"
   }
 ]
