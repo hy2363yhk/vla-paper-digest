@@ -1048,5 +1048,35 @@
     "pushed_on": "2026-05-28",
     "bucket": "top_ranked",
     "title": "Robust Fine-tuning of Vision-Language-Action Robot Policies via Parameter Merging"
+  },
+  {
+    "paper_id": "openreview:Patx6MRipw",
+    "pushed_on": "2026-05-29",
+    "bucket": "top_ranked",
+    "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction"
+  },
+  {
+    "paper_id": "4d5873949633ea21b007ad64a4da134ac86c64d5",
+    "pushed_on": "2026-05-29",
+    "bucket": "top_ranked",
+    "title": "Automatic Behavior Tree Expansion with LLMs for Robotic Manipulation"
+  },
+  {
+    "paper_id": "0f89c2e35ed0c242b817676b6a4fa9c35afe332b",
+    "pushed_on": "2026-05-29",
+    "bucket": "top_ranked",
+    "title": "WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control"
+  },
+  {
+    "paper_id": "openreview:vlhoswksBO",
+    "pushed_on": "2026-05-29",
+    "bucket": "top_ranked",
+    "title": "$\\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization"
+  },
+  {
+    "paper_id": "731c50b0d6af4c1cb8d95f506541681ea487973b",
+    "pushed_on": "2026-05-29",
+    "bucket": "top_ranked",
+    "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"
   }
 ]
