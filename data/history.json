@@ -1078,5 +1078,35 @@
     "pushed_on": "2026-05-29",
     "bucket": "top_ranked",
     "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"
+  },
+  {
+    "paper_id": "arxiv:2605.03065",
+    "pushed_on": "2026-05-30",
+    "bucket": "top_ranked",
+    "title": "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies"
+  },
+  {
+    "paper_id": "4e94b064f731dcfad6c2b173743e3982fa6ed9de",
+    "pushed_on": "2026-05-30",
+    "bucket": "top_ranked",
+    "title": "Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration"
+  },
+  {
+    "paper_id": "openreview:xpjWEgf8zi",
+    "pushed_on": "2026-05-30",
+    "bucket": "top_ranked",
+    "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents"
+  },
+  {
+    "paper_id": "openreview:FUd016XD4d",
+    "pushed_on": "2026-05-30",
+    "bucket": "top_ranked",
+    "title": "Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution"
+  },
+  {
+    "paper_id": "949e9bfcffa872fef6d9eabf2bd7cd6cea31e828",
+    "pushed_on": "2026-05-30",
+    "bucket": "top_ranked",
+    "title": "FASTER: Rethinking Real-Time Flow VLAs"
   }
 ]
