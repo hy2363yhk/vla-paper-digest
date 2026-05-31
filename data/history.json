@@ -1108,5 +1108,35 @@
     "pushed_on": "2026-05-30",
     "bucket": "top_ranked",
     "title": "FASTER: Rethinking Real-Time Flow VLAs"
+  },
+  {
+    "paper_id": "openreview:GctsZXLCpl",
+    "pushed_on": "2026-05-31",
+    "bucket": "top_ranked",
+    "title": "Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking"
+  },
+  {
+    "paper_id": "04335226a90812f7d11d26db491ac0fffa4af36d",
+    "pushed_on": "2026-05-31",
+    "bucket": "top_ranked",
+    "title": "Learning Force Control for Legged Manipulation"
+  },
+  {
+    "paper_id": "a5710fb5ec14792f35cf7f6c0245e1d9a419a3b0",
+    "pushed_on": "2026-05-31",
+    "bucket": "top_ranked",
+    "title": "RACER: Epistemic Risk-Sensitive RL Enables Fast Driving with Fewer Crashes"
+  },
+  {
+    "paper_id": "openreview:htgNQHa6Ta",
+    "pushed_on": "2026-05-31",
+    "bucket": "top_ranked",
+    "title": "TWIST: Teleoperated Whole-Body Imitation System"
+  },
+  {
+    "paper_id": "arxiv:2605.25477",
+    "pushed_on": "2026-05-31",
+    "bucket": "top_ranked",
+    "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
   }
 ]
