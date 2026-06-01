@@ -1138,5 +1138,35 @@
     "pushed_on": "2026-05-31",
     "bucket": "top_ranked",
     "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "b9197d1ff90ab9ae874001a3f24d2b7380152da5",
+    "pushed_on": "2026-06-01",
+    "bucket": "top_ranked",
+    "title": "DynaGuide: Steering Diffusion Polices with Active Dynamic Guidance"
+  },
+  {
+    "paper_id": "2d454a80eb5f3b0b67f4b8dbbceed3d5cf3954bb",
+    "pushed_on": "2026-06-01",
+    "bucket": "top_ranked",
+    "title": "Learning Visual Parkour from Generated Images"
+  },
+  {
+    "paper_id": "f1e19216db7b90b793ce33d8d8dfe225bef18d89",
+    "pushed_on": "2026-06-01",
+    "bucket": "top_ranked",
+    "title": "VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding"
+  },
+  {
+    "paper_id": "7c03cbd425bf4e80fccda67658a43c6f57f8e22a",
+    "pushed_on": "2026-06-01",
+    "bucket": "top_ranked",
+    "title": "LLM-as-BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning"
+  },
+  {
+    "paper_id": "b84e1037ba26c74c980c51e1b2dfb32766918c3c",
+    "pushed_on": "2026-06-01",
+    "bucket": "top_ranked",
+    "title": "BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning"
   }
 ]
