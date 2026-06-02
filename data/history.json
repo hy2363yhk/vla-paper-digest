@@ -1168,5 +1168,35 @@
     "pushed_on": "2026-06-01",
     "bucket": "top_ranked",
     "title": "BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning"
+  },
+  {
+    "paper_id": "arxiv:2606.01955",
+    "pushed_on": "2026-06-02",
+    "bucket": "top_ranked",
+    "title": "WALL-WM: Carving World Action Modeling at the Event Joints"
+  },
+  {
+    "paper_id": "8b963c1d854e3db4a9140a10faa988b8b9d96156",
+    "pushed_on": "2026-06-02",
+    "bucket": "top_ranked",
+    "title": "Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design"
+  },
+  {
+    "paper_id": "openreview:AcDx2tUZPb",
+    "pushed_on": "2026-06-02",
+    "bucket": "top_ranked",
+    "title": "DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning"
+  },
+  {
+    "paper_id": "17060729a166d2ad12b3313768f8950566a2e50d",
+    "pushed_on": "2026-06-02",
+    "bucket": "top_ranked",
+    "title": "DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy"
+  },
+  {
+    "paper_id": "df831eeae0385a5cad74e534d79e3bab594b1843",
+    "pushed_on": "2026-06-02",
+    "bucket": "top_ranked",
+    "title": "General Flow as Foundation Affordance for Scalable Robot Learning"
   }
 ]
