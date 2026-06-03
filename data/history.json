@@ -1198,5 +1198,35 @@
     "pushed_on": "2026-06-02",
     "bucket": "top_ranked",
     "title": "General Flow as Foundation Affordance for Scalable Robot Learning"
+  },
+  {
+    "paper_id": "715f9cbcb002fe1413b1eeebbc6d6485cbbc2ba3",
+    "pushed_on": "2026-06-03",
+    "bucket": "top_ranked",
+    "title": "Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge"
+  },
+  {
+    "paper_id": "5b307d59abeb0c91277736b7dc41c87daa619365",
+    "pushed_on": "2026-06-03",
+    "bucket": "top_ranked",
+    "title": "Position: Good Embodied Reward Models Need Bad Behavior Data"
+  },
+  {
+    "paper_id": "62bf0a3d3e5e20ecfd67dc9fe8991c63f151608e",
+    "pushed_on": "2026-06-03",
+    "bucket": "top_ranked",
+    "title": "STEER: Flexible Robotic Manipulation via Dense Language Grounding"
+  },
+  {
+    "paper_id": "02d0a08555405e9afef977d17db67e841b499343",
+    "pushed_on": "2026-06-03",
+    "bucket": "top_ranked",
+    "title": "In-Context Learning Enables Robot Action Prediction in LLMs"
+  },
+  {
+    "paper_id": "3880f5bad862ba1b18f4f8ec060038b326b118ed",
+    "pushed_on": "2026-06-03",
+    "bucket": "top_ranked",
+    "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models"
   }
 ]
