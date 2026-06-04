@@ -1228,5 +1228,35 @@
     "pushed_on": "2026-06-03",
     "bucket": "top_ranked",
     "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "5028fb62d1144f81aa91806798b28eebe0e929c8",
+    "pushed_on": "2026-06-04",
+    "bucket": "top_ranked",
+    "title": "Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking"
+  },
+  {
+    "paper_id": "2d7f3a99e916fc80ff890d109699f9682253e66d",
+    "pushed_on": "2026-06-04",
+    "bucket": "top_ranked",
+    "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "8adae1fe6f3f3b7738cadcbfc616e7b86244a9b9",
+    "pushed_on": "2026-06-04",
+    "bucket": "top_ranked",
+    "title": "Latent Diffusion Planning for Imitation Learning"
+  },
+  {
+    "paper_id": "openreview:HXJ6pUSn1L",
+    "pushed_on": "2026-06-04",
+    "bucket": "top_ranked",
+    "title": "FLARE: Robot Learning with Implicit World Modeling"
+  },
+  {
+    "paper_id": "31dc2137c5c2c9dc96bd0e83e46149518ef23e00",
+    "pushed_on": "2026-06-04",
+    "bucket": "top_ranked",
+    "title": "TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation"
   }
 ]
