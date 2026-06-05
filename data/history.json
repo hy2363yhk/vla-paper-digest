@@ -1258,5 +1258,35 @@
     "pushed_on": "2026-06-04",
     "bucket": "top_ranked",
     "title": "TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation"
+  },
+  {
+    "paper_id": "87ae06051e4d8678f54b6b926c238aa61d858bbb",
+    "pushed_on": "2026-06-05",
+    "bucket": "top_ranked",
+    "title": "VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation"
+  },
+  {
+    "paper_id": "openreview:2uNlM353RI",
+    "pushed_on": "2026-06-05",
+    "bucket": "top_ranked",
+    "title": "Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency"
+  },
+  {
+    "paper_id": "openreview:wnWYoetLhC",
+    "pushed_on": "2026-06-05",
+    "bucket": "top_ranked",
+    "title": "Data Retrieval with Importance Weights for Few-Shot Imitation Learning"
+  },
+  {
+    "paper_id": "openreview:bt1Tovn0SW",
+    "pushed_on": "2026-06-05",
+    "bucket": "top_ranked",
+    "title": "Training Strategies for Efficient Embodied Reasoning"
+  },
+  {
+    "paper_id": "openreview:DzRNBBCP4R",
+    "pushed_on": "2026-06-05",
+    "bucket": "top_ranked",
+    "title": "Action-Free Reasoning for Policy Generalization"
   }
 ]
