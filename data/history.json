@@ -1288,5 +1288,35 @@
     "pushed_on": "2026-06-05",
     "bucket": "top_ranked",
     "title": "Action-Free Reasoning for Policy Generalization"
+  },
+  {
+    "paper_id": "openreview:jU7AbGq3se",
+    "pushed_on": "2026-06-06",
+    "bucket": "top_ranked",
+    "title": "Steering Your Diffusion Policy with Latent Space Reinforcement Learning"
+  },
+  {
+    "paper_id": "openreview:o0LBjJxUeS",
+    "pushed_on": "2026-06-06",
+    "bucket": "top_ranked",
+    "title": "Learning Long-Context Diffusion Policies via Past-Token Prediction"
+  },
+  {
+    "paper_id": "arxiv:2605.30347",
+    "pushed_on": "2026-06-06",
+    "bucket": "top_ranked",
+    "title": "NeuROK: Generative 4D Neural Object Kinematics"
+  },
+  {
+    "paper_id": "openreview:Q1CP0iAmOb",
+    "pushed_on": "2026-06-06",
+    "bucket": "top_ranked",
+    "title": "H$^3$DP: Triply‑Hierarchical Diffusion Policy for Visuomotor Learning"
+  },
+  {
+    "paper_id": "0470bbfdf2e27e4599c0f021b1eb160115a59a18",
+    "pushed_on": "2026-06-06",
+    "bucket": "top_ranked",
+    "title": "VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots"
   }
 ]
