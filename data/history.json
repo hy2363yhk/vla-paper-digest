@@ -1318,5 +1318,35 @@
     "pushed_on": "2026-06-06",
     "bucket": "top_ranked",
     "title": "VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots"
+  },
+  {
+    "paper_id": "openreview:Tl7girqoLi",
+    "pushed_on": "2026-06-08",
+    "bucket": "top_ranked",
+    "title": "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration"
+  },
+  {
+    "paper_id": "6e23f36a15630e4fc143dd7aea0270471f0ee6f9",
+    "pushed_on": "2026-06-08",
+    "bucket": "top_ranked",
+    "title": "VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning"
+  },
+  {
+    "paper_id": "bb9d1e2de8d4a982b5c8d0e407abadfe11432246",
+    "pushed_on": "2026-06-08",
+    "bucket": "top_ranked",
+    "title": "Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V"
+  },
+  {
+    "paper_id": "openreview:zzTQISAGUp",
+    "pushed_on": "2026-06-08",
+    "bucket": "top_ranked",
+    "title": "Polychromic Objectives for Reinforcement Learning"
+  },
+  {
+    "paper_id": "openreview:GqZYGOYuF2",
+    "pushed_on": "2026-06-08",
+    "bucket": "top_ranked",
+    "title": "Zero-Overhead Introspection for Adaptive Test-Time Compute"
   }
 ]
