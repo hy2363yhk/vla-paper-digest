@@ -1378,5 +1378,35 @@
     "pushed_on": "2026-06-09",
     "bucket": "top_ranked",
     "title": "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning"
+  },
+  {
+    "paper_id": "arxiv:2606.10305",
+    "pushed_on": "2026-06-10",
+    "bucket": "top_ranked",
+    "title": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2606.11087",
+    "pushed_on": "2026-06-10",
+    "bucket": "top_ranked",
+    "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning"
+  },
+  {
+    "paper_id": "53ec45b284557e32157ba728e5e26816d5f786d2",
+    "pushed_on": "2026-06-10",
+    "bucket": "top_ranked",
+    "title": "Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress"
+  },
+  {
+    "paper_id": "2f706b08dc6d7b00c095a1281a54d7816d6976f8",
+    "pushed_on": "2026-06-10",
+    "bucket": "top_ranked",
+    "title": "Lifelong Autonomous Improvement of Navigation Foundation Models in the Wild"
+  },
+  {
+    "paper_id": "openreview:tQJYKwc3n4",
+    "pushed_on": "2026-06-10",
+    "bucket": "top_ranked",
+    "title": "RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots"
   }
 ]
