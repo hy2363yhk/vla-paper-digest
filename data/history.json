@@ -1408,5 +1408,35 @@
     "pushed_on": "2026-06-10",
     "bucket": "top_ranked",
     "title": "RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots"
+  },
+  {
+    "paper_id": "arxiv:2606.12402",
+    "pushed_on": "2026-06-13",
+    "bucket": "top_ranked",
+    "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?"
+  },
+  {
+    "paper_id": "3c50a0e71eafabf0d926001cae15107e4200cdf6",
+    "pushed_on": "2026-06-13",
+    "bucket": "top_ranked",
+    "title": "GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors"
+  },
+  {
+    "paper_id": "arxiv:2606.12352",
+    "pushed_on": "2026-06-13",
+    "bucket": "top_ranked",
+    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy"
+  },
+  {
+    "paper_id": "openreview:VoFXUNc9Zh",
+    "pushed_on": "2026-06-13",
+    "bucket": "top_ranked",
+    "title": "Coarse-to-fine Q-Network with Action Sequence for Data-Efficient Reinforcement Learning"
+  },
+  {
+    "paper_id": "dc263909d1706b36c2e39a1e827781588545c236",
+    "pushed_on": "2026-06-13",
+    "bucket": "top_ranked",
+    "title": "OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction"
   }
 ]
