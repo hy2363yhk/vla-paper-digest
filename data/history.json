@@ -1438,5 +1438,35 @@
     "pushed_on": "2026-06-13",
     "bucket": "top_ranked",
     "title": "OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction"
+  },
+  {
+    "paper_id": "064b0b0137db755b33bed47d9a635b2fb85c8ae0",
+    "pushed_on": "2026-06-14",
+    "bucket": "top_ranked",
+    "title": "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations"
+  },
+  {
+    "paper_id": "openreview:NZDaMcpXZm",
+    "pushed_on": "2026-06-14",
+    "bucket": "top_ranked",
+    "title": "Learning to Grasp Anything By Playing with Random Toys"
+  },
+  {
+    "paper_id": "c4e31cad004cb6eda60dd3e042f9b7d60ddee6ea",
+    "pushed_on": "2026-06-14",
+    "bucket": "top_ranked",
+    "title": "Foundation Policies with Hilbert Representations"
+  },
+  {
+    "paper_id": "arxiv:2605.27314",
+    "pushed_on": "2026-06-14",
+    "bucket": "top_ranked",
+    "title": "Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior"
+  },
+  {
+    "paper_id": "d6c5f48d5e7ea58f02e94546f5e75ddde563c49d",
+    "pushed_on": "2026-06-14",
+    "bucket": "top_ranked",
+    "title": "Robotic Offline RL from Internet Videos via Value-Function Learning"
   }
 ]
