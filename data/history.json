@@ -1468,5 +1468,35 @@
     "pushed_on": "2026-06-14",
     "bucket": "top_ranked",
     "title": "Robotic Offline RL from Internet Videos via Value-Function Learning"
+  },
+  {
+    "paper_id": "arxiv:2606.13795",
+    "pushed_on": "2026-06-15",
+    "bucket": "top_ranked",
+    "title": "Diffusion Policy Optimization without Drifting Apart"
+  },
+  {
+    "paper_id": "openreview:HN8V0flwJF",
+    "pushed_on": "2026-06-15",
+    "bucket": "top_ranked",
+    "title": "World Model on Million-Length Video And Language With Blockwise RingAttention"
+  },
+  {
+    "paper_id": "openreview:jnpILGz9gQ",
+    "pushed_on": "2026-06-15",
+    "bucket": "top_ranked",
+    "title": "Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories"
+  },
+  {
+    "paper_id": "arxiv:2606.12365",
+    "pushed_on": "2026-06-15",
+    "bucket": "top_ranked",
+    "title": "Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics"
+  },
+  {
+    "paper_id": "openreview:lndDn7i8W6",
+    "pushed_on": "2026-06-15",
+    "bucket": "top_ranked",
+    "title": "Leveraging Discrete Function Decomposability for Scientific Design"
   }
 ]
