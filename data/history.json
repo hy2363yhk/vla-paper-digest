@@ -1498,5 +1498,35 @@
     "pushed_on": "2026-06-15",
     "bucket": "top_ranked",
     "title": "Leveraging Discrete Function Decomposability for Scientific Design"
+  },
+  {
+    "paper_id": "1636ab3d193c8effeca613fde281e49ac453c8f8",
+    "pushed_on": "2026-06-18",
+    "bucket": "top_ranked",
+    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments"
+  },
+  {
+    "paper_id": "arxiv:2606.18610",
+    "pushed_on": "2026-06-18",
+    "bucket": "top_ranked",
+    "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation"
+  },
+  {
+    "paper_id": "arxiv:2606.17055",
+    "pushed_on": "2026-06-18",
+    "bucket": "top_ranked",
+    "title": "T-Rex: Tactile-Reactive Dexterous Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2606.16447",
+    "pushed_on": "2026-06-18",
+    "bucket": "top_ranked",
+    "title": "Training and Evaluating Diffusion Policies with Long Context Lengths"
+  },
+  {
+    "paper_id": "arxiv:2606.16178",
+    "pushed_on": "2026-06-18",
+    "bucket": "top_ranked",
+    "title": "Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks"
   }
 ]
