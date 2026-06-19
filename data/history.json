@@ -1528,5 +1528,35 @@
     "pushed_on": "2026-06-18",
     "bucket": "top_ranked",
     "title": "Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks"
+  },
+  {
+    "paper_id": "990a82ddf73efa36f523476ab7e8979bd1051b12",
+    "pushed_on": "2026-06-19",
+    "bucket": "top_ranked",
+    "title": "Diffusion Policy Optimization without Drifting Apart"
+  },
+  {
+    "paper_id": "arxiv:2606.20562",
+    "pushed_on": "2026-06-19",
+    "bucket": "top_ranked",
+    "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory"
+  },
+  {
+    "paper_id": "086d52291ee00b5c0b2e508699f88eea89e5b267",
+    "pushed_on": "2026-06-19",
+    "bucket": "top_ranked",
+    "title": "H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning"
+  },
+  {
+    "paper_id": "arxiv:2606.15186",
+    "pushed_on": "2026-06-19",
+    "bucket": "top_ranked",
+    "title": "FreeSonic: Training-Free Temporal-Aware Decoupled Attention for Precise Audio Editing"
+  },
+  {
+    "paper_id": "openreview:eUGoqrZ6Ea",
+    "pushed_on": "2026-06-19",
+    "bucket": "top_ranked",
+    "title": "Self-Improving Vision-Language-Action Models with Data Generation via Residual RL"
   }
 ]
