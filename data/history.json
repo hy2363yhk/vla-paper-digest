@@ -1558,5 +1558,35 @@
     "pushed_on": "2026-06-19",
     "bucket": "top_ranked",
     "title": "Self-Improving Vision-Language-Action Models with Data Generation via Residual RL"
+  },
+  {
+    "paper_id": "openreview:UElh7vzgKX",
+    "pushed_on": "2026-06-22",
+    "bucket": "top_ranked",
+    "title": "Scaling Goal-conditioned Reinforcement Learning with Multistep Quasimetric Distances"
+  },
+  {
+    "paper_id": "openreview:AC6lDj5dzl",
+    "pushed_on": "2026-06-22",
+    "bucket": "top_ranked",
+    "title": "Robust Deep Reinforcement Learning against Adversarial Behavior Manipulation"
+  },
+  {
+    "paper_id": "openreview:18gC6pZVVc",
+    "pushed_on": "2026-06-22",
+    "bucket": "top_ranked",
+    "title": "Geometry-aware 4D Video Generation for Robot Manipulation"
+  },
+  {
+    "paper_id": "openreview:13jshGCK9i",
+    "pushed_on": "2026-06-22",
+    "bucket": "top_ranked",
+    "title": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
+  },
+  {
+    "paper_id": "arxiv:2604.21017",
+    "pushed_on": "2026-06-22",
+    "bucket": "top_ranked",
+    "title": "Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics"
   }
 ]
