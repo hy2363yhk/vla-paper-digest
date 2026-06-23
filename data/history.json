@@ -1588,5 +1588,35 @@
     "pushed_on": "2026-06-22",
     "bucket": "top_ranked",
     "title": "Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics"
+  },
+  {
+    "paper_id": "6d4def9e60c21ccf6e7620f619cd621b50363c5b",
+    "pushed_on": "2026-06-23",
+    "bucket": "top_ranked",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness"
+  },
+  {
+    "paper_id": "arxiv:2603.27012",
+    "pushed_on": "2026-06-23",
+    "bucket": "top_ranked",
+    "title": "UMI-Underwater: Learning Underwater Manipulation without Underwater Teleoperation"
+  },
+  {
+    "paper_id": "arxiv:2604.19730",
+    "pushed_on": "2026-06-23",
+    "bucket": "top_ranked",
+    "title": "FASTER: Value-Guided Sampling for Fast RL"
+  },
+  {
+    "paper_id": "151123950e72f459a9c584580c7696c987f25bbb",
+    "pushed_on": "2026-06-23",
+    "bucket": "top_ranked",
+    "title": "RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning"
+  },
+  {
+    "paper_id": "arxiv:2604.23073",
+    "pushed_on": "2026-06-23",
+    "bucket": "top_ranked",
+    "title": "RL Token: Bootstrapping Online RL with Vision-Language-Action Models"
   }
 ]
