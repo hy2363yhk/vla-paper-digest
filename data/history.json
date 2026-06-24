@@ -1618,5 +1618,35 @@
     "pushed_on": "2026-06-23",
     "bucket": "top_ranked",
     "title": "RL Token: Bootstrapping Online RL with Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2606.24884",
+    "pushed_on": "2026-06-24",
+    "bucket": "top_ranked",
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs"
+  },
+  {
+    "paper_id": "openreview:cb0xbZ3APM",
+    "pushed_on": "2026-06-24",
+    "bucket": "top_ranked",
+    "title": "Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better"
+  },
+  {
+    "paper_id": "openreview:hfOgywCQ8j",
+    "pushed_on": "2026-06-24",
+    "bucket": "top_ranked",
+    "title": "Taming generative video models for zero-shot optical flow extraction"
+  },
+  {
+    "paper_id": "openreview:e0Dn7dg395",
+    "pushed_on": "2026-06-24",
+    "bucket": "top_ranked",
+    "title": "A Practical Guide for Incorporating Symmetry in Diffusion Policy"
+  },
+  {
+    "paper_id": "openreview:XDTTwmjhAg",
+    "pushed_on": "2026-06-24",
+    "bucket": "top_ranked",
+    "title": "Whole-Body Conditioned Egocentric Video Prediction"
   }
 ]
