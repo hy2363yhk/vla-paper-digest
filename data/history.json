@@ -1648,5 +1648,35 @@
     "pushed_on": "2026-06-24",
     "bucket": "top_ranked",
     "title": "Whole-Body Conditioned Egocentric Video Prediction"
+  },
+  {
+    "paper_id": "arxiv:2606.27375",
+    "pushed_on": "2026-06-28",
+    "bucket": "top_ranked",
+    "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation"
+  },
+  {
+    "paper_id": "f1102284c141fc24d70716452f59f697c1aeefa7",
+    "pushed_on": "2026-06-28",
+    "bucket": "top_ranked",
+    "title": "Diffusion Guidance Is a Controllable Policy Improvement Operator"
+  },
+  {
+    "paper_id": "arxiv:2606.25473",
+    "pushed_on": "2026-06-28",
+    "bucket": "top_ranked",
+    "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models"
+  },
+  {
+    "paper_id": "6339306e7e9edb4413b70713273d5b5d0657fea7",
+    "pushed_on": "2026-06-28",
+    "bucket": "top_ranked",
+    "title": "Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning"
+  },
+  {
+    "paper_id": "e21af5a78efcb3ea516d4c8188e6ca3349990234",
+    "pushed_on": "2026-06-28",
+    "bucket": "top_ranked",
+    "title": "Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline"
   }
 ]
