@@ -1678,5 +1678,35 @@
     "pushed_on": "2026-06-28",
     "bucket": "top_ranked",
     "title": "Rethinking the Practicality of Vision-language-action Model: A Comprehensive Benchmark and An Improved Baseline"
+  },
+  {
+    "paper_id": "arxiv:2606.31958",
+    "pushed_on": "2026-07-01",
+    "bucket": "top_ranked",
+    "title": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning"
+  },
+  {
+    "paper_id": "arxiv:2606.29699",
+    "pushed_on": "2026-07-01",
+    "bucket": "top_ranked",
+    "title": "Early Warning Signals for OpenVLA Failure under Visual Distribution Shift"
+  },
+  {
+    "paper_id": "3efc0a7914f36340fd438b3819531899e016418b",
+    "pushed_on": "2026-07-01",
+    "bucket": "top_ranked",
+    "title": "Learning Affordances at Inference-Time for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "f9c20da09df84344f06159b0133306ec95e84d37",
+    "pushed_on": "2026-07-01",
+    "bucket": "top_ranked",
+    "title": "Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning"
+  },
+  {
+    "paper_id": "8cc8db4b3846b7d9f33140af1a7353e4a0cb2863",
+    "pushed_on": "2026-07-01",
+    "bucket": "top_ranked",
+    "title": "History-Guided Video Diffusion"
   }
 ]
