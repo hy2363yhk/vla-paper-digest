@@ -1708,5 +1708,35 @@
     "pushed_on": "2026-07-01",
     "bucket": "top_ranked",
     "title": "History-Guided Video Diffusion"
+  },
+  {
+    "paper_id": "c0c9ba0edf87ea3c324a939d4e798243053aaf09",
+    "pushed_on": "2026-07-06",
+    "bucket": "top_ranked",
+    "title": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data"
+  },
+  {
+    "paper_id": "4b9af18e8b225dd6bf92bd352c57f3fd4944e4ff",
+    "pushed_on": "2026-07-06",
+    "bucket": "top_ranked",
+    "title": "WALL-WM: Carving World Action Modeling at the Event Joints"
+  },
+  {
+    "paper_id": "23329e60e39e777e5ce0ba7211bd51b9cfb1cfe0",
+    "pushed_on": "2026-07-06",
+    "bucket": "top_ranked",
+    "title": "Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging"
+  },
+  {
+    "paper_id": "331b56eed9d0c5c7d5cb9d74e889e1a1c25230ca",
+    "pushed_on": "2026-07-06",
+    "bucket": "top_ranked",
+    "title": "Wall-OSS-0.5 Technical Report"
+  },
+  {
+    "paper_id": "cfc9929866d0da75d40368a628423e227939b343",
+    "pushed_on": "2026-07-06",
+    "bucket": "top_ranked",
+    "title": "Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model"
   }
 ]
