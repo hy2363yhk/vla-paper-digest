@@ -1798,5 +1798,35 @@
     "pushed_on": "2026-07-12",
     "bucket": "top_ranked",
     "title": "Urban Deceleration Behavior Modes Under Scene Context: An Early-Kinematic Classifier from Argoverse 2 Multi-Agent Trajectories"
+  },
+  {
+    "paper_id": "1042d2226433e3c0c1d3fade8b64bbe41de43727",
+    "pushed_on": "2026-07-14",
+    "bucket": "top_ranked",
+    "title": "One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies"
+  },
+  {
+    "paper_id": "arxiv:2607.11884",
+    "pushed_on": "2026-07-14",
+    "bucket": "top_ranked",
+    "title": "Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2607.11119",
+    "pushed_on": "2026-07-14",
+    "bucket": "top_ranked",
+    "title": "VIA: Visual Interface Agent for Robot Control"
+  },
+  {
+    "paper_id": "aea2454e7391e9b6e33bbf47ea8183c5bd63c0fe",
+    "pushed_on": "2026-07-14",
+    "bucket": "top_ranked",
+    "title": "OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2607.09042",
+    "pushed_on": "2026-07-14",
+    "bucket": "top_ranked",
+    "title": "Learning More from Less: Reinforcement Learning from Hindsight"
   }
 ]
