@@ -1828,5 +1828,35 @@
     "pushed_on": "2026-07-14",
     "bucket": "top_ranked",
     "title": "Learning More from Less: Reinforcement Learning from Hindsight"
+  },
+  {
+    "paper_id": "arxiv:2607.09648",
+    "pushed_on": "2026-07-15",
+    "bucket": "top_ranked",
+    "title": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations"
+  },
+  {
+    "paper_id": "fbb75ff46e105874139fa3442d298bb478077595",
+    "pushed_on": "2026-07-15",
+    "bucket": "top_ranked",
+    "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training"
+  },
+  {
+    "paper_id": "arxiv:2607.05391",
+    "pushed_on": "2026-07-15",
+    "bucket": "top_ranked",
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework"
+  },
+  {
+    "paper_id": "8233522f4d7f0257eea3efd2b6ffc4e0c7f358a0",
+    "pushed_on": "2026-07-15",
+    "bucket": "top_ranked",
+    "title": "SELFI: Autonomous Self-Improvement with RL for Vision-Based Navigation around People"
+  },
+  {
+    "paper_id": "openreview:v2KevjWScT",
+    "pushed_on": "2026-07-15",
+    "bucket": "top_ranked",
+    "title": "BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities"
   }
 ]
