@@ -1858,5 +1858,35 @@
     "pushed_on": "2026-07-15",
     "bucket": "top_ranked",
     "title": "BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities"
+  },
+  {
+    "paper_id": "6d76469fcc120c3ab05dfaceb89705442b2628e9",
+    "pushed_on": "2026-07-16",
+    "bucket": "top_ranked",
+    "title": "A careful examination of large behavior models for multitask dexterous manipulation"
+  },
+  {
+    "paper_id": "openreview:r0pLGGcuY6",
+    "pushed_on": "2026-07-16",
+    "bucket": "top_ranked",
+    "title": "What's the Move? Hybrid Imitation Learning via Salient Points"
+  },
+  {
+    "paper_id": "58c1ab0e9decb8441e66ee6a83acf253f30067da",
+    "pushed_on": "2026-07-16",
+    "bucket": "top_ranked",
+    "title": "Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer"
+  },
+  {
+    "paper_id": "17c383a1dcf509a8a1ba2d137ef7d539d94b6dd7",
+    "pushed_on": "2026-07-16",
+    "bucket": "top_ranked",
+    "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models"
+  },
+  {
+    "paper_id": "arxiv:2607.08837",
+    "pushed_on": "2026-07-16",
+    "bucket": "top_ranked",
+    "title": "Prompt-Driven Exploration"
   }
 ]
