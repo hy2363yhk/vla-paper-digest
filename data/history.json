@@ -1888,5 +1888,35 @@
     "pushed_on": "2026-07-16",
     "bucket": "top_ranked",
     "title": "Prompt-Driven Exploration"
+  },
+  {
+    "paper_id": "arxiv:2607.15275",
+    "pushed_on": "2026-07-17",
+    "bucket": "top_ranked",
+    "title": "RoboTTT: Context Scaling for Robot Policies"
+  },
+  {
+    "paper_id": "arxiv:2604.18331",
+    "pushed_on": "2026-07-17",
+    "bucket": "top_ranked",
+    "title": "Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot"
+  },
+  {
+    "paper_id": "58b30fe15c8fe3603f3f032ed28de6df606aabe8",
+    "pushed_on": "2026-07-17",
+    "bucket": "top_ranked",
+    "title": "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications"
+  },
+  {
+    "paper_id": "57b7b3e11909edfbe589a435897744bd6585b720",
+    "pushed_on": "2026-07-17",
+    "bucket": "top_ranked",
+    "title": "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy"
+  },
+  {
+    "paper_id": "96b7b18af643fffceeac93b739d3418bd3e42645",
+    "pushed_on": "2026-07-17",
+    "bucket": "top_ranked",
+    "title": "DiffusionNFT: Online Diffusion Reinforcement with Forward Process"
   }
 ]
