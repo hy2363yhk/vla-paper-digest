@@ -1918,5 +1918,35 @@
     "pushed_on": "2026-07-17",
     "bucket": "top_ranked",
     "title": "DiffusionNFT: Online Diffusion Reinforcement with Forward Process"
+  },
+  {
+    "paper_id": "arxiv:2604.27792",
+    "pushed_on": "2026-07-18",
+    "bucket": "top_ranked",
+    "title": "MotuBrain: An Advanced World Action Model for Robot Control"
+  },
+  {
+    "paper_id": "cb87b75a962a746cc5f12326da4dd1c753ffca50",
+    "pushed_on": "2026-07-18",
+    "bucket": "top_ranked",
+    "title": "Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts"
+  },
+  {
+    "paper_id": "fde1dbc84244ba4d67d5b96176431eebbe91180e",
+    "pushed_on": "2026-07-18",
+    "bucket": "top_ranked",
+    "title": "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling"
+  },
+  {
+    "paper_id": "openreview:CNPCSuwxJw",
+    "pushed_on": "2026-07-18",
+    "bucket": "top_ranked",
+    "title": "DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "openreview:XrgRvBklWu",
+    "pushed_on": "2026-07-18",
+    "bucket": "top_ranked",
+    "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation"
   }
 ]
