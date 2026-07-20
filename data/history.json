@@ -1948,5 +1948,35 @@
     "pushed_on": "2026-07-18",
     "bucket": "top_ranked",
     "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation"
+  },
+  {
+    "paper_id": "openreview:1NBdplgILy",
+    "pushed_on": "2026-07-20",
+    "bucket": "top_ranked",
+    "title": "Vision in Action: Learning Active Perception from Human Demonstrations"
+  },
+  {
+    "paper_id": "arxiv:2606.22923",
+    "pushed_on": "2026-07-20",
+    "bucket": "top_ranked",
+    "title": "PanoVine: Whole-Body Visuomotor Control for Soft Growing Vine Robot"
+  },
+  {
+    "paper_id": "arxiv:2606.26428",
+    "pushed_on": "2026-07-20",
+    "bucket": "top_ranked",
+    "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?"
+  },
+  {
+    "paper_id": "arxiv:2606.28276",
+    "pushed_on": "2026-07-20",
+    "bucket": "top_ranked",
+    "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation"
+  },
+  {
+    "paper_id": "arxiv:2606.30645",
+    "pushed_on": "2026-07-20",
+    "bucket": "top_ranked",
+    "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
   }
 ]
