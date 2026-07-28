@@ -1978,5 +1978,35 @@
     "pushed_on": "2026-07-20",
     "bucket": "top_ranked",
     "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
+  },
+  {
+    "paper_id": "0759d0e7e9e4c4cd20da66c5f2987cd4a105c5d0",
+    "pushed_on": "2026-07-28",
+    "bucket": "top_ranked",
+    "title": "RoboTTT: Context Scaling for Robot Policies"
+  },
+  {
+    "paper_id": "arxiv:2607.19343",
+    "pushed_on": "2026-07-28",
+    "bucket": "top_ranked",
+    "title": "Masked Visual Actions for Unified World Modeling"
+  },
+  {
+    "paper_id": "arxiv:2607.19479",
+    "pushed_on": "2026-07-28",
+    "bucket": "top_ranked",
+    "title": "ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2607.16187",
+    "pushed_on": "2026-07-28",
+    "bucket": "top_ranked",
+    "title": "Handroid: Bridging Dexterous Hand and Humanoid"
+  },
+  {
+    "paper_id": "openreview:yAzN4tz7oI",
+    "pushed_on": "2026-07-28",
+    "bucket": "top_ranked",
+    "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation"
   }
 ]
