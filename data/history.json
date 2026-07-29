@@ -2008,5 +2008,35 @@
     "pushed_on": "2026-07-28",
     "bucket": "top_ranked",
     "title": "RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2607.25798",
+    "pushed_on": "2026-07-29",
+    "bucket": "top_ranked",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design"
+  },
+  {
+    "paper_id": "openreview:AwLRF1lZvI",
+    "pushed_on": "2026-07-29",
+    "bucket": "top_ranked",
+    "title": "Inner Speech as Behavior Guides: Steerable Imitation of Diverse Behaviors for Human-AI coordination"
+  },
+  {
+    "paper_id": "6c461deb3b30b92d9901db38aed1319fdc8208bb",
+    "pushed_on": "2026-07-29",
+    "bucket": "top_ranked",
+    "title": "A Practical Guide for Incorporating Symmetry in Diffusion Policy"
+  },
+  {
+    "paper_id": "bdefc1dbd66ab496b3ea55a0907ce96471d36cc1",
+    "pushed_on": "2026-07-29",
+    "bucket": "top_ranked",
+    "title": "RelightVid: Temporal-Consistent Diffusion Model for Video Relighting"
+  },
+  {
+    "paper_id": "da0fde5f8b14bf27cf79ab83869033421140615e",
+    "pushed_on": "2026-07-29",
+    "bucket": "top_ranked",
+    "title": "DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation"
   }
 ]
