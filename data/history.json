@@ -2038,5 +2038,35 @@
     "pushed_on": "2026-07-29",
     "bucket": "top_ranked",
     "title": "DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation"
+  },
+  {
+    "paper_id": "6a2f658d6ea2d3a1f2d03b11d0cce65e9881bd96",
+    "pushed_on": "2026-07-30",
+    "bucket": "top_ranked",
+    "title": "AdaJEPA: An Adaptive Latent World Model"
+  },
+  {
+    "paper_id": "0cd0d025c8db5b9007ff0082d290ca8efe2b8d3f",
+    "pushed_on": "2026-07-30",
+    "bucket": "top_ranked",
+    "title": "A Coordinated Behavior Planning and Trajectory Planning Framework for Multi-UGVs in Unstructured Narrow Interaction Scenarios"
+  },
+  {
+    "paper_id": "d94b0358aaadc167698b8cc6babea6e5a49e5e05",
+    "pushed_on": "2026-07-30",
+    "bucket": "top_ranked",
+    "title": "One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation"
+  },
+  {
+    "paper_id": "d94cb187365c031664ff5c51a204fb336f99fa8d",
+    "pushed_on": "2026-07-30",
+    "bucket": "top_ranked",
+    "title": "VLA Knows Its Limits"
+  },
+  {
+    "paper_id": "35f6d83bb69a8040069e8646c47101cc9c988c65",
+    "pushed_on": "2026-07-30",
+    "bucket": "top_ranked",
+    "title": "Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets"
   }
 ]
