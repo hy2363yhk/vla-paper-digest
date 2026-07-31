@@ -2068,5 +2068,35 @@
     "pushed_on": "2026-07-30",
     "bucket": "top_ranked",
     "title": "Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets"
+  },
+  {
+    "paper_id": "arxiv:2607.27549",
+    "pushed_on": "2026-07-31",
+    "bucket": "top_ranked",
+    "title": "Cross-Embodiment Transfer via Behavior-Aligned Representations"
+  },
+  {
+    "paper_id": "7da0af3a8f352659ee5274b5e4713c08df95c795",
+    "pushed_on": "2026-07-31",
+    "bucket": "top_ranked",
+    "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon"
+  },
+  {
+    "paper_id": "e596c98260ec4096eaeb491eb75f91a8339fcf48",
+    "pushed_on": "2026-07-31",
+    "bucket": "top_ranked",
+    "title": "Diffusion Policy Policy Optimization"
+  },
+  {
+    "paper_id": "openreview:isrcFrgwZp",
+    "pushed_on": "2026-07-31",
+    "bucket": "top_ranked",
+    "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World"
+  },
+  {
+    "paper_id": "openreview:iq0wUf6dUy",
+    "pushed_on": "2026-07-31",
+    "bucket": "top_ranked",
+    "title": "Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation"
   }
 ]
