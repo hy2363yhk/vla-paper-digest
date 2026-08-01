@@ -2098,5 +2098,35 @@
     "pushed_on": "2026-07-31",
     "bucket": "top_ranked",
     "title": "Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation"
+  },
+  {
+    "paper_id": "a98e84e58018dfe40ec9f8d2f76826120140d3a0",
+    "pushed_on": "2026-08-01",
+    "bucket": "top_ranked",
+    "title": "Learning High-Frequency Continuous Action Chunks in Latent Space"
+  },
+  {
+    "paper_id": "e13dac12cc2ae66550ad0fd57e03a3004cf141a5",
+    "pushed_on": "2026-08-01",
+    "bucket": "top_ranked",
+    "title": "HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning"
+  },
+  {
+    "paper_id": "openreview:Hu3NoPMAg4",
+    "pushed_on": "2026-08-01",
+    "bucket": "top_ranked",
+    "title": "One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies"
+  },
+  {
+    "paper_id": "openreview:GH9kURIRlx",
+    "pushed_on": "2026-08-01",
+    "bucket": "top_ranked",
+    "title": "ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation"
+  },
+  {
+    "paper_id": "1d36dd3d333659d72df8eb5666edfd5cde54c84f",
+    "pushed_on": "2026-08-01",
+    "bucket": "top_ranked",
+    "title": "Stop Regressing: Training Value Functions via Classification for Scalable Deep RL"
   }
 ]
