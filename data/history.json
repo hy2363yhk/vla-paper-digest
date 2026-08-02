@@ -2128,5 +2128,35 @@
     "pushed_on": "2026-08-01",
     "bucket": "top_ranked",
     "title": "Stop Regressing: Training Value Functions via Classification for Scalable Deep RL"
+  },
+  {
+    "paper_id": "arxiv:2607.14635",
+    "pushed_on": "2026-08-02",
+    "bucket": "top_ranked",
+    "title": "Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2607.28560",
+    "pushed_on": "2026-08-02",
+    "bucket": "top_ranked",
+    "title": "X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching"
+  },
+  {
+    "paper_id": "5d3a466f02b7771615d92a2a6fa25ff133494b98",
+    "pushed_on": "2026-08-02",
+    "bucket": "top_ranked",
+    "title": "A Robotic Manipulation Framework Based on Large Model and Behavior Cloning"
+  },
+  {
+    "paper_id": "openreview:tFV5GrWOGm",
+    "pushed_on": "2026-08-02",
+    "bucket": "top_ranked",
+    "title": "ElasticTok: Adaptive Tokenization for Image and Video"
+  },
+  {
+    "paper_id": "5b197b9d2f3f23b6919b5d75e70f55c4cdf8f771",
+    "pushed_on": "2026-08-02",
+    "bucket": "top_ranked",
+    "title": "Behavior Foundation Model for Humanoid Robots"
   }
 ]
