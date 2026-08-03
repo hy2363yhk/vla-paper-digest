@@ -2158,5 +2158,35 @@
     "pushed_on": "2026-08-02",
     "bucket": "top_ranked",
     "title": "Behavior Foundation Model for Humanoid Robots"
+  },
+  {
+    "paper_id": "arxiv:2607.29172",
+    "pushed_on": "2026-08-03",
+    "bucket": "top_ranked",
+    "title": "CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning"
+  },
+  {
+    "paper_id": "70bdd43eb4af0c459c2651ec48698fb9cfb040e2",
+    "pushed_on": "2026-08-03",
+    "bucket": "top_ranked",
+    "title": "NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies"
+  },
+  {
+    "paper_id": "b95baf93d1cfb406b50aa370ce5ba18788b5891d",
+    "pushed_on": "2026-08-03",
+    "bucket": "top_ranked",
+    "title": "Cosmos World Foundation Model Platform for Physical AI"
+  },
+  {
+    "paper_id": "1b67f092ffdb099975e2d6d4114dce2880315f8d",
+    "pushed_on": "2026-08-03",
+    "bucket": "top_ranked",
+    "title": "Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "030f9cc8b8d6d46d6239ef6ae29d9e20867194de",
+    "pushed_on": "2026-08-03",
+    "bucket": "top_ranked",
+    "title": "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning"
   }
 ]
