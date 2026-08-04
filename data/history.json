@@ -2188,5 +2188,35 @@
     "pushed_on": "2026-08-03",
     "bucket": "top_ranked",
     "title": "OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning"
+  },
+  {
+    "paper_id": "arxiv:2608.02547",
+    "pushed_on": "2026-08-04",
+    "bucket": "top_ranked",
+    "title": "Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?"
+  },
+  {
+    "paper_id": "arxiv:2608.01013",
+    "pushed_on": "2026-08-04",
+    "bucket": "top_ranked",
+    "title": "RL Bootstrapping of OpenVLA-OFT for a Novel Robot Embodiment"
+  },
+  {
+    "paper_id": "arxiv:2608.02603",
+    "pushed_on": "2026-08-04",
+    "bucket": "top_ranked",
+    "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity"
+  },
+  {
+    "paper_id": "7712b0e640848cd67d34d10f0b8637ba89f39f0c",
+    "pushed_on": "2026-08-04",
+    "bucket": "top_ranked",
+    "title": "Vision Language Models are In-Context Value Learners"
+  },
+  {
+    "paper_id": "c77a28b7b601d656325599b768a821c1151918e2",
+    "pushed_on": "2026-08-04",
+    "bucket": "top_ranked",
+    "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models"
   }
 ]
