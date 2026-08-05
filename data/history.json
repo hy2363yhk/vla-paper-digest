@@ -2218,5 +2218,35 @@
     "pushed_on": "2026-08-04",
     "bucket": "top_ranked",
     "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models"
+  },
+  {
+    "paper_id": "407d5627311b2d608433d86ffabfb82be369f7bd",
+    "pushed_on": "2026-08-05",
+    "bucket": "top_ranked",
+    "title": "ROSA: A Robotics Foundation Model Serving System for Robot Factories"
+  },
+  {
+    "paper_id": "3c71723b072e5924980d3602512919e8411139de",
+    "pushed_on": "2026-08-05",
+    "bucket": "top_ranked",
+    "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation"
+  },
+  {
+    "paper_id": "9869c8e415e337a014fc5572beebc2a51ddbe74a",
+    "pushed_on": "2026-08-05",
+    "bucket": "top_ranked",
+    "title": "Learning to Design 3D Printable Adaptations on Everyday Objects for Robot Manipulation"
+  },
+  {
+    "paper_id": "openreview:sT1U2enBh0",
+    "pushed_on": "2026-08-05",
+    "bucket": "top_ranked",
+    "title": "Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning"
+  },
+  {
+    "paper_id": "c54b83c72057fc59dc86edafaceb9a315622f5f1",
+    "pushed_on": "2026-08-05",
+    "bucket": "top_ranked",
+    "title": "Learning Robotic Locomotion Affordances and Photorealistic Simulators from Human-Captured Data"
   }
 ]
