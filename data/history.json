@@ -2248,5 +2248,35 @@
     "pushed_on": "2026-08-05",
     "bucket": "top_ranked",
     "title": "Learning Robotic Locomotion Affordances and Photorealistic Simulators from Human-Captured Data"
+  },
+  {
+    "paper_id": "5c2ff44f8e4e2a0c234d4234f4a3f18ba2b0ebd1",
+    "pushed_on": "2026-08-06",
+    "bucket": "top_ranked",
+    "title": "Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?"
+  },
+  {
+    "paper_id": "arxiv:2608.05004",
+    "pushed_on": "2026-08-06",
+    "bucket": "top_ranked",
+    "title": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots"
+  },
+  {
+    "paper_id": "8401f030753761bf02a0402a39efc6b02ef099e8",
+    "pushed_on": "2026-08-06",
+    "bucket": "top_ranked",
+    "title": "Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling"
+  },
+  {
+    "paper_id": "openreview:g2vViuEVDS",
+    "pushed_on": "2026-08-06",
+    "bucket": "top_ranked",
+    "title": "Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics"
+  },
+  {
+    "paper_id": "openreview:cx1KfZerNY",
+    "pushed_on": "2026-08-06",
+    "bucket": "top_ranked",
+    "title": "Videos are Sample-Efficient Supervisions: Behavior Cloning from Videos via Latent Representations"
   }
 ]
