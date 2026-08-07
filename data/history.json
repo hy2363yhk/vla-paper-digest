@@ -2278,5 +2278,35 @@
     "pushed_on": "2026-08-06",
     "bucket": "top_ranked",
     "title": "Videos are Sample-Efficient Supervisions: Behavior Cloning from Videos via Latent Representations"
+  },
+  {
+    "paper_id": "openreview:56C0n6zSpC",
+    "pushed_on": "2026-08-07",
+    "bucket": "top_ranked",
+    "title": "MJ-Video: Benchmarking and Rewarding Video Generation with Fine-Grained Video Preference"
+  },
+  {
+    "paper_id": "04bc434e5812ef17341049928f4d8834e4ca46a8",
+    "pushed_on": "2026-08-07",
+    "bucket": "top_ranked",
+    "title": "FP3: A 3D Foundation Policy for Robotic Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2603.22435",
+    "pushed_on": "2026-08-07",
+    "bucket": "top_ranked",
+    "title": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation"
+  },
+  {
+    "paper_id": "openreview:ZZ09oX2Xpo",
+    "pushed_on": "2026-08-07",
+    "bucket": "top_ranked",
+    "title": "DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy"
+  },
+  {
+    "paper_id": "03d826dde100d2c13798a737a79158a3053e8d71",
+    "pushed_on": "2026-08-07",
+    "bucket": "top_ranked",
+    "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation"
   }
 ]
