@@ -2308,5 +2308,35 @@
     "pushed_on": "2026-08-07",
     "bucket": "top_ranked",
     "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation"
+  },
+  {
+    "paper_id": "734cbfee42c97463f52d52c95c5e03af2e6bd638",
+    "pushed_on": "2026-08-08",
+    "bucket": "top_ranked",
+    "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning"
+  },
+  {
+    "paper_id": "arxiv:2605.18722",
+    "pushed_on": "2026-08-08",
+    "bucket": "top_ranked",
+    "title": "Dexora: Open-source VLA for High-DoF Bimanual Dexterity"
+  },
+  {
+    "paper_id": "6882a0ece1703c2988a0d7e6b7c11ff8d23d26db",
+    "pushed_on": "2026-08-08",
+    "bucket": "top_ranked",
+    "title": "MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers"
+  },
+  {
+    "paper_id": "openreview:Af2RMaWRjm",
+    "pushed_on": "2026-08-08",
+    "bucket": "top_ranked",
+    "title": "Imitation Learning Based on Disentangled Representation Learning of Behavioral Characteristics"
+  },
+  {
+    "paper_id": "openreview:C6VxzSpjrv",
+    "pushed_on": "2026-08-08",
+    "bucket": "top_ranked",
+    "title": "Visual Imitation Enables Contextual Humanoid Control"
   }
 ]
