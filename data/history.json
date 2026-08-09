@@ -2338,5 +2338,35 @@
     "pushed_on": "2026-08-08",
     "bucket": "top_ranked",
     "title": "Visual Imitation Enables Contextual Humanoid Control"
+  },
+  {
+    "paper_id": "af49770d14c0e496f2555865969d34eda4fd8d8b",
+    "pushed_on": "2026-08-09",
+    "bucket": "top_ranked",
+    "title": "Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA"
+  },
+  {
+    "paper_id": "openreview:cpmwi3Xwcr",
+    "pushed_on": "2026-08-09",
+    "bucket": "top_ranked",
+    "title": "RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies"
+  },
+  {
+    "paper_id": "openreview:a9RXjOt5bU",
+    "pushed_on": "2026-08-09",
+    "bucket": "top_ranked",
+    "title": "The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio"
+  },
+  {
+    "paper_id": "openreview:oRwcxFuN25",
+    "pushed_on": "2026-08-09",
+    "bucket": "top_ranked",
+    "title": "Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids"
+  },
+  {
+    "paper_id": "arxiv:2607.13501",
+    "pushed_on": "2026-08-09",
+    "bucket": "top_ranked",
+    "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning"
   }
 ]
