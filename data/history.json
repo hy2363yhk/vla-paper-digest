@@ -2368,5 +2368,35 @@
     "pushed_on": "2026-08-09",
     "bucket": "top_ranked",
     "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning"
+  },
+  {
+    "paper_id": "1319b662d30eb3b3f3452294ee49fb6a8d355fb1",
+    "pushed_on": "2026-08-12",
+    "bucket": "top_ranked",
+    "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation"
+  },
+  {
+    "paper_id": "arxiv:2608.09410",
+    "pushed_on": "2026-08-12",
+    "bucket": "top_ranked",
+    "title": "Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation"
+  },
+  {
+    "paper_id": "12531d0fa20e5af859cfd29cdcc740c02087e75e",
+    "pushed_on": "2026-08-12",
+    "bucket": "top_ranked",
+    "title": "World Action Models in Real Time: An Empirical Study of Smooth Execution via Asynchronous Deployment"
+  },
+  {
+    "paper_id": "arxiv:2608.09138",
+    "pushed_on": "2026-08-12",
+    "bucket": "top_ranked",
+    "title": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning"
+  },
+  {
+    "paper_id": "728d82100a285ff92a3ffe6c97ee07dedb7ca8ed",
+    "pushed_on": "2026-08-12",
+    "bucket": "top_ranked",
+    "title": "Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies"
   }
 ]
