@@ -2398,5 +2398,35 @@
     "pushed_on": "2026-08-12",
     "bucket": "top_ranked",
     "title": "Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies"
+  },
+  {
+    "paper_id": "d0d57bd76e5e9f3038d34798fdf4198f2aafc7cf",
+    "pushed_on": "2026-08-15",
+    "bucket": "top_ranked",
+    "title": "AutoIntervene: Calibrated Intervention for Action-Chunking Imitation Learning Policies"
+  },
+  {
+    "paper_id": "arxiv:2608.07558",
+    "pushed_on": "2026-08-15",
+    "bucket": "top_ranked",
+    "title": "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning"
+  },
+  {
+    "paper_id": "9d9f92d776ecbff2494dad4fa2ad9681441d919a",
+    "pushed_on": "2026-08-15",
+    "bucket": "top_ranked",
+    "title": "DREAM-Chunk: Reactive Action Chunking with Latent World Model"
+  },
+  {
+    "paper_id": "arxiv:2608.07065",
+    "pushed_on": "2026-08-15",
+    "bucket": "top_ranked",
+    "title": "AutoIntervene: Calibrated Intervention for Action-Chunking Imitation Learning Policies"
+  },
+  {
+    "paper_id": "710b2c1b78d8e6dad324ea7bc6ae5bd35106c4cd",
+    "pushed_on": "2026-08-15",
+    "bucket": "top_ranked",
+    "title": "Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection"
   }
 ]
