@@ -2428,5 +2428,35 @@
     "pushed_on": "2026-08-15",
     "bucket": "top_ranked",
     "title": "Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection"
+  },
+  {
+    "paper_id": "arxiv:2607.22739",
+    "pushed_on": "2026-08-16",
+    "bucket": "top_ranked",
+    "title": "Cortex: Compact Behavior Cloning for Quake with Frozen Visual Features"
+  },
+  {
+    "paper_id": "arxiv:2607.18589",
+    "pushed_on": "2026-08-16",
+    "bucket": "top_ranked",
+    "title": "Planning as Emergent Behavior in Reinforcement Learning with Relational Hidden States"
+  },
+  {
+    "paper_id": "arxiv:2607.27203",
+    "pushed_on": "2026-08-16",
+    "bucket": "top_ranked",
+    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?"
+  },
+  {
+    "paper_id": "arxiv:2607.27924",
+    "pushed_on": "2026-08-16",
+    "bucket": "top_ranked",
+    "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow"
+  },
+  {
+    "paper_id": "arxiv:2608.12253",
+    "pushed_on": "2026-08-16",
+    "bucket": "top_ranked",
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL"
   }
 ]
