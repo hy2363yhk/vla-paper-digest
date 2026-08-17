@@ -2458,5 +2458,35 @@
     "pushed_on": "2026-08-16",
     "bucket": "top_ranked",
     "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL"
+  },
+  {
+    "paper_id": "arxiv:2608.13924",
+    "pushed_on": "2026-08-17",
+    "bucket": "top_ranked",
+    "title": "BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control"
+  },
+  {
+    "paper_id": "arxiv:2608.02332",
+    "pushed_on": "2026-08-17",
+    "bucket": "top_ranked",
+    "title": "Diffusion Policy with Behavioral Advantage Correction for Offline Reinforcement Learning"
+  },
+  {
+    "paper_id": "openreview:PdRf0O7baQ",
+    "pushed_on": "2026-08-17",
+    "bucket": "top_ranked",
+    "title": "Scaffolding Dexterous Manipulation with Vision-Language Models"
+  },
+  {
+    "paper_id": "b6215a1f680c36025a659bdbcf5f63703e9b3e0b",
+    "pushed_on": "2026-08-17",
+    "bucket": "top_ranked",
+    "title": "Learning H-Infinity Locomotion Control"
+  },
+  {
+    "paper_id": "openreview:nDmwloEl3N",
+    "pushed_on": "2026-08-17",
+    "bucket": "top_ranked",
+    "title": "Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning"
   }
 ]
