@@ -2488,5 +2488,35 @@
     "pushed_on": "2026-08-17",
     "bucket": "top_ranked",
     "title": "Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning"
+  },
+  {
+    "paper_id": "arxiv:2608.15938",
+    "pushed_on": "2026-08-18",
+    "bucket": "top_ranked",
+    "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies"
+  },
+  {
+    "paper_id": "arxiv:2608.15917",
+    "pushed_on": "2026-08-18",
+    "bucket": "top_ranked",
+    "title": "Pre-training Visual Dexterity in Simulation"
+  },
+  {
+    "paper_id": "5256203ae4f070ec91c78d44ba02737cfc1298f5",
+    "pushed_on": "2026-08-18",
+    "bucket": "top_ranked",
+    "title": "BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control"
+  },
+  {
+    "paper_id": "arxiv:2605.28552",
+    "pushed_on": "2026-08-18",
+    "bucket": "top_ranked",
+    "title": "Modeling Vehicle-Type-Specific Pedestrian Crash Avoidance Behavior in Safety-Critical Interactions Using Smooth-Mamba Deep Reinforcement Learning"
+  },
+  {
+    "paper_id": "72499637780f4de2adc9b500596eec8a91238aa8",
+    "pushed_on": "2026-08-18",
+    "bucket": "top_ranked",
+    "title": "Eurekaverse: Environment Curriculum Generation via Large Language Models"
   }
 ]
