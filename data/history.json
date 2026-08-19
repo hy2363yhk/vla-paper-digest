@@ -2518,5 +2518,35 @@
     "pushed_on": "2026-08-18",
     "bucket": "top_ranked",
     "title": "Eurekaverse: Environment Curriculum Generation via Large Language Models"
+  },
+  {
+    "paper_id": "arxiv:2608.17163",
+    "pushed_on": "2026-08-19",
+    "bucket": "top_ranked",
+    "title": "Q-Learning With World Models"
+  },
+  {
+    "paper_id": "arxiv:2608.17386",
+    "pushed_on": "2026-08-19",
+    "bucket": "top_ranked",
+    "title": "MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation"
+  },
+  {
+    "paper_id": "e02afb9d9bf048be0c4cfdc87a534aade779e07a",
+    "pushed_on": "2026-08-19",
+    "bucket": "top_ranked",
+    "title": "Dynamic Execution Horizon Prediction for Chunk-based Robot Policies"
+  },
+  {
+    "paper_id": "3f8d2977a7753f9a3b0b5d18e6bee6afb0028ed8",
+    "pushed_on": "2026-08-19",
+    "bucket": "top_ranked",
+    "title": "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs"
+  },
+  {
+    "paper_id": "d4035cbd20cf4eafdc4bc2439cd6e962ea43f92b",
+    "pushed_on": "2026-08-19",
+    "bucket": "top_ranked",
+    "title": "Action Space Design in Reinforcement Learning for Robot Motor Skills"
   }
 ]
