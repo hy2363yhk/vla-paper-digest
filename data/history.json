@@ -2548,5 +2548,35 @@
     "pushed_on": "2026-08-19",
     "bucket": "top_ranked",
     "title": "Action Space Design in Reinforcement Learning for Robot Motor Skills"
+  },
+  {
+    "paper_id": "arxiv:2608.18234",
+    "pushed_on": "2026-08-20",
+    "bucket": "top_ranked",
+    "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+  },
+  {
+    "paper_id": "arxiv:2605.27919",
+    "pushed_on": "2026-08-20",
+    "bucket": "top_ranked",
+    "title": "Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal"
+  },
+  {
+    "paper_id": "openreview:MQVyuWBfSH",
+    "pushed_on": "2026-08-20",
+    "bucket": "top_ranked",
+    "title": "Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling"
+  },
+  {
+    "paper_id": "openreview:4OLbpaTKJe",
+    "pushed_on": "2026-08-20",
+    "bucket": "top_ranked",
+    "title": "Model-Based Policy Adaptation for Closed-Loop End-to-end Autonomous Driving"
+  },
+  {
+    "paper_id": "openreview:yaS3JWQRQ6",
+    "pushed_on": "2026-08-20",
+    "bucket": "top_ranked",
+    "title": "Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following"
   }
 ]
