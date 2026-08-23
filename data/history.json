@@ -2638,5 +2638,35 @@
     "pushed_on": "2026-08-22",
     "bucket": "top_ranked",
     "title": "Intention-Conditioned Flow Occupancy Models"
+  },
+  {
+    "paper_id": "openreview:2VyNYUVF2k",
+    "pushed_on": "2026-08-23",
+    "bucket": "top_ranked",
+    "title": "Value Flows"
+  },
+  {
+    "paper_id": "openreview:HlsFKjrHSw",
+    "pushed_on": "2026-08-23",
+    "bucket": "top_ranked",
+    "title": "GenFusion: Feed-forward Human Performance Capture via Progressive Canonical Space Updates"
+  },
+  {
+    "paper_id": "openreview:alEx0sm74l",
+    "pushed_on": "2026-08-23",
+    "bucket": "top_ranked",
+    "title": "Neuro-Symbolic Decoding of Neural Activity"
+  },
+  {
+    "paper_id": "openreview:vd4eNAdtO6",
+    "pushed_on": "2026-08-23",
+    "bucket": "top_ranked",
+    "title": "Q-Learning with Adjoint Matching"
+  },
+  {
+    "paper_id": "openreview:aMKFTidLSM",
+    "pushed_on": "2026-08-23",
+    "bucket": "top_ranked",
+    "title": "Dual Goal Representations"
   }
 ]
