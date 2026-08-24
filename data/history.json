@@ -2668,5 +2668,35 @@
     "pushed_on": "2026-08-23",
     "bucket": "top_ranked",
     "title": "Dual Goal Representations"
+  },
+  {
+    "paper_id": "arxiv:2608.20975",
+    "pushed_on": "2026-08-24",
+    "bucket": "top_ranked",
+    "title": "Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models"
+  },
+  {
+    "paper_id": "arxiv:2608.20518",
+    "pushed_on": "2026-08-24",
+    "bucket": "top_ranked",
+    "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning"
+  },
+  {
+    "paper_id": "openreview:dTYbqgvZmc",
+    "pushed_on": "2026-08-24",
+    "bucket": "top_ranked",
+    "title": "Product of Experts for Visual Generation"
+  },
+  {
+    "paper_id": "openreview:XBTJnfbDkP",
+    "pushed_on": "2026-08-24",
+    "bucket": "top_ranked",
+    "title": "Transitive RL: Value Learning via Divide and Conquer"
+  },
+  {
+    "paper_id": "openreview:4vmm8mlHkS",
+    "pushed_on": "2026-08-24",
+    "bucket": "top_ranked",
+    "title": "Relative Entropy Pathwise Policy Optimization"
   }
 ]
