@@ -2698,5 +2698,35 @@
     "pushed_on": "2026-08-24",
     "bucket": "top_ranked",
     "title": "Relative Entropy Pathwise Policy Optimization"
+  },
+  {
+    "paper_id": "arxiv:2608.23478",
+    "pushed_on": "2026-08-25",
+    "bucket": "top_ranked",
+    "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2608.21439",
+    "pushed_on": "2026-08-25",
+    "bucket": "top_ranked",
+    "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior"
+  },
+  {
+    "paper_id": "arxiv:2608.23181",
+    "pushed_on": "2026-08-25",
+    "bucket": "top_ranked",
+    "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild"
+  },
+  {
+    "paper_id": "openreview:3eTr9dGwJv",
+    "pushed_on": "2026-08-25",
+    "bucket": "top_ranked",
+    "title": "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Models for Embodied Task Planning"
+  },
+  {
+    "paper_id": "747e5f974067648a6d88394a8db7b114b073f84f",
+    "pushed_on": "2026-08-25",
+    "bucket": "top_ranked",
+    "title": "Early science acceleration experiments with GPT-5"
   }
 ]
