@@ -2728,5 +2728,35 @@
     "pushed_on": "2026-08-25",
     "bucket": "top_ranked",
     "title": "Early science acceleration experiments with GPT-5"
+  },
+  {
+    "paper_id": "arxiv:2608.23831",
+    "pushed_on": "2026-08-26",
+    "bucket": "top_ranked",
+    "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency"
+  },
+  {
+    "paper_id": "arxiv:2608.24101",
+    "pushed_on": "2026-08-26",
+    "bucket": "top_ranked",
+    "title": "TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks"
+  },
+  {
+    "paper_id": "arxiv:2608.24603",
+    "pushed_on": "2026-08-26",
+    "bucket": "top_ranked",
+    "title": "Gripper-aware Vision Language Action Models"
+  },
+  {
+    "paper_id": "e218c1a1fcba59c463082f9a1824ebeecae50f65",
+    "pushed_on": "2026-08-26",
+    "bucket": "top_ranked",
+    "title": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks"
+  },
+  {
+    "paper_id": "openreview:8iPwqr6Adk",
+    "pushed_on": "2026-08-26",
+    "bucket": "top_ranked",
+    "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?"
   }
 ]
