@@ -2758,5 +2758,35 @@
     "pushed_on": "2026-08-26",
     "bucket": "top_ranked",
     "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?"
+  },
+  {
+    "paper_id": "arxiv:2608.25924",
+    "pushed_on": "2026-08-27",
+    "bucket": "top_ranked",
+    "title": "Visual General Intelligence: A White Paper"
+  },
+  {
+    "paper_id": "openreview:0FhrtdKLtD",
+    "pushed_on": "2026-08-27",
+    "bucket": "top_ranked",
+    "title": "Spatial Mental Modeling from Limited Views"
+  },
+  {
+    "paper_id": "arxiv:2604.01985",
+    "pushed_on": "2026-08-27",
+    "bucket": "top_ranked",
+    "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry"
+  },
+  {
+    "paper_id": "69afd10d387423a03617d461c3f47a5f3033cc54",
+    "pushed_on": "2026-08-27",
+    "bucket": "top_ranked",
+    "title": "Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "7aa2936c237c86f33ad413eeeabca6b123515c57",
+    "pushed_on": "2026-08-27",
+    "bucket": "top_ranked",
+    "title": "Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy"
   }
 ]
