@@ -2788,5 +2788,35 @@
     "pushed_on": "2026-08-27",
     "bucket": "top_ranked",
     "title": "Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy"
+  },
+  {
+    "paper_id": "139c83aeda9e7724f8346444acb50d18dcc40836",
+    "pushed_on": "2026-08-29",
+    "bucket": "top_ranked",
+    "title": "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining"
+  },
+  {
+    "paper_id": "36122ae2c1ca79130cfbeac191ba14d8d6a89ced",
+    "pushed_on": "2026-08-29",
+    "bucket": "top_ranked",
+    "title": "StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation"
+  },
+  {
+    "paper_id": "arxiv:2608.27181",
+    "pushed_on": "2026-08-29",
+    "bucket": "top_ranked",
+    "title": "SSMB: Self-Supervised Local Feature Detection under Motion Blur"
+  },
+  {
+    "paper_id": "arxiv:2608.26545",
+    "pushed_on": "2026-08-29",
+    "bucket": "top_ranked",
+    "title": "Memory Anchors for Continual Robot Learning"
+  },
+  {
+    "paper_id": "arxiv:2604.03144",
+    "pushed_on": "2026-08-29",
+    "bucket": "top_ranked",
+    "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking"
   }
 ]
