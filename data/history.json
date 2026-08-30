@@ -2818,5 +2818,35 @@
     "pushed_on": "2026-08-29",
     "bucket": "top_ranked",
     "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking"
+  },
+  {
+    "paper_id": "8b0ca97a94de3b2f411e0a7ad014ef6d59e1a4a0",
+    "pushed_on": "2026-08-30",
+    "bucket": "top_ranked",
+    "title": "Unified Video Action Model"
+  },
+  {
+    "paper_id": "7e1ed5d9a72c5b63e34b2023fca4c1ad7b872140",
+    "pushed_on": "2026-08-30",
+    "bucket": "top_ranked",
+    "title": "π₀: A Vision-Language-Action Flow Model for General Robot Control"
+  },
+  {
+    "paper_id": "e575592eec8a8c822fad8d96bc08c7eb99bc5eb8",
+    "pushed_on": "2026-08-30",
+    "bucket": "top_ranked",
+    "title": "Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization"
+  },
+  {
+    "paper_id": "6c2c31e9dbaff4697886d71b156b0d1a861264f5",
+    "pushed_on": "2026-08-30",
+    "bucket": "top_ranked",
+    "title": "Behavior-Regularized Diffusion Policy Optimization for Offline Reinforcement Learning"
+  },
+  {
+    "paper_id": "f608f402cd477d9d6f52149e12c1daaf6cec172c",
+    "pushed_on": "2026-08-30",
+    "bucket": "top_ranked",
+    "title": "Video World Models with Long-term Spatial Memory"
   }
 ]
