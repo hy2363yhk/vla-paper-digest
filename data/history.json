@@ -2848,5 +2848,35 @@
     "pushed_on": "2026-08-30",
     "bucket": "top_ranked",
     "title": "Video World Models with Long-term Spatial Memory"
+  },
+  {
+    "paper_id": "arxiv:2606.13677",
+    "pushed_on": "2026-08-31",
+    "bucket": "top_ranked",
+    "title": "Mana: Dexterous Manipulation of Articulated Tools"
+  },
+  {
+    "paper_id": "arxiv:2606.17256",
+    "pushed_on": "2026-08-31",
+    "bucket": "top_ranked",
+    "title": "Contrastive Action-Image Pre-training for Visuomotor Control"
+  },
+  {
+    "paper_id": "arxiv:2606.19333",
+    "pushed_on": "2026-08-31",
+    "bucket": "top_ranked",
+    "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos"
+  },
+  {
+    "paper_id": "openreview:2uTxLC4LmC",
+    "pushed_on": "2026-08-31",
+    "bucket": "top_ranked",
+    "title": "Towards Safe Reasoning in Large Reasoning Models via Corrective Intervention"
+  },
+  {
+    "paper_id": "arxiv:2604.02523",
+    "pushed_on": "2026-08-31",
+    "bucket": "top_ranked",
+    "title": "Tune to Learn: How Controller Gains Shape Robot Policy Learning"
   }
 ]
