@@ -2878,5 +2878,35 @@
     "pushed_on": "2026-08-31",
     "bucket": "top_ranked",
     "title": "Tune to Learn: How Controller Gains Shape Robot Policy Learning"
+  },
+  {
+    "paper_id": "arxiv:2608.30237",
+    "pushed_on": "2026-09-02",
+    "bucket": "top_ranked",
+    "title": "Motus2: A Self-Evolving General World Model for Dexterous Manipulation"
+  },
+  {
+    "paper_id": "e598c2e70553b0f361e4084a9d6aea2b2251d9cc",
+    "pushed_on": "2026-09-02",
+    "bucket": "top_ranked",
+    "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies"
+  },
+  {
+    "paper_id": "arxiv:2608.28656",
+    "pushed_on": "2026-09-02",
+    "bucket": "top_ranked",
+    "title": "RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in driving policies"
+  },
+  {
+    "paper_id": "arxiv:2608.30530",
+    "pushed_on": "2026-09-02",
+    "bucket": "top_ranked",
+    "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code"
+  },
+  {
+    "paper_id": "arxiv:2608.30536",
+    "pushed_on": "2026-09-02",
+    "bucket": "top_ranked",
+    "title": "Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks"
   }
 ]
