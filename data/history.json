@@ -2938,5 +2938,35 @@
     "pushed_on": "2026-09-03",
     "bucket": "top_ranked",
     "title": "Humanoid Safe Stop via Learned Stoppability Value"
+  },
+  {
+    "paper_id": "c7d115ad6ce902b23ce131af17be58761623a34b",
+    "pushed_on": "2026-09-04",
+    "bucket": "top_ranked",
+    "title": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations"
+  },
+  {
+    "paper_id": "arxiv:2609.00196",
+    "pushed_on": "2026-09-04",
+    "bucket": "top_ranked",
+    "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization"
+  },
+  {
+    "paper_id": "arxiv:2609.01823",
+    "pushed_on": "2026-09-04",
+    "bucket": "top_ranked",
+    "title": "Kirin: Animal Motion Generation from In-the-Wild Video"
+  },
+  {
+    "paper_id": "63b862543627842f6f53a9a882bea8086d742276",
+    "pushed_on": "2026-09-04",
+    "bucket": "top_ranked",
+    "title": "StageWAM: Joint-Embedding Stage Prediction for World-Action Models in Robot Manipulation"
+  },
+  {
+    "paper_id": "e9ae8e12ba18430ab501c8b1f70ec5c66a92ba98",
+    "pushed_on": "2026-09-04",
+    "bucket": "top_ranked",
+    "title": "Data Scaling Laws in Imitation Learning for Robotic Manipulation"
   }
 ]
