@@ -2968,5 +2968,35 @@
     "pushed_on": "2026-09-04",
     "bucket": "top_ranked",
     "title": "Data Scaling Laws in Imitation Learning for Robotic Manipulation"
+  },
+  {
+    "paper_id": "f662f14c51de7c91e4e3191f1f2d8271c68040a0",
+    "pushed_on": "2026-09-05",
+    "bucket": "top_ranked",
+    "title": "Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation"
+  },
+  {
+    "paper_id": "02affc488b7775b40c028685660ccf50010f0a85",
+    "pushed_on": "2026-09-05",
+    "bucket": "top_ranked",
+    "title": "MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning"
+  },
+  {
+    "paper_id": "9447b8e5f5cc8010cc077542e5be23ed06b1f1fe",
+    "pushed_on": "2026-09-05",
+    "bucket": "top_ranked",
+    "title": "Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations"
+  },
+  {
+    "paper_id": "openreview:elTJBP7Fbv",
+    "pushed_on": "2026-09-05",
+    "bucket": "top_ranked",
+    "title": "Value-aligned Behavior Cloning for Offline Reinforcement Learning via Bi-level Optimization"
+  },
+  {
+    "paper_id": "openreview:iZeQBqJamf",
+    "pushed_on": "2026-09-05",
+    "bucket": "top_ranked",
+    "title": "Language models scale reliably with over-training and on downstream tasks"
   }
 ]
