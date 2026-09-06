@@ -2998,5 +2998,35 @@
     "pushed_on": "2026-09-05",
     "bucket": "top_ranked",
     "title": "Language models scale reliably with over-training and on downstream tasks"
+  },
+  {
+    "paper_id": "a58106719e5815804dee828a09f6290e9ccf3dc6",
+    "pushed_on": "2026-09-06",
+    "bucket": "top_ranked",
+    "title": "Mixture of Horizons in Action Chunking"
+  },
+  {
+    "paper_id": "arxiv:2608.17896",
+    "pushed_on": "2026-09-06",
+    "bucket": "top_ranked",
+    "title": "Dynamic Compression in Recurrent Networks"
+  },
+  {
+    "paper_id": "arxiv:2608.19589",
+    "pushed_on": "2026-09-06",
+    "bucket": "top_ranked",
+    "title": "OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation"
+  },
+  {
+    "paper_id": "b2badd2a63e4b5ddaaa7f8dfc71fe53210b7264c",
+    "pushed_on": "2026-09-06",
+    "bucket": "top_ranked",
+    "title": "Learning from the Best: Smoothness-Driven Metrics for Data Quality in Imitation Learning"
+  },
+  {
+    "paper_id": "openreview:mEpqHvbD2h",
+    "pushed_on": "2026-09-06",
+    "bucket": "top_ranked",
+    "title": "Diffusion Policy Policy Optimization"
   }
 ]
