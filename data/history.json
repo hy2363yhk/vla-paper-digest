@@ -3028,5 +3028,35 @@
     "pushed_on": "2026-09-06",
     "bucket": "top_ranked",
     "title": "Diffusion Policy Policy Optimization"
+  },
+  {
+    "paper_id": "7c0c334d79944105c1a66f39e128edce288b878b",
+    "pushed_on": "2026-09-07",
+    "bucket": "top_ranked",
+    "title": "CheckVLA: Execution-Time Verification with Action-Conditioned World Model for Long-Horizon Mobile Manipulation"
+  },
+  {
+    "paper_id": "c284323834ebef6222da3fe69a1c91b8840b54fd",
+    "pushed_on": "2026-09-07",
+    "bucket": "top_ranked",
+    "title": "Test-Time Scaling for World Action Models via Zero-Shot Geometric Evaluation"
+  },
+  {
+    "paper_id": "arxiv:2606.13675",
+    "pushed_on": "2026-09-07",
+    "bucket": "top_ranked",
+    "title": "Improving Robotic Generalist Policies via Flow Reversal Steering"
+  },
+  {
+    "paper_id": "arxiv:2606.11489",
+    "pushed_on": "2026-09-07",
+    "bucket": "top_ranked",
+    "title": "Steering Multirobot Behavior via Closed-Loop Affine Activation Editing"
+  },
+  {
+    "paper_id": "arxiv:2606.14058",
+    "pushed_on": "2026-09-07",
+    "bucket": "top_ranked",
+    "title": "ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving"
   }
 ]
