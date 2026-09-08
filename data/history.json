@@ -3058,5 +3058,35 @@
     "pushed_on": "2026-09-07",
     "bucket": "top_ranked",
     "title": "ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving"
+  },
+  {
+    "paper_id": "arxiv:2606.19656",
+    "pushed_on": "2026-09-08",
+    "bucket": "top_ranked",
+    "title": "DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning"
+  },
+  {
+    "paper_id": "arxiv:2606.19586",
+    "pushed_on": "2026-09-08",
+    "bucket": "top_ranked",
+    "title": "One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies"
+  },
+  {
+    "paper_id": "arxiv:2606.22836",
+    "pushed_on": "2026-09-08",
+    "bucket": "top_ranked",
+    "title": "Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA"
+  },
+  {
+    "paper_id": "arxiv:2606.23640",
+    "pushed_on": "2026-09-08",
+    "bucket": "top_ranked",
+    "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL"
+  },
+  {
+    "paper_id": "arxiv:2606.26093",
+    "pushed_on": "2026-09-08",
+    "bucket": "top_ranked",
+    "title": "ForceBand: Learning Forceful Manipulation with sEMG"
   }
 ]
