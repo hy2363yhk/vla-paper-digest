@@ -3088,5 +3088,35 @@
     "pushed_on": "2026-09-08",
     "bucket": "top_ranked",
     "title": "ForceBand: Learning Forceful Manipulation with sEMG"
+  },
+  {
+    "paper_id": "arxiv:2609.07303",
+    "pushed_on": "2026-09-09",
+    "bucket": "top_ranked",
+    "title": "Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching"
+  },
+  {
+    "paper_id": "arxiv:2609.06396",
+    "pushed_on": "2026-09-09",
+    "bucket": "top_ranked",
+    "title": "MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves"
+  },
+  {
+    "paper_id": "arxiv:2606.26423",
+    "pushed_on": "2026-09-09",
+    "bucket": "top_ranked",
+    "title": "CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2606.32027",
+    "pushed_on": "2026-09-09",
+    "bucket": "top_ranked",
+    "title": "Freeform Preference Learning for Robotic Manipulation"
+  },
+  {
+    "paper_id": "openreview:A0T3piHiis",
+    "pushed_on": "2026-09-09",
+    "bucket": "top_ranked",
+    "title": "Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning"
   }
 ]
