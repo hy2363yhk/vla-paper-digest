@@ -3148,5 +3148,35 @@
     "pushed_on": "2026-09-11",
     "bucket": "top_ranked",
     "title": "Compute-Optimal Scaling for Value-Based Deep RL"
+  },
+  {
+    "paper_id": "d86987028d11e6140dfbffd53a020cd4c31c4bda",
+    "pushed_on": "2026-09-12",
+    "bucket": "top_ranked",
+    "title": "SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation"
+  },
+  {
+    "paper_id": "28476e06901f913bdd3f0d45006076dfcd3e0ad0",
+    "pushed_on": "2026-09-12",
+    "bucket": "top_ranked",
+    "title": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models"
+  },
+  {
+    "paper_id": "53f52a9076adae94a70024e04b14d1c841bb92c5",
+    "pushed_on": "2026-09-12",
+    "bucket": "top_ranked",
+    "title": "SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model"
+  },
+  {
+    "paper_id": "openreview:fGuTN7huo5",
+    "pushed_on": "2026-09-12",
+    "bucket": "top_ranked",
+    "title": "Self-Supervised Learning of Motion Concepts by Optimizing Counterfactuals"
+  },
+  {
+    "paper_id": "openreview:QD06Qv7O0P",
+    "pushed_on": "2026-09-12",
+    "bucket": "top_ranked",
+    "title": "Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments"
   }
 ]
