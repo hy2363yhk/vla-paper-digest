@@ -3178,5 +3178,35 @@
     "pushed_on": "2026-09-12",
     "bucket": "top_ranked",
     "title": "Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments"
+  },
+  {
+    "paper_id": "openreview:zhOUfuOIzA",
+    "pushed_on": "2026-09-13",
+    "bucket": "top_ranked",
+    "title": "Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners"
+  },
+  {
+    "paper_id": "openreview:6QbbaEGkO7",
+    "pushed_on": "2026-09-13",
+    "bucket": "top_ranked",
+    "title": "Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-based Decoding"
+  },
+  {
+    "paper_id": "openreview:0T8i3uXq3O",
+    "pushed_on": "2026-09-13",
+    "bucket": "top_ranked",
+    "title": "A Stable Whitening Optimizer for Efficient Neural Network Training"
+  },
+  {
+    "paper_id": "openreview:Ew8bJkSt3g",
+    "pushed_on": "2026-09-13",
+    "bucket": "top_ranked",
+    "title": "From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries"
+  },
+  {
+    "paper_id": "openreview:4NaW9mbTqq",
+    "pushed_on": "2026-09-13",
+    "bucket": "top_ranked",
+    "title": "Seeing the Wind from a Falling Leaf"
   }
 ]
