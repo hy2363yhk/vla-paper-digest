@@ -3208,5 +3208,35 @@
     "pushed_on": "2026-09-13",
     "bucket": "top_ranked",
     "title": "Seeing the Wind from a Falling Leaf"
+  },
+  {
+    "paper_id": "openreview:kuoD6G0Suq",
+    "pushed_on": "2026-09-15",
+    "bucket": "top_ranked",
+    "title": "Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL"
+  },
+  {
+    "paper_id": "openreview:P23UMiw7iJ",
+    "pushed_on": "2026-09-15",
+    "bucket": "top_ranked",
+    "title": "Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations"
+  },
+  {
+    "paper_id": "openreview:hguaupzLCU",
+    "pushed_on": "2026-09-15",
+    "bucket": "top_ranked",
+    "title": "Horizon Reduction Makes RL Scalable"
+  },
+  {
+    "paper_id": "openreview:XOw7Yf8qN3",
+    "pushed_on": "2026-09-15",
+    "bucket": "top_ranked",
+    "title": "DynaGuide: Steering Diffusion Polices with Active Dynamic Guidance"
+  },
+  {
+    "paper_id": "openreview:qbVbZWxUib",
+    "pushed_on": "2026-09-15",
+    "bucket": "top_ranked",
+    "title": "Efficient Part-level 3D Object Generation via Dual Volume Packing"
   }
 ]
