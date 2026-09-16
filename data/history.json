@@ -3238,5 +3238,35 @@
     "pushed_on": "2026-09-15",
     "bucket": "top_ranked",
     "title": "Efficient Part-level 3D Object Generation via Dual Volume Packing"
+  },
+  {
+    "paper_id": "arxiv:2609.16058",
+    "pushed_on": "2026-09-16",
+    "bucket": "top_ranked",
+    "title": "Driver Behavior Estimation at Signalized Intersections Using a Physics-Constrained Decision-Conditioned Autoregressive Transformer"
+  },
+  {
+    "paper_id": "189a784cff57582dcc08b767d870940e3c90ccdf",
+    "pushed_on": "2026-09-16",
+    "bucket": "top_ranked",
+    "title": "TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2609.14146",
+    "pushed_on": "2026-09-16",
+    "bucket": "top_ranked",
+    "title": "When Faster VLA Deployment Changes Closed-Loop Behavior: Task Success-Latency Analysis of SmolVLA Across PyTorch and ONNX Variants"
+  },
+  {
+    "paper_id": "arxiv:2609.15726",
+    "pushed_on": "2026-09-16",
+    "bucket": "top_ranked",
+    "title": "Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands"
+  },
+  {
+    "paper_id": "openreview:9yusqX9DpR",
+    "pushed_on": "2026-09-16",
+    "bucket": "top_ranked",
+    "title": "Self-Challenging Language Model Agents"
   }
 ]
