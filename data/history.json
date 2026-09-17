@@ -3268,5 +3268,35 @@
     "pushed_on": "2026-09-16",
     "bucket": "top_ranked",
     "title": "Self-Challenging Language Model Agents"
+  },
+  {
+    "paper_id": "arxiv:2609.18207",
+    "pushed_on": "2026-09-17",
+    "bucket": "top_ranked",
+    "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies"
+  },
+  {
+    "paper_id": "arxiv:2609.18108",
+    "pushed_on": "2026-09-17",
+    "bucket": "top_ranked",
+    "title": "Technical Report: One-Step Drifting Action Heads for GR00T N1.7"
+  },
+  {
+    "paper_id": "dc43c088acfbc919363c81c711b17608e85564b7",
+    "pushed_on": "2026-09-17",
+    "bucket": "top_ranked",
+    "title": "HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation"
+  },
+  {
+    "paper_id": "openreview:eGfi5k7RP6",
+    "pushed_on": "2026-09-17",
+    "bucket": "top_ranked",
+    "title": "SOMBRL: Scalable and Optimistic Model-Based RL"
+  },
+  {
+    "paper_id": "openreview:PhHrlDKcx1",
+    "pushed_on": "2026-09-17",
+    "bucket": "top_ranked",
+    "title": "Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation"
   }
 ]
