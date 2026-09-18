@@ -3298,5 +3298,35 @@
     "pushed_on": "2026-09-17",
     "bucket": "top_ranked",
     "title": "Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation"
+  },
+  {
+    "paper_id": "55b926a8c760862ed0b82ed59ab77396d20966ef",
+    "pushed_on": "2026-09-18",
+    "bucket": "top_ranked",
+    "title": "FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference"
+  },
+  {
+    "paper_id": "86a500a9dafec335f032dfff024f35d07b5093e9",
+    "pushed_on": "2026-09-18",
+    "bucket": "top_ranked",
+    "title": "$\\pi\\mathbf{R}^2$: Reactive Real-time Flow Policies"
+  },
+  {
+    "paper_id": "a3948c08454aaf2159046cda20a55e40d6d0afb8",
+    "pushed_on": "2026-09-18",
+    "bucket": "top_ranked",
+    "title": "Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain"
+  },
+  {
+    "paper_id": "openreview:CaSQgef484",
+    "pushed_on": "2026-09-18",
+    "bucket": "top_ranked",
+    "title": "Exploring Diffusion Transformer Designs via Grafting"
+  },
+  {
+    "paper_id": "openreview:bNTezDPlFH",
+    "pushed_on": "2026-09-18",
+    "bucket": "top_ranked",
+    "title": "Rectified Point Flow: Generic Point Cloud Pose Estimation"
   }
 ]
