@@ -3328,5 +3328,35 @@
     "pushed_on": "2026-09-18",
     "bucket": "top_ranked",
     "title": "Rectified Point Flow: Generic Point Cloud Pose Estimation"
+  },
+  {
+    "paper_id": "302c4834f55d00dd12ba1c73a090a83baf895f6f",
+    "pushed_on": "2026-09-19",
+    "bucket": "top_ranked",
+    "title": "Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent Reinforcement Learning"
+  },
+  {
+    "paper_id": "openreview:3CnxNqmklv",
+    "pushed_on": "2026-09-19",
+    "bucket": "top_ranked",
+    "title": "DreamGen: Unlocking Generalization in Robot Learning through Video World Models"
+  },
+  {
+    "paper_id": "0a95ed9351ecb072fc416cf3ffd01f0c92b71612",
+    "pushed_on": "2026-09-19",
+    "bucket": "top_ranked",
+    "title": "Action Chunk Scheduling for Batched Robot Policy Serving"
+  },
+  {
+    "paper_id": "048fbe82f6c6768ef3fbef3640af3596e3281027",
+    "pushed_on": "2026-09-19",
+    "bucket": "top_ranked",
+    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies"
+  },
+  {
+    "paper_id": "openreview:friHAl5ofG",
+    "pushed_on": "2026-09-19",
+    "bucket": "top_ranked",
+    "title": "Vision Language Models are In-Context Value Learners"
   }
 ]
