@@ -3358,5 +3358,35 @@
     "pushed_on": "2026-09-19",
     "bucket": "top_ranked",
     "title": "Vision Language Models are In-Context Value Learners"
+  },
+  {
+    "paper_id": "openreview:v4MTnPiYXY",
+    "pushed_on": "2026-09-20",
+    "bucket": "top_ranked",
+    "title": "Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning"
+  },
+  {
+    "paper_id": "arxiv:2608.22419",
+    "pushed_on": "2026-09-20",
+    "bucket": "top_ranked",
+    "title": "Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking"
+  },
+  {
+    "paper_id": "arxiv:2604.17654",
+    "pushed_on": "2026-09-20",
+    "bucket": "top_ranked",
+    "title": "Poly-EPO: Training Exploratory Reasoning Models"
+  },
+  {
+    "paper_id": "arxiv:2604.08475",
+    "pushed_on": "2026-09-20",
+    "bucket": "top_ranked",
+    "title": "LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation"
+  },
+  {
+    "paper_id": "529273f05ec917f49ec4ce65331e916ae420e9b3",
+    "pushed_on": "2026-09-20",
+    "bucket": "top_ranked",
+    "title": "Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope"
   }
 ]
