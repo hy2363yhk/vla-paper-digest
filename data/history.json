@@ -3448,5 +3448,35 @@
     "pushed_on": "2026-09-22",
     "bucket": "top_ranked",
     "title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+  },
+  {
+    "paper_id": "arxiv:2609.25887",
+    "pushed_on": "2026-09-23",
+    "bucket": "top_ranked",
+    "title": "What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation"
+  },
+  {
+    "paper_id": "24eeaa684ff420a7b568fc7696de4c1b78cebd47",
+    "pushed_on": "2026-09-23",
+    "bucket": "top_ranked",
+    "title": "Decoupling Vision, Language, and Action for Efficient Multi-Task Robot Policies"
+  },
+  {
+    "paper_id": "f639ce9befa9e083c2dd6a3978dc6c8a5df4853c",
+    "pushed_on": "2026-09-23",
+    "bucket": "top_ranked",
+    "title": "Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation"
+  },
+  {
+    "paper_id": "d807bab94ecf0b6a5d4813a7398a3042075dbfab",
+    "pushed_on": "2026-09-23",
+    "bucket": "top_ranked",
+    "title": "DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting"
+  },
+  {
+    "paper_id": "arxiv:2609.22925",
+    "pushed_on": "2026-09-23",
+    "bucket": "top_ranked",
+    "title": "\"Dear LLaVA, Please Drive\": A Depth-Aware Vision-Language Agent for Closed-Loop Robotic Control"
   }
 ]
