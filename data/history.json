@@ -3508,5 +3508,35 @@
     "pushed_on": "2026-09-25",
     "bucket": "top_ranked",
     "title": "Rewind-IL: Online Failure Detection and State Respawning for Imitation Learning"
+  },
+  {
+    "paper_id": "arxiv:2609.30134",
+    "pushed_on": "2026-09-26",
+    "bucket": "top_ranked",
+    "title": "Training-free Behavior Cloning"
+  },
+  {
+    "paper_id": "arxiv:2609.27246",
+    "pushed_on": "2026-09-26",
+    "bucket": "top_ranked",
+    "title": "Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR"
+  },
+  {
+    "paper_id": "arxiv:2609.29465",
+    "pushed_on": "2026-09-26",
+    "bucket": "top_ranked",
+    "title": "SWE-Prometheus: Measuring Engineering Governance Improvements in Real-World Repositories"
+  },
+  {
+    "paper_id": "b9578e45ee4af3502bcfa63a56b93c90121a5886",
+    "pushed_on": "2026-09-26",
+    "bucket": "top_ranked",
+    "title": "MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving"
+  },
+  {
+    "paper_id": "openreview:8xTDnj39Ti",
+    "pushed_on": "2026-09-26",
+    "bucket": "top_ranked",
+    "title": "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning"
   }
 ]
