@@ -3538,5 +3538,35 @@
     "pushed_on": "2026-09-26",
     "bucket": "top_ranked",
     "title": "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning"
+  },
+  {
+    "paper_id": "openreview:955hVLJdfP",
+    "pushed_on": "2026-09-27",
+    "bucket": "top_ranked",
+    "title": "CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models"
+  },
+  {
+    "paper_id": "f86f71cfd2e9682a56d7334736a7b8a0b1c70b45",
+    "pushed_on": "2026-09-27",
+    "bucket": "top_ranked",
+    "title": "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models"
+  },
+  {
+    "paper_id": "1473e0d6ae0790fb0834729577a42b37d68d829c",
+    "pushed_on": "2026-09-27",
+    "bucket": "top_ranked",
+    "title": "Video as the New Language for Real-World Decision Making"
+  },
+  {
+    "paper_id": "arxiv:2608.29070",
+    "pushed_on": "2026-09-27",
+    "bucket": "top_ranked",
+    "title": "Selective Disclosure of Hidden Directives in Reasoning Models: Behavioral Asymmetry and Steering"
+  },
+  {
+    "paper_id": "arxiv:2609.05189",
+    "pushed_on": "2026-09-27",
+    "bucket": "top_ranked",
+    "title": "Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers"
   }
 ]
