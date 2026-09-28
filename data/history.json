@@ -3568,5 +3568,35 @@
     "pushed_on": "2026-09-27",
     "bucket": "top_ranked",
     "title": "Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers"
+  },
+  {
+    "paper_id": "arxiv:2609.31313",
+    "pushed_on": "2026-09-28",
+    "bucket": "top_ranked",
+    "title": "Towards VLA-Dreamer: Refining VLA Behavior Using World Models"
+  },
+  {
+    "paper_id": "arxiv:2609.31207",
+    "pushed_on": "2026-09-28",
+    "bucket": "top_ranked",
+    "title": "Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling"
+  },
+  {
+    "paper_id": "arxiv:2609.14648",
+    "pushed_on": "2026-09-28",
+    "bucket": "top_ranked",
+    "title": "Optimizing Sparse Outcomes Through Dense Behavioral Signals via Value-Guided Preference Distillation"
+  },
+  {
+    "paper_id": "arxiv:2609.30939",
+    "pushed_on": "2026-09-28",
+    "bucket": "top_ranked",
+    "title": "MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory"
+  },
+  {
+    "paper_id": "9024225d519c82add10b29c8281093e721dd254b",
+    "pushed_on": "2026-09-28",
+    "bucket": "top_ranked",
+    "title": "DEAS: DEtached value learning with Action Sequence for Scalable Offline RL"
   }
 ]
