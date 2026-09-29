@@ -3598,5 +3598,35 @@
     "pushed_on": "2026-09-28",
     "bucket": "top_ranked",
     "title": "DEAS: DEtached value learning with Action Sequence for Scalable Offline RL"
+  },
+  {
+    "paper_id": "arxiv:2609.35138",
+    "pushed_on": "2026-09-29",
+    "bucket": "top_ranked",
+    "title": "FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales"
+  },
+  {
+    "paper_id": "arxiv:2609.33007",
+    "pushed_on": "2026-09-29",
+    "bucket": "top_ranked",
+    "title": "CAPEX: Efficiently Distilling Foundation Model Behavior into Deployable Robot Policies through Experience-Adaptive Reasoning"
+  },
+  {
+    "paper_id": "arxiv:2609.35318",
+    "pushed_on": "2026-09-29",
+    "bucket": "top_ranked",
+    "title": "DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library"
+  },
+  {
+    "paper_id": "arxiv:2609.31792",
+    "pushed_on": "2026-09-29",
+    "bucket": "top_ranked",
+    "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts"
+  },
+  {
+    "paper_id": "arxiv:2609.32762",
+    "pushed_on": "2026-09-29",
+    "bucket": "top_ranked",
+    "title": "An Empirical Study on What Matters for Viewpoint-Generalizable Policies in Visual Imitation Learning"
   }
 ]
