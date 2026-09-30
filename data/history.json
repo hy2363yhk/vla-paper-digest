@@ -3628,5 +3628,35 @@
     "pushed_on": "2026-09-29",
     "bucket": "top_ranked",
     "title": "An Empirical Study on What Matters for Viewpoint-Generalizable Policies in Visual Imitation Learning"
+  },
+  {
+    "paper_id": "arxiv:2609.37552",
+    "pushed_on": "2026-09-30",
+    "bucket": "top_ranked",
+    "title": "Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control"
+  },
+  {
+    "paper_id": "690fde7fc87c3531d06dfc3e5a4e5a52fb853c74",
+    "pushed_on": "2026-09-30",
+    "bucket": "top_ranked",
+    "title": "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs"
+  },
+  {
+    "paper_id": "arxiv:2609.36720",
+    "pushed_on": "2026-09-30",
+    "bucket": "top_ranked",
+    "title": "T$^2$Mem: Learning Test-Time Memory for Robotics"
+  },
+  {
+    "paper_id": "arxiv:2609.38172",
+    "pushed_on": "2026-09-30",
+    "bucket": "top_ranked",
+    "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation"
+  },
+  {
+    "paper_id": "748736326bfc17fcec77c541da824cc8e8215902",
+    "pushed_on": "2026-09-30",
+    "bucket": "top_ranked",
+    "title": "FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation"
   }
 ]
