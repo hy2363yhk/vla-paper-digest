@@ -3658,5 +3658,35 @@
     "pushed_on": "2026-09-30",
     "bucket": "top_ranked",
     "title": "FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "6b46ede8d854c2283b168fc62751458f6f26e3a7",
+    "pushed_on": "2026-10-01",
+    "bucket": "top_ranked",
+    "title": "CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning"
+  },
+  {
+    "paper_id": "4e94b65b0c33289a97af94ba817f06d1328b9a99",
+    "pushed_on": "2026-10-01",
+    "bucket": "top_ranked",
+    "title": "Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control"
+  },
+  {
+    "paper_id": "ff60e668c280b09db7875904a8f2e768261f899c",
+    "pushed_on": "2026-10-01",
+    "bucket": "top_ranked",
+    "title": "Colosseum V2: Benchmarking Generalization for Vision Language Action Models"
+  },
+  {
+    "paper_id": "e40d2cbf89a8d35e0517d2ae19d6362bdd177651",
+    "pushed_on": "2026-10-01",
+    "bucket": "top_ranked",
+    "title": "Adaptive Action Chunking via Multi-Chunk Q Value Estimation"
+  },
+  {
+    "paper_id": "arxiv:2609.33940",
+    "pushed_on": "2026-10-01",
+    "bucket": "top_ranked",
+    "title": "Behavioral Monitoring of JEPA World Models with Jacobian Centroids"
   }
 ]
