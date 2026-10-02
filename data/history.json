@@ -3688,5 +3688,35 @@
     "pushed_on": "2026-10-01",
     "bucket": "top_ranked",
     "title": "Behavioral Monitoring of JEPA World Models with Jacobian Centroids"
+  },
+  {
+    "paper_id": "33d6e429bb50a7a09a5d7ad5318c8e4a99e9ee4a",
+    "pushed_on": "2026-10-02",
+    "bucket": "top_ranked",
+    "title": "VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing"
+  },
+  {
+    "paper_id": "ace96eb5265cde4b4812cde1ed73f0f48a26a123",
+    "pushed_on": "2026-10-02",
+    "bucket": "top_ranked",
+    "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies"
+  },
+  {
+    "paper_id": "arxiv:2609.33165",
+    "pushed_on": "2026-10-02",
+    "bucket": "top_ranked",
+    "title": "Beyond Tasks: A Vision for Reproducing an Animal-like Behavioral Substrate Using Modern Robot Learning Techniques"
+  },
+  {
+    "paper_id": "arxiv:2609.38079",
+    "pushed_on": "2026-10-02",
+    "bucket": "top_ranked",
+    "title": "OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?"
+  },
+  {
+    "paper_id": "dd4e944c865aa822b27b27db98b4596a175f57e6",
+    "pushed_on": "2026-10-02",
+    "bucket": "top_ranked",
+    "title": "DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation"
   }
 ]
