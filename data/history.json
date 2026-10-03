@@ -3718,5 +3718,35 @@
     "pushed_on": "2026-10-02",
     "bucket": "top_ranked",
     "title": "DreamTrajectory: Trajectory-Guided Action Generation with World Model Alignment for Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2609.39670",
+    "pushed_on": "2026-10-03",
+    "bucket": "top_ranked",
+    "title": "From Local Whole-Body VLA Behaviors to Scene-Scale Aerial Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.02204",
+    "pushed_on": "2026-10-03",
+    "bucket": "top_ranked",
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
+  },
+  {
+    "paper_id": "arxiv:2609.40134",
+    "pushed_on": "2026-10-03",
+    "bucket": "top_ranked",
+    "title": "Tactile Curiosity Drives Robot Interaction"
+  },
+  {
+    "paper_id": "arxiv:2610.00801",
+    "pushed_on": "2026-10-03",
+    "bucket": "top_ranked",
+    "title": "ECoMEM: Explicit Concept Memory for Memory-Dependent Robot Control"
+  },
+  {
+    "paper_id": "arxiv:2610.01461",
+    "pushed_on": "2026-10-03",
+    "bucket": "top_ranked",
+    "title": "NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video"
   }
 ]
