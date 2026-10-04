@@ -3748,5 +3748,35 @@
     "pushed_on": "2026-10-03",
     "bucket": "top_ranked",
     "title": "NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video"
+  },
+  {
+    "paper_id": "arxiv:2609.39665",
+    "pushed_on": "2026-10-04",
+    "bucket": "top_ranked",
+    "title": "ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning"
+  },
+  {
+    "paper_id": "arxiv:2609.38472",
+    "pushed_on": "2026-10-04",
+    "bucket": "top_ranked",
+    "title": "Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving"
+  },
+  {
+    "paper_id": "arxiv:2610.00781",
+    "pushed_on": "2026-10-04",
+    "bucket": "top_ranked",
+    "title": "DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention"
+  },
+  {
+    "paper_id": "arxiv:2609.39599",
+    "pushed_on": "2026-10-04",
+    "bucket": "top_ranked",
+    "title": "Text-to-3D Policy: Fine-Grained Language-Behavior Alignment for Unseen Specification Generalization"
+  },
+  {
+    "paper_id": "arxiv:2609.39207",
+    "pushed_on": "2026-10-04",
+    "bucket": "top_ranked",
+    "title": "ASENA: Self-evolving Agents for Embodied Navigation"
   }
 ]
