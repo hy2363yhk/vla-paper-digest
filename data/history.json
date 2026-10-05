@@ -3778,5 +3778,35 @@
     "pushed_on": "2026-10-04",
     "bucket": "top_ranked",
     "title": "ASENA: Self-evolving Agents for Embodied Navigation"
+  },
+  {
+    "paper_id": "arxiv:2610.02706",
+    "pushed_on": "2026-10-05",
+    "bucket": "top_ranked",
+    "title": "AdaTempo: Learning Shared Relative Tempo from Demonstrations for Faster Robot Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.03710",
+    "pushed_on": "2026-10-05",
+    "bucket": "top_ranked",
+    "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras"
+  },
+  {
+    "paper_id": "arxiv:2610.02726",
+    "pushed_on": "2026-10-05",
+    "bucket": "top_ranked",
+    "title": "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models"
+  },
+  {
+    "paper_id": "arxiv:2609.40165",
+    "pushed_on": "2026-10-05",
+    "bucket": "top_ranked",
+    "title": "PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors"
+  },
+  {
+    "paper_id": "arxiv:2610.02202",
+    "pushed_on": "2026-10-05",
+    "bucket": "top_ranked",
+    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
   }
 ]
