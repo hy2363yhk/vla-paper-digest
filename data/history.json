@@ -3808,5 +3808,35 @@
     "pushed_on": "2026-10-05",
     "bucket": "top_ranked",
     "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
+  },
+  {
+    "paper_id": "arxiv:2609.38340",
+    "pushed_on": "2026-10-06",
+    "bucket": "top_ranked",
+    "title": "CARAT: Do Materials LLMs Reason or Recite?"
+  },
+  {
+    "paper_id": "arxiv:2610.02622",
+    "pushed_on": "2026-10-06",
+    "bucket": "top_ranked",
+    "title": "CuBEs: Culturally-Situated Behavioral Evaluations and the Limitations of Culture-Blind LLM Judges"
+  },
+  {
+    "paper_id": "arxiv:2610.03715",
+    "pushed_on": "2026-10-06",
+    "bucket": "top_ranked",
+    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes"
+  },
+  {
+    "paper_id": "arxiv:2609.20820",
+    "pushed_on": "2026-10-06",
+    "bucket": "top_ranked",
+    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision"
+  },
+  {
+    "paper_id": "5e15ab4f17c50f4ab0d422836b8d315b9fccaab3",
+    "pushed_on": "2026-10-06",
+    "bucket": "top_ranked",
+    "title": "RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy"
   }
 ]
