@@ -3838,5 +3838,35 @@
     "pushed_on": "2026-10-06",
     "bucket": "top_ranked",
     "title": "RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy"
+  },
+  {
+    "paper_id": "arxiv:2610.07056",
+    "pushed_on": "2026-10-07",
+    "bucket": "top_ranked",
+    "title": "Behavioral Cloning Mystery"
+  },
+  {
+    "paper_id": "arxiv:2610.05882",
+    "pushed_on": "2026-10-07",
+    "bucket": "top_ranked",
+    "title": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning"
+  },
+  {
+    "paper_id": "arxiv:2610.07511",
+    "pushed_on": "2026-10-07",
+    "bucket": "top_ranked",
+    "title": "MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.07681",
+    "pushed_on": "2026-10-07",
+    "bucket": "top_ranked",
+    "title": "EigenDEXplore: Structured Exploration for Dexterous Manipulation with Human Priors"
+  },
+  {
+    "paper_id": "arxiv:2610.03861",
+    "pushed_on": "2026-10-07",
+    "bucket": "top_ranked",
+    "title": "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive"
   }
 ]
