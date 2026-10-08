@@ -3868,5 +3868,35 @@
     "pushed_on": "2026-10-07",
     "bucket": "top_ranked",
     "title": "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive"
+  },
+  {
+    "paper_id": "arxiv:2610.09254",
+    "pushed_on": "2026-10-08",
+    "bucket": "top_ranked",
+    "title": "RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer"
+  },
+  {
+    "paper_id": "arxiv:2610.09228",
+    "pushed_on": "2026-10-08",
+    "bucket": "top_ranked",
+    "title": "Co-Evolving Robot Orchestrators and Policies through Deployment"
+  },
+  {
+    "paper_id": "0764867616da9a9aff8e5b163a42b1ecef986354",
+    "pushed_on": "2026-10-08",
+    "bucket": "top_ranked",
+    "title": "DiPOD: Diffusion Policy Optimization without Drifting Apart"
+  },
+  {
+    "paper_id": "arxiv:2610.10528",
+    "pushed_on": "2026-10-08",
+    "bucket": "top_ranked",
+    "title": "Long-WAM: Scaling the Context of World-Action Models"
+  },
+  {
+    "paper_id": "ebfc193a6eb63c9fcc4452ef055b60ecb8b649da",
+    "pushed_on": "2026-10-08",
+    "bucket": "top_ranked",
+    "title": "Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation"
   }
 ]
