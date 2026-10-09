@@ -3898,5 +3898,35 @@
     "pushed_on": "2026-10-08",
     "bucket": "top_ranked",
     "title": "Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.10846",
+    "pushed_on": "2026-10-09",
+    "bucket": "top_ranked",
+    "title": "Cross-Embodiment Robot Foundation World Models with Latent Actions"
+  },
+  {
+    "paper_id": "arxiv:2610.07922",
+    "pushed_on": "2026-10-09",
+    "bucket": "top_ranked",
+    "title": "OpenWAM: An Open Framework for Composable World-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.04741",
+    "pushed_on": "2026-10-09",
+    "bucket": "top_ranked",
+    "title": "Robot Learning with Visual Predicted Force"
+  },
+  {
+    "paper_id": "arxiv:2610.08789",
+    "pushed_on": "2026-10-09",
+    "bucket": "top_ranked",
+    "title": "QF3: Fast Flow RL with Filtered Q-Gradients"
+  },
+  {
+    "paper_id": "arxiv:2610.05350",
+    "pushed_on": "2026-10-09",
+    "bucket": "top_ranked",
+    "title": "Task Inference Beyond Least Squares in Behavioral Foundation Models"
   }
 ]
