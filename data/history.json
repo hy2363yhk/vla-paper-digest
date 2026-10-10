@@ -3928,5 +3928,35 @@
     "pushed_on": "2026-10-09",
     "bucket": "top_ranked",
     "title": "Task Inference Beyond Least Squares in Behavioral Foundation Models"
+  },
+  {
+    "paper_id": "e724ec0f4e52ff2167eb1ba5085d6389522c72b8",
+    "pushed_on": "2026-10-10",
+    "bucket": "top_ranked",
+    "title": "Shifted Flow Policy: Uncertainty-aware Time Reparameterization for Visuomotor Learning"
+  },
+  {
+    "paper_id": "arxiv:2610.09117",
+    "pushed_on": "2026-10-10",
+    "bucket": "top_ranked",
+    "title": "Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data"
+  },
+  {
+    "paper_id": "arxiv:2610.10857",
+    "pushed_on": "2026-10-10",
+    "bucket": "top_ranked",
+    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning"
+  },
+  {
+    "paper_id": "7fa02e56ab5fb1731db2f686a24ae91a973f9f01",
+    "pushed_on": "2026-10-10",
+    "bucket": "top_ranked",
+    "title": "Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.03636",
+    "pushed_on": "2026-10-10",
+    "bucket": "top_ranked",
+    "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation"
   }
 ]
