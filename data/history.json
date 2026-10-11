@@ -3958,5 +3958,35 @@
     "pushed_on": "2026-10-10",
     "bucket": "top_ranked",
     "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation"
+  },
+  {
+    "paper_id": "arxiv:2610.02339",
+    "pushed_on": "2026-10-11",
+    "bucket": "top_ranked",
+    "title": "NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches"
+  },
+  {
+    "paper_id": "arxiv:2610.07275",
+    "pushed_on": "2026-10-11",
+    "bucket": "top_ranked",
+    "title": "Fluorescence-enhanced Whisker Array with Vision-based Deformation Analysis for Underwater Source Localization"
+  },
+  {
+    "paper_id": "arxiv:2610.07796",
+    "pushed_on": "2026-10-11",
+    "bucket": "top_ranked",
+    "title": "The Geometry of Empowerment"
+  },
+  {
+    "paper_id": "arxiv:2610.06211",
+    "pushed_on": "2026-10-11",
+    "bucket": "top_ranked",
+    "title": "Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?"
+  },
+  {
+    "paper_id": "53205ee9bf44227aed8e3e35b7ceee7a56866782",
+    "pushed_on": "2026-10-11",
+    "bucket": "top_ranked",
+    "title": "Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation"
   }
 ]
