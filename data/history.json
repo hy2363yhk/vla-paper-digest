@@ -3988,5 +3988,35 @@
     "pushed_on": "2026-10-11",
     "bucket": "top_ranked",
     "title": "Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.06078",
+    "pushed_on": "2026-10-12",
+    "bucket": "top_ranked",
+    "title": "Do VLAs Understand and Adapt to the Objects They Handle, or Simply Replay Learned Behaviors?"
+  },
+  {
+    "paper_id": "arxiv:2610.11971",
+    "pushed_on": "2026-10-12",
+    "bucket": "top_ranked",
+    "title": "CAPABLE: Capability-Aware Policy Adaptation via Behavioral Latent Encoding"
+  },
+  {
+    "paper_id": "arxiv:2610.12452",
+    "pushed_on": "2026-10-12",
+    "bucket": "top_ranked",
+    "title": "BrickBench: Evaluating Agentic Brick Design"
+  },
+  {
+    "paper_id": "arxiv:2610.13002",
+    "pushed_on": "2026-10-12",
+    "bucket": "top_ranked",
+    "title": "Scaling Empowered Agents"
+  },
+  {
+    "paper_id": "fb54a3716836fc53ae01f981c85551b1e11b2cf5",
+    "pushed_on": "2026-10-12",
+    "bucket": "top_ranked",
+    "title": "Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution"
   }
 ]
