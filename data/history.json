@@ -4018,5 +4018,35 @@
     "pushed_on": "2026-10-12",
     "bucket": "top_ranked",
     "title": "Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution"
+  },
+  {
+    "paper_id": "arxiv:2610.13929",
+    "pushed_on": "2026-10-13",
+    "bucket": "top_ranked",
+    "title": "Chronos Policy: Learning Robot Policies on Physical Time"
+  },
+  {
+    "paper_id": "arxiv:2610.12558",
+    "pushed_on": "2026-10-13",
+    "bucket": "top_ranked",
+    "title": "PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface"
+  },
+  {
+    "paper_id": "5d73aadd23e21888e599099ab488f9230b955c27",
+    "pushed_on": "2026-10-13",
+    "bucket": "top_ranked",
+    "title": "PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2609.39007",
+    "pushed_on": "2026-10-13",
+    "bucket": "top_ranked",
+    "title": "RouteRec: Behavior-Guided Sparse Routing for Sequential Recommendation"
+  },
+  {
+    "paper_id": "1e38f73dd97146f34a71ef1c683afeab4d4ef124",
+    "pushed_on": "2026-10-13",
+    "bucket": "top_ranked",
+    "title": "TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces"
   }
 ]
