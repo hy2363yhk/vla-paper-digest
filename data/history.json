@@ -4048,5 +4048,35 @@
     "pushed_on": "2026-10-13",
     "bucket": "top_ranked",
     "title": "TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces"
+  },
+  {
+    "paper_id": "arxiv:2610.12231",
+    "pushed_on": "2026-10-14",
+    "bucket": "top_ranked",
+    "title": "Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning"
+  },
+  {
+    "paper_id": "e27f746372f4548c7e1d0e86755752e4040d57b9",
+    "pushed_on": "2026-10-14",
+    "bucket": "top_ranked",
+    "title": "Smoother Action Chunking Flow Policy via Prior-Corrected Orthogonal Trust-Region Guidance"
+  },
+  {
+    "paper_id": "d7afe7ad4d8fd8ade44f8aa1231e2702a7c1f403",
+    "pushed_on": "2026-10-14",
+    "bucket": "top_ranked",
+    "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.13093",
+    "pushed_on": "2026-10-14",
+    "bucket": "top_ranked",
+    "title": "ReAT: Residual Action Tokenization for Autoregressive Robot Policies"
+  },
+  {
+    "paper_id": "arxiv:2609.36984",
+    "pushed_on": "2026-10-14",
+    "bucket": "top_ranked",
+    "title": "REALHOP: Rethinking Multi-Hop Reasoning Evaluation via Behavioral Auditing"
   }
 ]
