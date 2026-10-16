@@ -4078,5 +4078,35 @@
     "pushed_on": "2026-10-14",
     "bucket": "top_ranked",
     "title": "REALHOP: Rethinking Multi-Hop Reasoning Evaluation via Behavioral Auditing"
+  },
+  {
+    "paper_id": "ba2d84414b40f6d9b3dba4bf03ab29e398ba74f2",
+    "pushed_on": "2026-10-16",
+    "bucket": "top_ranked",
+    "title": "Behavioral Cloning Mystery"
+  },
+  {
+    "paper_id": "arxiv:2610.20504",
+    "pushed_on": "2026-10-16",
+    "bucket": "top_ranked",
+    "title": "Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.22340",
+    "pushed_on": "2026-10-16",
+    "bucket": "top_ranked",
+    "title": "Dexterity from Supervised Play"
+  },
+  {
+    "paper_id": "arxiv:2610.20064",
+    "pushed_on": "2026-10-16",
+    "bucket": "top_ranked",
+    "title": "FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs"
+  },
+  {
+    "paper_id": "arxiv:2610.18826",
+    "pushed_on": "2026-10-16",
+    "bucket": "top_ranked",
+    "title": "WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions"
   }
 ]
