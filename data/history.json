@@ -4108,5 +4108,35 @@
     "pushed_on": "2026-10-16",
     "bucket": "top_ranked",
     "title": "WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions"
+  },
+  {
+    "paper_id": "35db337e538f23c7eb31071ccd859543e1fcd999",
+    "pushed_on": "2026-10-17",
+    "bucket": "top_ranked",
+    "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy"
+  },
+  {
+    "paper_id": "1aad4660a772abd5e81ec55075a919b77f026689",
+    "pushed_on": "2026-10-17",
+    "bucket": "top_ranked",
+    "title": "X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching"
+  },
+  {
+    "paper_id": "arxiv:2610.20429",
+    "pushed_on": "2026-10-17",
+    "bucket": "top_ranked",
+    "title": "When Do Discrete Actions Make Good Continuous Controllers?"
+  },
+  {
+    "paper_id": "arxiv:2610.19155",
+    "pushed_on": "2026-10-17",
+    "bucket": "top_ranked",
+    "title": "FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity"
+  },
+  {
+    "paper_id": "arxiv:2610.17748",
+    "pushed_on": "2026-10-17",
+    "bucket": "top_ranked",
+    "title": "I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation"
   }
 ]
