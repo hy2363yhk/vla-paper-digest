@@ -4138,5 +4138,35 @@
     "pushed_on": "2026-10-17",
     "bucket": "top_ranked",
     "title": "I3L: Iterative Interactive Imitation Learning for Whole-Body Mobile Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.22364",
+    "pushed_on": "2026-10-18",
+    "bucket": "top_ranked",
+    "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
+  },
+  {
+    "paper_id": "arxiv:2610.17746",
+    "pushed_on": "2026-10-18",
+    "bucket": "top_ranked",
+    "title": "The Human--VLA Communication Gap: What Humans Leave Implicit and What Policies Cannot Recover"
+  },
+  {
+    "paper_id": "arxiv:2610.20533",
+    "pushed_on": "2026-10-18",
+    "bucket": "top_ranked",
+    "title": "Generative Representation Learning for Scalable Latent Tokenization"
+  },
+  {
+    "paper_id": "arxiv:2610.20203",
+    "pushed_on": "2026-10-18",
+    "bucket": "top_ranked",
+    "title": "Investigating Behavior Cloning from Few Demonstrations for Autonomous Driving based on Bird's-Eye View in Simulated Cities"
+  },
+  {
+    "paper_id": "arxiv:2610.17161",
+    "pushed_on": "2026-10-18",
+    "bucket": "top_ranked",
+    "title": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation"
   }
 ]
