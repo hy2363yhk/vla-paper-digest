@@ -4168,5 +4168,35 @@
     "pushed_on": "2026-10-18",
     "bucket": "top_ranked",
     "title": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.23127",
+    "pushed_on": "2026-10-19",
+    "bucket": "top_ranked",
+    "title": "BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL"
+  },
+  {
+    "paper_id": "arxiv:2610.22496",
+    "pushed_on": "2026-10-19",
+    "bucket": "top_ranked",
+    "title": "Scaling Online Exploration for Robot Agents"
+  },
+  {
+    "paper_id": "arxiv:2610.17630",
+    "pushed_on": "2026-10-19",
+    "bucket": "top_ranked",
+    "title": "From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction"
+  },
+  {
+    "paper_id": "arxiv:2610.23841",
+    "pushed_on": "2026-10-19",
+    "bucket": "top_ranked",
+    "title": "StopWatch: Goal Grounding for Object-goal Navigation"
+  },
+  {
+    "paper_id": "arxiv:2610.18991",
+    "pushed_on": "2026-10-19",
+    "bucket": "top_ranked",
+    "title": "Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control"
   }
 ]
