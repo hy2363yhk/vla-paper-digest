@@ -4198,5 +4198,35 @@
     "pushed_on": "2026-10-19",
     "bucket": "top_ranked",
     "title": "Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control"
+  },
+  {
+    "paper_id": "arxiv:2610.25711",
+    "pushed_on": "2026-10-20",
+    "bucket": "top_ranked",
+    "title": "SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance"
+  },
+  {
+    "paper_id": "arxiv:2610.24981",
+    "pushed_on": "2026-10-20",
+    "bucket": "top_ranked",
+    "title": "Dream What I Can: Sparse Visual Planning for Long-Horizon Robot Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.25660",
+    "pushed_on": "2026-10-20",
+    "bucket": "top_ranked",
+    "title": "FluidGen: Physics-Aware Fluid Video Generation via Motion-Guided Post-Training"
+  },
+  {
+    "paper_id": "arxiv:2610.26564",
+    "pushed_on": "2026-10-20",
+    "bucket": "top_ranked",
+    "title": "PrismWAM: Decoupling State Representations in World Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.26455",
+    "pushed_on": "2026-10-20",
+    "bucket": "top_ranked",
+    "title": "ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning"
   }
 ]
