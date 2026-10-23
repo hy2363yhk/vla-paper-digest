@@ -4288,5 +4288,35 @@
     "pushed_on": "2026-10-22",
     "bucket": "top_ranked",
     "title": "Scaling Online Optimal Transport Minibatches for Flow Matching"
+  },
+  {
+    "paper_id": "arxiv:2610.31569",
+    "pushed_on": "2026-10-23",
+    "bucket": "top_ranked",
+    "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.30949",
+    "pushed_on": "2026-10-23",
+    "bucket": "top_ranked",
+    "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems"
+  },
+  {
+    "paper_id": "arxiv:2610.21266",
+    "pushed_on": "2026-10-23",
+    "bucket": "top_ranked",
+    "title": "TRACER: A Multimodal Harness for Patient Care in Hospitals"
+  },
+  {
+    "paper_id": "arxiv:2610.15582",
+    "pushed_on": "2026-10-23",
+    "bucket": "top_ranked",
+    "title": "Inverse Garment Design with Visual Agents"
+  },
+  {
+    "paper_id": "arxiv:2610.26845",
+    "pushed_on": "2026-10-23",
+    "bucket": "top_ranked",
+    "title": "Train An Imaginative Agent"
   }
 ]
