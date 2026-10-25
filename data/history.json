@@ -4318,5 +4318,35 @@
     "pushed_on": "2026-10-23",
     "bucket": "top_ranked",
     "title": "Train An Imaginative Agent"
+  },
+  {
+    "paper_id": "26a8b9ac73d92a13ce9792cc6a543c8b1c60558d",
+    "pushed_on": "2026-10-25",
+    "bucket": "top_ranked",
+    "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.15290",
+    "pushed_on": "2026-10-25",
+    "bucket": "top_ranked",
+    "title": "Co-DSL: Human-LLM Co-design of Reusable Spatial Concepts for Layout Generation"
+  },
+  {
+    "paper_id": "arxiv:2610.22497",
+    "pushed_on": "2026-10-25",
+    "bucket": "top_ranked",
+    "title": "Generative Value Classifier"
+  },
+  {
+    "paper_id": "arxiv:2610.23653",
+    "pushed_on": "2026-10-25",
+    "bucket": "top_ranked",
+    "title": "A Language-Informed Loss for Visual Generation"
+  },
+  {
+    "paper_id": "arxiv:2610.24461",
+    "pushed_on": "2026-10-25",
+    "bucket": "top_ranked",
+    "title": "Measuring Empowerment from Offline Data for Intrinsically Motivated Exploration"
   }
 ]
