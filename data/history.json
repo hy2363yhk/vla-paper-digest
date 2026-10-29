@@ -4378,5 +4378,35 @@
     "pushed_on": "2026-10-27",
     "bucket": "top_ranked",
     "title": "$\\omega$-EVA: Envision, Verify, and Act with Latent Interactive World Models"
+  },
+  {
+    "paper_id": "68774949166f4d94c8ed4b18a2250e05d551e4eb",
+    "pushed_on": "2026-10-29",
+    "bucket": "top_ranked",
+    "title": "ChunkAct: Action Chunking for Agentic Robotics"
+  },
+  {
+    "paper_id": "arxiv:2610.36539",
+    "pushed_on": "2026-10-29",
+    "bucket": "top_ranked",
+    "title": "CARD: Contact-Anchored Retargeting for Dexterous Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2610.36662",
+    "pushed_on": "2026-10-29",
+    "bucket": "top_ranked",
+    "title": "SWIM: Learning What Matters from Behaviors for JEPA World Models"
+  },
+  {
+    "paper_id": "arxiv:2610.29237",
+    "pushed_on": "2026-10-29",
+    "bucket": "top_ranked",
+    "title": "MA-UITD: Offline Multi-Agent Reward Inference for Characterizing Continuous Social Behavior"
+  },
+  {
+    "paper_id": "arxiv:2610.31275",
+    "pushed_on": "2026-10-29",
+    "bucket": "top_ranked",
+    "title": "Learning Robot Behavior Priors from Non-Robotic Synthetic Data"
   }
 ]
