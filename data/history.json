@@ -4438,5 +4438,35 @@
     "pushed_on": "2026-10-30",
     "bucket": "top_ranked",
     "title": "ProductWebBench: Evaluating Website Continuity Beyond Task Completion"
+  },
+  {
+    "paper_id": "58f8d85aa1d5eb1272c795523a70273c0f8f6dad",
+    "pushed_on": "2026-10-31",
+    "bucket": "top_ranked",
+    "title": "Cross-Embodiment Robot Foundation World Models with Latent Actions"
+  },
+  {
+    "paper_id": "arxiv:2610.33191",
+    "pushed_on": "2026-10-31",
+    "bucket": "top_ranked",
+    "title": "Whale You Go Green? Immediate and Longitudinal Effects of Embodied Conversational AI Avatars on Sustainable Behavioral Tendencies and Pro-Environmental Attitudes"
+  },
+  {
+    "paper_id": "arxiv:2610.39054",
+    "pushed_on": "2026-10-31",
+    "bucket": "top_ranked",
+    "title": "Robotic Data Inoculation"
+  },
+  {
+    "paper_id": "arxiv:2610.38496",
+    "pushed_on": "2026-10-31",
+    "bucket": "top_ranked",
+    "title": "Accelerating Nonlinear MPC by Behavior Cloning with Separated Timescales: Application to Nuclear Reactor Load-Following"
+  },
+  {
+    "paper_id": "arxiv:2610.37917",
+    "pushed_on": "2026-10-31",
+    "bucket": "top_ranked",
+    "title": "What Actually Matters? A Paired Evaluation of Inference Settings for $π_{0.5}$ on BEHAVIOR-1K"
   }
 ]
