@@ -4468,5 +4468,35 @@
     "pushed_on": "2026-10-31",
     "bucket": "top_ranked",
     "title": "What Actually Matters? A Paired Evaluation of Inference Settings for $π_{0.5}$ on BEHAVIOR-1K"
+  },
+  {
+    "paper_id": "arxiv:2610.39280",
+    "pushed_on": "2026-11-01",
+    "bucket": "top_ranked",
+    "title": "Cross-Controller Transfer via In-Context Behavior Adaptation"
+  },
+  {
+    "paper_id": "2fb099c4324ea1a39b9ee310391f51111b6c53bb",
+    "pushed_on": "2026-11-01",
+    "bucket": "top_ranked",
+    "title": "When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "afb3a1a8b3758cb65a48b7d486f9ac8027df2c1e",
+    "pushed_on": "2026-11-01",
+    "bucket": "top_ranked",
+    "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning"
+  },
+  {
+    "paper_id": "arxiv:2610.14896",
+    "pushed_on": "2026-11-01",
+    "bucket": "top_ranked",
+    "title": "Test-Time Compute for Humanoid Behavior Foundation Models"
+  },
+  {
+    "paper_id": "bc6bcd51a83dec3e87a4321a0bc48053928e3e82",
+    "pushed_on": "2026-11-01",
+    "bucket": "top_ranked",
+    "title": "Robot-Powered Data Flywheels: Deploying Robots in the Wild for Continual Data Collection and Foundation Model Adaptation"
   }
 ]
