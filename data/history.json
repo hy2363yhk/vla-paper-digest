@@ -4528,5 +4528,35 @@
     "pushed_on": "2026-11-02",
     "bucket": "top_ranked",
     "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis"
+  },
+  {
+    "paper_id": "arxiv:2611.01560",
+    "pushed_on": "2026-11-03",
+    "bucket": "top_ranked",
+    "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+  },
+  {
+    "paper_id": "arxiv:2611.03501",
+    "pushed_on": "2026-11-03",
+    "bucket": "top_ranked",
+    "title": "When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning"
+  },
+  {
+    "paper_id": "arxiv:2611.02546",
+    "pushed_on": "2026-11-03",
+    "bucket": "top_ranked",
+    "title": "Energy-Based Policy Orchestration"
+  },
+  {
+    "paper_id": "arxiv:2611.00522",
+    "pushed_on": "2026-11-03",
+    "bucket": "top_ranked",
+    "title": "Behavioral Steering of Vision-Language-Action Models in the Low-Parameter Regime"
+  },
+  {
+    "paper_id": "arxiv:2611.02160",
+    "pushed_on": "2026-11-03",
+    "bucket": "top_ranked",
+    "title": "Value Forcing: Aligning Return Distributions at All Noise Levels"
   }
 ]
