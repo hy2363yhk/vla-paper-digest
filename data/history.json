@@ -4558,5 +4558,35 @@
     "pushed_on": "2026-11-03",
     "bucket": "top_ranked",
     "title": "Value Forcing: Aligning Return Distributions at All Noise Levels"
+  },
+  {
+    "paper_id": "arxiv:2611.05295",
+    "pushed_on": "2026-11-04",
+    "bucket": "top_ranked",
+    "title": "GSBR: Geometric Support Behavior Regularization for Online RL"
+  },
+  {
+    "paper_id": "arxiv:2611.01860",
+    "pushed_on": "2026-11-04",
+    "bucket": "top_ranked",
+    "title": "Advances in Agentic Computer Graphics"
+  },
+  {
+    "paper_id": "arxiv:2611.01565",
+    "pushed_on": "2026-11-04",
+    "bucket": "top_ranked",
+    "title": "Beyond Validation Loss: Coverage and Reliability Dynamics in Robot Policy Pretraining"
+  },
+  {
+    "paper_id": "arxiv:2611.05266",
+    "pushed_on": "2026-11-04",
+    "bucket": "top_ranked",
+    "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning"
+  },
+  {
+    "paper_id": "504cc1ffe0ba1468679b32072ca18e308a38c0b8",
+    "pushed_on": "2026-11-04",
+    "bucket": "top_ranked",
+    "title": "Accelerating VLA Inference with Perturbation Informed Execution"
   }
 ]
