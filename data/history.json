@@ -4588,5 +4588,35 @@
     "pushed_on": "2026-11-04",
     "bucket": "top_ranked",
     "title": "Accelerating VLA Inference with Perturbation Informed Execution"
+  },
+  {
+    "paper_id": "5497bc11f1b7274fe5cf52ad878dfa32d5eebdec",
+    "pushed_on": "2026-11-05",
+    "bucket": "top_ranked",
+    "title": "AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge"
+  },
+  {
+    "paper_id": "arxiv:2611.06184",
+    "pushed_on": "2026-11-05",
+    "bucket": "top_ranked",
+    "title": "Can Astra Solve RoboMME without Breaking the Bank?"
+  },
+  {
+    "paper_id": "arxiv:2611.06296",
+    "pushed_on": "2026-11-05",
+    "bucket": "top_ranked",
+    "title": "Multi-Resident Data Association in Smart Homes via MDP Modeling and Behavior Cloning"
+  },
+  {
+    "paper_id": "arxiv:2611.06627",
+    "pushed_on": "2026-11-05",
+    "bucket": "top_ranked",
+    "title": "Interactive World Simulation with Cosmos for Physical AI"
+  },
+  {
+    "paper_id": "d3ff4de5c29beb8175e506807b47c22bef7ca7a2",
+    "pushed_on": "2026-11-05",
+    "bucket": "top_ranked",
+    "title": "Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information"
   }
 ]
