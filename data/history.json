@@ -4618,5 +4618,35 @@
     "pushed_on": "2026-11-05",
     "bucket": "top_ranked",
     "title": "Selective Cross-View Consistency for World Action Models: Held-Out Viewpoint Robustness Without Test-Time Camera Information"
+  },
+  {
+    "paper_id": "arxiv:2611.07245",
+    "pushed_on": "2026-11-06",
+    "bucket": "top_ranked",
+    "title": "MAC-v2: Long-horizon model-based value expansion from pixels"
+  },
+  {
+    "paper_id": "arxiv:2611.08209",
+    "pushed_on": "2026-11-06",
+    "bucket": "top_ranked",
+    "title": "RoboARCade: Benchmarking Agentic Robot Control"
+  },
+  {
+    "paper_id": "ef8107ad5e59f29ae1485b73a66f0efc79dcdb82",
+    "pushed_on": "2026-11-06",
+    "bucket": "top_ranked",
+    "title": "Rolling-WAM: World Action Models with Rolling Imagination"
+  },
+  {
+    "paper_id": "arxiv:2611.08407",
+    "pushed_on": "2026-11-06",
+    "bucket": "top_ranked",
+    "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction"
+  },
+  {
+    "paper_id": "e5cbb9dd035a4bee10e6f8e3fe2e147e31764fae",
+    "pushed_on": "2026-11-06",
+    "bucket": "top_ranked",
+    "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics"
   }
 ]
