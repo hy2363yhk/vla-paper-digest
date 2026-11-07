@@ -4648,5 +4648,35 @@
     "pushed_on": "2026-11-06",
     "bucket": "top_ranked",
     "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics"
+  },
+  {
+    "paper_id": "879f121b52a439c8503797ed153ee518aea89bce",
+    "pushed_on": "2026-11-07",
+    "bucket": "top_ranked",
+    "title": "MAC-v2: Long-horizon model-based value expansion from pixels"
+  },
+  {
+    "paper_id": "dcf1d494f79430982078c8fc4591538f540db59a",
+    "pushed_on": "2026-11-07",
+    "bucket": "top_ranked",
+    "title": "Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation"
+  },
+  {
+    "paper_id": "d8fd5cc834f96990fb3431b29b673fa9e0a9d8e8",
+    "pushed_on": "2026-11-07",
+    "bucket": "top_ranked",
+    "title": "Test-Time Improvement of VLA Policies via Selected Diffusion Noise for Spurious-Robust Action Smoothing"
+  },
+  {
+    "paper_id": "cf11329484c8ef72adc0fa3ef95e5d0e4137f50a",
+    "pushed_on": "2026-11-07",
+    "bucket": "top_ranked",
+    "title": "PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations"
+  },
+  {
+    "paper_id": "dde48515ee07cef2642e60db5aa92be8f709bc3f",
+    "pushed_on": "2026-11-07",
+    "bucket": "top_ranked",
+    "title": "Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors"
   }
 ]
