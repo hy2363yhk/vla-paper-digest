@@ -4678,5 +4678,35 @@
     "pushed_on": "2026-11-07",
     "bucket": "top_ranked",
     "title": "Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors"
+  },
+  {
+    "paper_id": "arxiv:2610.18517",
+    "pushed_on": "2026-11-08",
+    "bucket": "top_ranked",
+    "title": "Imprinting: Knowledge Distillation Can Shift Student Behavior"
+  },
+  {
+    "paper_id": "arxiv:2610.17966",
+    "pushed_on": "2026-11-08",
+    "bucket": "top_ranked",
+    "title": "BELT : BEhavior-Aligned Low-Rank KV Cache Compression with Learned Top-k Rank Allocation"
+  },
+  {
+    "paper_id": "arxiv:2610.17607",
+    "pushed_on": "2026-11-08",
+    "bucket": "top_ranked",
+    "title": "Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation"
+  },
+  {
+    "paper_id": "arxiv:2610.36823",
+    "pushed_on": "2026-11-08",
+    "bucket": "top_ranked",
+    "title": "TAPESTRY: A Single Backbone for Video Generation and Robot Control"
+  },
+  {
+    "paper_id": "arxiv:2611.06956",
+    "pushed_on": "2026-11-08",
+    "bucket": "top_ranked",
+    "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning"
   }
 ]
