@@ -4738,5 +4738,35 @@
     "pushed_on": "2026-11-09",
     "bucket": "top_ranked",
     "title": "ULOHA: An Underwater Bimanual Robot System for Robot Learning"
+  },
+  {
+    "paper_id": "arxiv:2611.10949",
+    "pushed_on": "2026-11-12",
+    "bucket": "top_ranked",
+    "title": "Explicitly capturing demonstrator multi-modality for distillation into diffusion policies"
+  },
+  {
+    "paper_id": "9d2990f7b9d42db23b076caa9deb99952754853e",
+    "pushed_on": "2026-11-12",
+    "bucket": "top_ranked",
+    "title": "IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies"
+  },
+  {
+    "paper_id": "arxiv:2611.13818",
+    "pushed_on": "2026-11-12",
+    "bucket": "top_ranked",
+    "title": "WAM is capable in BEHAVIOR-1K: the 2nd-place solution to the 2026 BEHAVIOR Challenge"
+  },
+  {
+    "paper_id": "arxiv:2611.12177",
+    "pushed_on": "2026-11-12",
+    "bucket": "top_ranked",
+    "title": "Embodied First Exam"
+  },
+  {
+    "paper_id": "arxiv:2611.10148",
+    "pushed_on": "2026-11-12",
+    "bucket": "top_ranked",
+    "title": "BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans"
   }
 ]
