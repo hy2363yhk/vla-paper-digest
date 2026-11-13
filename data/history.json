@@ -4768,5 +4768,35 @@
     "pushed_on": "2026-11-12",
     "bucket": "top_ranked",
     "title": "BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans"
+  },
+  {
+    "paper_id": "2a75f4e8fca0f7c3921ad5828e50cbb3e3e5b2a2",
+    "pushed_on": "2026-11-13",
+    "bucket": "top_ranked",
+    "title": "Spectral-Temporal Conditioning: A Frequency-Domain Framework for Robust Robotic Imitation Learning"
+  },
+  {
+    "paper_id": "arxiv:2611.14834",
+    "pushed_on": "2026-11-13",
+    "bucket": "top_ranked",
+    "title": "Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2611.17110",
+    "pushed_on": "2026-11-13",
+    "bucket": "top_ranked",
+    "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models"
+  },
+  {
+    "paper_id": "arxiv:2611.09476",
+    "pushed_on": "2026-11-13",
+    "bucket": "top_ranked",
+    "title": "LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understanding"
+  },
+  {
+    "paper_id": "arxiv:2611.08790",
+    "pushed_on": "2026-11-13",
+    "bucket": "top_ranked",
+    "title": "SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery"
   }
 ]
