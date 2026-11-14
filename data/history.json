@@ -4798,5 +4798,35 @@
     "pushed_on": "2026-11-13",
     "bucket": "top_ranked",
     "title": "SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery"
+  },
+  {
+    "paper_id": "arxiv:2611.14432",
+    "pushed_on": "2026-11-14",
+    "bucket": "top_ranked",
+    "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge"
+  },
+  {
+    "paper_id": "arxiv:2611.11947",
+    "pushed_on": "2026-11-14",
+    "bucket": "top_ranked",
+    "title": "The Relative Value of Demonstration Data: Execution Time Limits and Operator Mixtures in Behavior Cloning"
+  },
+  {
+    "paper_id": "fda43008a82c1047943654a8a65c2e7080461c1b",
+    "pushed_on": "2026-11-14",
+    "bucket": "top_ranked",
+    "title": "Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning"
+  },
+  {
+    "paper_id": "openreview:i3e92uSZCp",
+    "pushed_on": "2026-11-14",
+    "bucket": "top_ranked",
+    "title": "Language Guided Skill Discovery"
+  },
+  {
+    "paper_id": "openreview:oOCa85Z1Ho",
+    "pushed_on": "2026-11-14",
+    "bucket": "top_ranked",
+    "title": "Steerable Scene Generation with Post Training and Inference-Time Search"
   }
 ]
