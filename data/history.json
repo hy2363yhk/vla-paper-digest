@@ -4828,5 +4828,35 @@
     "pushed_on": "2026-11-14",
     "bucket": "top_ranked",
     "title": "Steerable Scene Generation with Post Training and Inference-Time Search"
+  },
+  {
+    "paper_id": "528d8a1c9ff724b4412c87c00ce64e863b31d408",
+    "pushed_on": "2026-11-15",
+    "bucket": "top_ranked",
+    "title": "Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models"
+  },
+  {
+    "paper_id": "arxiv:2610.30630",
+    "pushed_on": "2026-11-15",
+    "bucket": "top_ranked",
+    "title": "Interpreting Model Reasoning through Behavioral Counterfactuals"
+  },
+  {
+    "paper_id": "arxiv:2610.37267",
+    "pushed_on": "2026-11-15",
+    "bucket": "top_ranked",
+    "title": "GradCO: Behavior-Aware Gradient-Conflict Offloading for Text-Based Person Anomaly Search"
+  },
+  {
+    "paper_id": "arxiv:2610.41480",
+    "pushed_on": "2026-11-15",
+    "bucket": "top_ranked",
+    "title": "KV-Cache Patching: Tracing How and Where Fine-Tuned Behaviors Arise"
+  },
+  {
+    "paper_id": "openreview:HprBJupvvM",
+    "pushed_on": "2026-11-15",
+    "bucket": "top_ranked",
+    "title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation"
   }
 ]
