@@ -4858,5 +4858,35 @@
     "pushed_on": "2026-11-15",
     "bucket": "top_ranked",
     "title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2611.17626",
+    "pushed_on": "2026-11-16",
+    "bucket": "top_ranked",
+    "title": "Joint World Action Models through Differentiable Trajectory Optimization"
+  },
+  {
+    "paper_id": "arxiv:2611.17442",
+    "pushed_on": "2026-11-16",
+    "bucket": "top_ranked",
+    "title": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search"
+  },
+  {
+    "paper_id": "arxiv:2611.02395",
+    "pushed_on": "2026-11-16",
+    "bucket": "top_ranked",
+    "title": "Solver-Like Behavior in Large Language Models as Formalizers"
+  },
+  {
+    "paper_id": "arxiv:2611.04395",
+    "pushed_on": "2026-11-16",
+    "bucket": "top_ranked",
+    "title": "Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior"
+  },
+  {
+    "paper_id": "arxiv:2611.13993",
+    "pushed_on": "2026-11-16",
+    "bucket": "top_ranked",
+    "title": "Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics"
   }
 ]
