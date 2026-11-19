@@ -4918,5 +4918,35 @@
     "pushed_on": "2026-11-17",
     "bucket": "top_ranked",
     "title": "FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots"
+  },
+  {
+    "paper_id": "arxiv:2611.22001",
+    "pushed_on": "2026-11-19",
+    "bucket": "top_ranked",
+    "title": "DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects"
+  },
+  {
+    "paper_id": "arxiv:2611.21919",
+    "pushed_on": "2026-11-19",
+    "bucket": "top_ranked",
+    "title": "ALOHA Lightning: Learning Fast and Precise Manipulation"
+  },
+  {
+    "paper_id": "arxiv:2611.24409",
+    "pushed_on": "2026-11-19",
+    "bucket": "top_ranked",
+    "title": "Risk-Triggered Search: Behavior-Preserving Safe Control"
+  },
+  {
+    "paper_id": "0d25ca1d9d95b64273e12b341283b4f1920e719a",
+    "pushed_on": "2026-11-19",
+    "bucket": "top_ranked",
+    "title": "Staircase Policy: Streaming Inference for World-Action Models with Large Action Chunks"
+  },
+  {
+    "paper_id": "arxiv:2611.22874",
+    "pushed_on": "2026-11-19",
+    "bucket": "top_ranked",
+    "title": "Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration"
   }
 ]
